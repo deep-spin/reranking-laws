@@ -1,0 +1,7 @@
+BLEU = 20.65 49.5/26.0/15.7/9.9 (BP = 0.977 ratio = 0.977 hyp_len = 1157722 ref_len = 1184950)
+chrF2 = 49.87
+CometKiwi = 0.7963500852571335
+Comet = 0.8413255706444828
+non-ml metric signatures
+nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.1
+nrefs:1|case:mixed|eff:yes|nc:6|nw:0|space:no|version:2.4.1

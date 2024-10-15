@@ -1,0 +1,971 @@
+and are you having any of the following symptoms with your chest pain
+and are you having a runny nose?
+and does this pain move from your chest?
+and drink lots of fluids
+and she is sorta have the same symptoms
+and tell me what symptoms are you having now?
+and your symptoms do not go away in five days
+any sharp pain on your left side of your chest?
+are you having any difficulty breathing now
+besides the diabetes do you have other problems or important diseases?
+but if you have the cough
+cause they're having a cough
+do you have any blood pressure problem as far as you know?
+do your relatives have the same symptoms
+have a dry cough a cold and runny nose vomiting diarrhea
+i don't think i have high blood pressure
+i feel a pain in the chest here in the front part of the chest
+i had a short sharp pain in my chest
+i have hay fever though too
+i have made on the body around the chest area?
+i see it going from the center of your chest going up to your neck
+it hurts in the chest
+it is occurring right in the middle of my chest
+it is right in the center of my chest
+it sounds like you just may have the garden variety cold or a flu
+i will send you an image
+i will send you an image on your screen
+most of the time it is this type of chest pain
+my sister has similar symptoms
+now i send you an image
+or if you have high blood pressure
+so your chest pain started this morning
+the fever started two days ago
+the muscle pains with the hay fever
+well from my point of view it is a little flu
+well madam from listening to your symptoms it sounds like you've got one of the flu viruses
+you are probably having chest pain
+Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020
+On March 11, 2020, the World Health Organization declared Coronavirus Disease 2019 (COVID-19) a pandemic.
+As of March 28, 2020, a total of 571,678 confirmed COVID-19 cases and 26,494 deaths have been reported worldwide.
+Reports from China and Italy suggest that risk factors for severe disease include older age and the presence of at least one of several underlying health conditions.
+U.S. older adults, including those aged ≥65 years and particularly those aged ≥85 years, also appear to be at higher risk for severe COVID-19–associated outcomes; however, data describing underlying health conditions among U.S. COVID-19 patients have not yet been reported.
+As of March 28, 2020, U.S. states and territories have reported 122,653 U.S. COVID-19 cases to CDC, including 7,162 (5.8%) for whom data on underlying health conditions and other known risk factors for severe outcomes from respiratory infections were reported.
+Among these 7,162 cases, 2,692 (37.6%) patients had one or more underlying health condition or risk factor, and 4,470 (62.4%) had none of these conditions reported.
+The percentage of COVID-19 patients with at least one underlying health condition or risk factor was higher among those requiring intensive care unit (ICU) admission (358 of 457, 78%) and those requiring hospitalization without ICU admission (732 of 1,037, 71%) than that among those who were not hospitalized (1,388 of 5,143, 27%).
+The most commonly reported conditions were diabetes mellitus, chronic lung disease, and cardiovascular disease.
+These preliminary findings suggest that in the United States, persons with underlying health conditions or other recognized risk factors for severe outcomes from respiratory infections appear to be at a higher risk for severe disease from COVID-19 than are persons without these conditions.
+Data from laboratory-confirmed COVID-19 cases reported to CDC from 50 states, four U.S. territories and affiliated islands, the District of Columbia, and New York City with February 12–March 28, 2020 onset dates were analyzed.
+Cases among persons repatriated to the United States from Wuhan, China, and the Diamond Princess cruise ship were excluded.
+For cases with missing onset dates, date of onset was estimated by subtracting 4 days (median interval from symptom onset to specimen collection date among cases with known dates in these data) from the earliest specimen collection.
+Public health departments reported cases to CDC using a standardized case report form that captures information (yes, no, or unknown) on the following conditions and potential risk factors: chronic lung disease (inclusive of asthma, chronic obstructive pulmonary disease [COPD], and emphysema); diabetes mellitus; cardiovascular disease; chronic renal disease; chronic liver disease; immunocompromised condition; neurologic disorder, neurodevelopmental, or intellectual disability; pregnancy; current smoking status; former smoking status; or other chronic disease.
+Data reported to CDC are preliminary and can be updated by health departments over time; critical data elements might be missing at the time of initial report; thus, this analysis is descriptive, and no statistical comparisons could be made.
+The percentages of patients of all ages with underlying health conditions who were not hospitalized, hospitalized without ICU admission, and hospitalized with ICU admission were calculated.
+Percentages of hospitalizations with and without ICU admission were estimated for persons aged ≥19 years with and without underlying health conditions.
+This part of the analysis was limited to persons aged ≥19 years because of the small sample size of cases in children with reported underlying health conditions (N = 32).
+To account for missing data among these preliminary reports, ranges were estimated with a lower bound including cases with both known and unknown status for hospitalization with and without ICU admission as the denominator and an upper bound using only cases with known outcome status as the denominator.
+Because of small sample size and missing data on underlying health conditions among COVID-19 patients who died, case-fatality rates for persons with and without underlying conditions were not estimated.
+As of March 28, 2020, a total of 122,653 laboratory-confirmed COVID-19 cases (Figure) and 2,112 deaths were reported to CDC.
+Case report forms were submitted to CDC for 74,439 (60.7%) cases.
+Data on presence or absence of underlying health conditions and other recognized risk factors for severe outcomes from respiratory infections (i.e., smoking and pregnancy) were available for 7,162 (5.8%) patients (Table 1).
+Approximately one third of these patients (2,692, 37.6%), had at least one underlying condition or risk factor.
+Diabetes mellitus (784, 10.9%), chronic lung disease (656, 9.2%), and cardiovascular disease (647, 9.0%) were the most frequently reported conditions among all cases.
+Among 457 ICU admissions and 1,037 non-ICU hospitalizations, 358 (78%) and 732 (71%), respectively occurred among persons with one or more reported underlying health condition.
+In contrast, 1,388 of 5,143 (27%) COVID-19 patients who were not hospitalized were reported to have at least one underlying health condition.
+Among patients aged ≥19 years, the percentage of non-ICU hospitalizations was higher among those with underlying health conditions (27.3%–29.8%) than among those without underlying health conditions (7.2%–7.8%); the percentage of cases that resulted in an ICU admission was also higher for those with underlying health conditions (13.3%–14.5%) than those without these conditions (2.2%–2.4%) (Table 2).
+Small numbers of COVID-19 patients aged &lt; 19 years were reported to be hospitalized (48) or admitted to an ICU (eight).
+In contrast, 335 patients aged &lt; 19 years were not hospitalized and 1,342 had missing data on hospitalization.
+Among all COVID-19 patients with complete information on underlying conditions or risk factors, 184 deaths occurred (all among patients aged ≥19 years); 173 deaths (94%) were reported among patients with at least one underlying condition.
+Among 122,653 U.S. COVID-19 cases reported to CDC as of March 28, 2020, 7,162 (5.8%) patients had data available pertaining to underlying health conditions or potential risk factors; among these patients, higher percentages of patients with underlying conditions were admitted to the hospital and to an ICU than patients without reported underlying conditions.
+These results are consistent with findings from China and Italy, which suggest that patients with underlying health conditions and risk factors, including, but not limited to, diabetes mellitus, hypertension, COPD, coronary artery disease, cerebrovascular disease, chronic renal disease, and smoking, might be at higher risk for severe disease or death from COVID-19.
+This analysis was limited by small numbers and missing data because of the burden placed on reporting health departments with rapidly rising case counts, and these findings might change as additional data become available.
+It is not yet known whether the severity or level of control of underlying health conditions affects the risk for severe disease associated with COVID-19.
+Many of these underlying health conditions are common in the United States: based on self-reported 2018 data, the prevalence of diagnosed diabetes among U.S. adults was 10.1%, and the U.S. age-adjusted prevalence of all types of heart disease (excluding hypertension without other heart disease) was 10.6% in 2017.
+The age-adjusted prevalence of COPD among U.S. adults is 5.9%, and in 2018, the U.S. estimated prevalence of current asthma among persons of all ages was 7.9%.
+CDC continues to develop and update resources for persons with underlying health conditions to reduce the risk of acquiring COVID-19.
+The estimated higher prevalence of these conditions among those in this early group of U.S. COVID-19 patients and the potentially higher risk for more severe disease from COVID-19 associated with the presence of underlying conditions highlight the importance of COVID-19 prevention in persons with underlying conditions.
+The findings in this report are subject to at least six limitations.
+First, these data are preliminary, and the analysis was limited by missing data related to the health department reporting burden associated with rapidly rising case counts and delays in completion of information requiring medical chart review; these findings might change as additional data become available.
+Information on underlying conditions was only available for 7,162 (5.8%) of 122,653 cases reported to CDC.
+It cannot be assumed that those with missing information are similar to those with data on either hospitalizations or underlying health conditions.
+Second, these data are subject to bias in outcome ascertainment because of short follow-up time.
+Some outcomes might be underestimated, and long-term outcomes cannot be assessed in this analysis.
+Third, because of the limited availability of testing in many jurisdictions during this period, this analysis is likely biased toward more severe cases, and findings might change as testing becomes more widespread.
+Fourth, because of the descriptive nature of these data, attack rates among persons with and without underlying health conditions could not be compared, and thus the risk difference of severe disease with COVID-19 between these groups could not be estimated.
+Fifth, no conclusions could be drawn about underlying conditions that were not included in the case report form or about different conditions that were reported in a single, umbrella category.
+For example, asthma and COPD were included in a chronic lung disease category.
+Finally, for some underlying health conditions and risk factors, including neurologic disorders, chronic liver disease, being a current smoker, and pregnancy, few severe outcomes were reported; therefore, conclusions cannot be drawn about the risk for severe COVID-19 among persons in these groups.
+Persons in the United States with underlying health conditions appear to be at higher risk for more severe COVID-19, consistent with findings from other countries.
+Persons with underlying health conditions who have symptoms of COVID-19, including fever, cough, or shortness of breath, should immediately contact their health care provider.
+These persons should take steps to protect themselves from COVID-19, through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill.
+Maintaining at least a 30-day supply of medication, a 2-week supply of food and other necessities, and knowledge of COVID-19 symptoms are recommended for those with underlying health conditions.
+All persons should take steps to protect themselves from COVID-19 and to protect others.
+All persons who are ill should stay home, except to get medical care; should not go to work; and should stay away from others.
+This is especially important for those who work with persons with underlying conditions or who otherwise are at high risk for severe outcomes from COVID-19.
+Community mitigation strategies, which aim to slow the spread of COVID-19, are important to protect all persons from COVID-19, especially persons with underlying health conditions and other persons at risk for severe COVID-19–associated disease (https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf).
+What is already known about this topic?
+Published reports from China and Italy suggest that risk factors for severe COVID-19 disease include underlying health conditions, but data describing underlying health conditions among U.S. COVID-19 patients have not yet been reported.
+What is added by this report?
+Based on preliminary U.S. data, persons with underlying health conditions such as diabetes mellitus, chronic lung disease, and cardiovascular disease, appear to be at higher risk for severe COVID-19–associated disease than persons without these conditions.
+What are the implications for public health practice?
+Strategies to protect all persons and especially those with underlying health conditions, including social distancing and handwashing, should be implemented by all communities and all persons to help slow the spread of COVID-19.
+Emergence of a Novel Coronavirus (COVID-19): Protocol for Extending Surveillance Used by the Royal College of General Practitioners Research and Surveillance Centre and Public Health England
+The Royal College of General Practitioners (RCGP) Research and Surveillance Centre (RSC) and Public Health England (PHE) have successfully worked together on the surveillance of influenza and other infectious diseases for over 50 years, including three previous pandemics.
+With the emergence of the international outbreak of the coronavirus infection (COVID-19), a UK national approach to containment has been established to test people suspected of exposure to COVID-19.
+At the same time and separately, the RCGP RSC’s surveillance has been extended to monitor the temporal and geographical distribution of COVID-19 infection in the community as well as assess the effectiveness of the containment strategy.
+The aims of this study are to surveil COVID-19 in both asymptomatic populations and ambulatory cases with respiratory infections, ascertain both the rate and pattern of COVID-19 spread, and assess the effectiveness of the containment policy.
+The RCGP RSC, a network of over 500 general practices in England, extract pseudonymized data weekly.
+This extended surveillance comprises of five components: (1) Recording in medical records of anyone suspected to have or who has been exposed to COVID-19.
+Computerized medical records suppliers have within a week of request created new codes to support this.
+(2) Extension of current virological surveillance and testing people with influenza-like illness or lower respiratory tract infections (LRTI)—with the caveat that people suspected to have or who have been exposed to COVID-19 should be referred to the national containment pathway and not seen in primary care.
+(3) Serology sample collection across all age groups.
+This will be an extra blood sample taken from people who are attending their general practice for a scheduled blood test.
+The 100 general practices currently undertaking annual influenza virology surveillance will be involved in the extended virological and serological surveillance.
+(4) Collecting convalescent serum samples.
+We have the opportunity to escalate the data extraction to twice weekly if needed.
+Swabs and sera will be analyzed in PHE reference laboratories.
+General practice clinical system providers have introduced an emergency new set of clinical codes to support COVID-19 surveillance.
+Additionally, practices participating in current virology surveillance are now taking samples for COVID-19 surveillance from low-risk patients presenting with LRTIs.
+Within the first 2 weeks of setup of this surveillance, we have identified 3 cases: 1 through the new coding system, the other 2 through the extended virology sampling.
+We have rapidly converted the established national RCGP RSC influenza surveillance system into one that can test the effectiveness of the COVID-19 containment policy.
+The extended surveillance has already seen the use of new codes with 3 cases reported.
+Rapid sharing of this protocol should enable scientific critique and shared learning.
+The Royal College of General Practitioners (RCGP) Research and Surveillance Centre (RSC) is a network of general practices (GPs) with a nationally representative population that provides pseudonymized data for weekly surveillance of infectious diseases.
+The disease surveillance program is commissioned by Public Health England (PHE) and covers 37 infectious diseases, including influenza.
+The RCGP RSC and PHE have an established collaboration of over 50 years in influenza and respiratory disease surveillance and are now in their 53rd season of surveillance and analysis.
+The RCGP RSC extracts pseudonymized data from a nationally representative sample of over 500 urban and nonurban GPs each week covering a population of over 4 million.
+Data from these practices are reported online in a weekly return, which includes monitoring weekly rates of influenza-like illness (ILI) and other communicable and respiratory diseases in England.
+We also produce an annual report.
+The RCGP RSC data set includes all coded data and all prescribed items including vaccine exposure.
+The RCGP RSC conducts virology surveillance each influenza season, with 100 GPs participating in the 2019-2020 season (Figure 1).
+These virology sampling practices are also recruited to be nationally representative (Figure 1).
+GPs take nasopharyngeal swabs from persons showing acute respiratory illness within 7 days of the onset of symptoms.
+Nasopharyngeal swabs are taken from children younger than 5 years showing symptoms of acute bronchitis or bronchiolitis.
+Additionally, nasopharyngeal samples are taken from anyone 5 years and older showing acute onset of ILI and respiratory synctial virus.
+Swabs are tested at the PHE Respiratory Virus Unit for influenza to monitor positivity rates and circulating strains, as well as for measuring vaccine effectiveness.
+The RCGP RSC successfully conducted a pilot collecting serological samples from adults and linking them to a patient’s medical records during the 2018-2019 influenza season.
+This pilot was in collaboration with the PHE Seroepidemiology Unit and added to the residual blood samples submitted to PHE by National Health Service (NHS) laboratories.
+Serology can provide important information about background population immunity, and sentinel networks can provide a mechanism for systematic data collection and linkage to medical records and health outcomes.
+The serology pilot has demonstrated the ability of the network to collect serology samples in adults.
+With the COVID-19 outbreak, PHE and RCGP RSC have adapted existing influenza surveillance to monitor the spread of COVID-19 in the community, and this protocol sets out the basis for that collaboration.
+The primary national strategy for COVID-19 infection is containment, with patients who are at high risk managed via the telephone help system NHS111 and the PHE health protection teams, but the RCGP RSC surveillance is entirely separate.
+The RCGP RSC, by extending its established work, will provide virological and serological surveillance to monitor the temporal and geographical distribution of COVID-19 infection in the community, and assess the effectiveness of the containment strategy.
+We would not be working in isolation on this research.
+We will share the protocol with UK colleagues and the I-MOVE consortium who have recently obtained EU Horizon 2020 funding from the stream “Advancing knowledge for the clinical and public health response to the novel coronavirus epidemic”.
+It is anticipated that great efficiencies in project management will result through this collaboration than that obtained from countries acting alone.
+The aim of this study is to identify whether there is undetected community transmission of COVID-19, estimate population susceptibility, and monitor the temporal and geographical distribution of COVID-19 infection in the community.
+The objectives of this study are as follows:
+To monitor the burden of suspected COVID-19 activity in the community through primary care surveillance and clinical coding of possible COVID-19 cases referred into the containment pathway
+To provide virological evidence on the presence and extent of undetected community transmission of COVID-19 and monitor positivity rates among individuals presenting ILI or acute respiratory tract infections to primary care
+To estimate baseline susceptibility to COVID-19 in the community and estimate both symptomatic and asymptomatic exposure rates in the population through seroprevalence monitoring
+To pilot implementation of a scheme for collection of convalescent sera with antibody profiles among recovered cases of COVID-19 discharged to the community
+We intend to capture the following.
+Clinical workload related to reports of COVID-19 using the codes created to flag cases, those being assessed and where the infection is located are excluded (Figures 2-​-44)
+Foreign countries visited in the last 28 days
+Existing codes that may have utility (Tables 1-​-3).3).
+Many GPs and primary care teams may not realize that important relevant data can be coded.
+There is also the potential during any pandemic to monitor the effectiveness of any transmission control measures.
+Reliable coding of letters and test results that will show an infection has become either confirmed or excluded
+The methods will follow the approach used in the current influenza surveillance system and recent serology study, and includes five components: (1) primary care clinical surveillance; (2) virological surveillance; (3) population serological surveillance; (4) convalescent sera in cases; and (5) data curation.
+The NHS uses the Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT) system of coding, which is normally only updated twice annually.
+There was added complexity as some computerized medical record (CMR) suppliers use the Read coding systems (Read clinical terms version 3 – CTv3), which is no longer updated.
+Additionally, there were no clinical codes to record COVID-19 in early February 2020.
+Therefore, the two main GP system suppliers added the five terms shown in Table 4 as system-wide local codes.
+A UK emergency release of SNOMED CT concepts for COVID-19 was also subsequently made available across all CMR systems (Table 4).
+The intention is that these will eventually be mapped to the new SNOMED CT concepts as they become available, allowing recording of relevant data (Multimedia Appendix 1).
+The key requirements for this release were the ability to code (Table 4) a case of COVID-19, exposure to risk of infection (travel to an area where there may be a higher risk), contact with anyone infected with COVID-19, a report that a person had been tested for COVID-19, and that the disease had been excluded (likely a negative test).
+In addition, practices are now able to code any foreign travel undertaken, including the ability to record visits to multiple countries (implemented February 8, 2020).
+Figures 2-​-44 show the EMIS web implementation.
+Currently, virology samples for influenza surveillance are accompanied by a standard request form.
+For COVID-19, we will create a new request form that will record:
+Date of onset of symptoms
+Diagnosis of any of the following:
+Acute bronchitis/bronchiolitis in those younger than five years
+Lower respiratory tract infection (LRTI)
+History of fever (Y/N); measured (Y/N); if yes, level
+Shortness of breath (Y/N), if measured: oxygen saturation and respiratory rate
+Recent travel (Y/N); if yes, countries visited in last 14 days
+Contact with a named person with confirmed COVID-19 (Y/N) with a free text comment about the level of certainty
+These codes will be grouped ontologically into “definite”, “probable”, “possible”, and “not a case” using our standard approach to grouping codes (Table 5), which has been used previously across disease areas.
+The RCGP RSC definition for ILI is shown in Multimedia Appendix 2.
+Public Presentation of Data Using an Observatory and Dashboards
+We will develop an observatory to present data nationally and a dashboard for feedback to practices about their data quality and collection of virology and serology samples.
+This is based on coding described in Table 4.
+Definite case will be presented on our dashboard as “cases” of COVID-19.
+Possible cases will be presented as “Under investigation” (investigating).
+“Not a case” will be presented as “Excluded”.
+Online data has been established within the initial few weeks in the COVID-19 Observatory (Figure 5), indicating the overall number of patients and rate per 10,000 patients of cases confirmed or under investigation, as well as where the virus is excluded.
+We have the option to move to twice weekly surveillance reports with a scope to change this to daily reporting.
+We will continue virology sampling from our sentinel practices, rather than discontinuing as seasonal influenza declines.
+Additionally, we will recruit more surveillance practices.
+The RCGP RSC virology practices will aim to undertake 200-300 nasopharyngeal swabs per week across the RCGP RSC sentinel network, collecting specimens across all age bands.
+In addition to the inclusion criteria for influenza virology surveillance (ILI, acute bronchitis/bronchiolitis), participating practices will take nasopharyngeal swab samples from any people showing acute symptoms of LRTI if the onset of symptoms is within 7 days.
+RCGP RSC research officers and practice liaison staff will manage practices to achieve a total national sample of 200-300 swabs per week.
+This could be increased if PHE modelers require more samples.
+Samples from each practice would be spread across the following age groups: &lt; 5 years, 5-17 years, 18-64 years, and 65 years and older
+Samples (swabs or serum) collected will be sent via prepaid envelopes addressed to the appropriate PHE laboratory for analysis.
+All samples collected will be tested for the presence of influenza and COVID-19.
+Additionally, PHE will retrospectively test any influenza virology samples collected between early and mid-February 2020 for COVID-19.
+Practices will still follow the PHE protocol for COVID-19 with respect to people at risk of infection who should be signposted down the containment pathway, rather than physically attend their practice.
+Direct testing of those who attend surgery remains permitted, but we have also rolled out self-swabbing at home.
+Summary of processes are detailed in Multimedia Appendix 3.
+Everyone with an ILI or a respiratory illness who contacts a GP (eg, phones for an appointment) should be asked specifically about recent travel to China and other countries flagged in current PHE advice, or if they have had contact with other people with COVID-19.
+If these screening enquiries are positive, the patient would be advised to not come to the practice but instead to follow the PHE flow sheet.
+This can be by a reception or clinician staff, depending on individual practice protocol.
+These calls should be coded into the GP CMR system and can be reported as part of the RCGP RSC weekly return.
+We have developed training material to support this coding (Multimedia Appendix 4).
+These include prompt cards for:
+Practice reception or triage staff: for coding of any patients calling the practice with symptoms of acute respiratory infection with a history of travel to important areas based on PHE advice
+Administrative staff or clinicians who code: to encourage consistent coding of results for any suspected cases, including coding of negative results for exclusion
+Practices participating in virology surveillance will opportunistically collect blood samples from patients coming into the practice for a routine blood test.
+Patients who attend their practice for a routine blood test will be asked to provide an additional sample for serology.
+We have conducted initial searches within the RCGP RSC database to look at the number of full blood count (FBC) results and overall rates in adults and children (Figures 6-​-9).9).
+An FBC is one of the most common tests performed, and we hope this will give an approximate indication of overall numbers of blood tests performed.
+The sampling rate, per 100,000 patients was highest for children 15-17 years of age and 60 year or older in adults, with the lowest rates in children 0-4 years of age and 18-29 years of age in adults (Figures 6-​-99).
+We will provide 1000 serology baseline samples across all ages that reflect the varying rates of attendance by age.
+Additionally, we will test if we can obtain these all from virology practices to enhance the yield.
+A good geographical spread is important, so PHE can advise on areas where serology will most usefully be collected.
+This will be followed by 800 samples monthly.
+The sample will be stratified with 200 specimens for prepandemic survey (100 for monthly) in the following age groups: &lt; 5 years, 5-17 years, 18-64 years, and 65 years or older.
+The younger patients, in many practices younger than 14 years, and in nearly all for children younger than 8 years will require pediatric serology surveillance.
+We will develop a new request form for practices to capture recent travel and exposure to COVID-19.
+We will pilot a scheme for collecting convalescent serology from people with confirmed cases and who have had an acute virology sample at the time of their infection.
+This is to identify a carrier state in patients who have recovered from the virus but may continue shedding the virus.
+If there are a small number of cases, this may assist in developing a test kit for patients to take to their own GP and explore its acceptability to patients.
+If there are a large number of COVID-19 cases nationally, convalescent samples could be collected from RCGP RSC practices where there are confirmed cases, with the ability to link to the full medical record.
+This process may include checking pseudonymized NHS numbers for positive individuals at RCGP RSC practices, checking current PHE guidance regarding considerations of infectiousness for confirmed cases, and offering the patient an appointment following the previously mentioned process.
+This needs to be carefully coordinated nationally across the network and may require PHE to ensure individuals are not contacted by multiple agencies.
+RCGP RSC could provide a useful structure to channel the initial contact once PHE has made a request.
+The RCGP RSC practices participating in the annual influenza virology surveillance have started sampling from patients showing symptoms of a LRTI.
+All samples received are being tested for influenza and COVID-19.
+The RCGP RSC will explore ways to collect convalescent samples from any patients tested positive for COVID-19 through the extension of the virological surveillance.
+From the start, we will be carefully curating data to ensure that it can be used for future studies.
+Our clinical data will be linked to virology.
+We will curate our data using the Findable, Accessible, Interoperable, Reusable principles.
+To facilitate this our data set is listed with Health Data Research UK and the European Health Data Evidence Network.
+The statistical methodology is in support of a policy approach to widespread disease outbreak, where so-called nonpharmaceutical interventions (NPIs) are used to respond to an emerging pandemic to produce disease suppression.
+This policy aims to reduce contact rates in the population and thereby reduce transmission of the virus.
+To implement this the UK government has recently articulated the desire to implement population self-isolation measures.
+By targeting the reproduction number (R) (the average number of secondary cases each case generates) and aiming to reduce the R to below 1, the policy seeks to reduce case numbers to low levels or (as seen in previous outbreaks with severe acute respiratory syndrome and Ebola) to eliminate human-to-human transmission.
+As the experience from the 2009 H1N1 pandemic has shown, NPIs can be a crucial component of pandemic mitigation.
+Key to the focus of our study will be the estimation of peak cases in the population and continual monitoring by data collection and modelling the potential growth and emergence of subsequent peaks in new cases as social distancing measures are relaxed.
+There has already been publication of important disease epidemiological measures concerning the outbreak of COVID-19 in mainland China.
+A further fundamental measure in pandemic dynamics is the length of time from infection to when a person is infectious to others and the mean duration of infectiousness.
+These factors, if estimated accurately, will give good predictions for the likely length of the pandemic, the final number of infected cases.
+We intend to apply approximate Bayesian inference (ABC) to (possibly spatially heterogeneous) Susceptible-Exposed- Infectious-Removed (SEIR) stochastic epidemic models.
+Such techniques are highly parallelizable and have been successfully applied to many fields including disease transmission modelling.
+They are particularly suited to situations where likelihood functions are absent and where more traditional approaches such as Markov chain Monte Carlo are impractical.
+Such an approach has been demonstrated to work effectively on the ASPREN surveillance data, a network of sentinel GPs and nurse practitioners who report deidentified information on ILIs and other conditions, where issues such as missing data and the need to model the observation process itself has been successfully addressed.
+Furthermore, peaks in new cases have been estimated by distributional methods.
+Estimates of the parameters of the SEIR model are tractable on large data sets because of parallelizability, and these methods have been implemented in several R libraries; we intend to use the libraries ABSEIR (deposited on GitHub: https://tinyurl.com/vqu35cj) and abctools (https://tinyurl.com/tfjavz4) to estimate epidemic measures on a weekly basis.
+Since we are fitting an SIR-epidemic model in the ABC routine, we anticipate that our results will be robust against weekly case data containing relatively small counts.
+For example, see for the ABC methodology applied to the Tristan da Cunha common cold data from 1967, where counts of I (number of infectious cases) and R (number of recovered cases) are in the tens at most.
+Finally, in addition to the above methodology we will employ the Kaplan-Meier method with two outcomes (death and recovery) to estimate the case fatality ratio.
+This approach is independent of the ABC methodology and will allow comparisons between estimates from the two modelling approaches to judge robustness of results.
+RCGP RSC’s surveillance with PHE is defined as Health Protection under Regulation 3 of The Health Service (Control of Patient Information) Regulations 2002.
+This has been confirmed by PHE’s Caldicott Guardian’s Office.
+We do not see any increased risk to practices or practitioners taking part in this surveillance.
+Infection prevention and control advice will follow extant national guidance.
+Any cases identified will be managed according to the PHE/NHS guidance in force at the time, including advice for identified contacts.
+However, our training will include reminders about safe handling of specimens and revision of infection control measures anticipated to be high in our practices.
+It is a key part of Regulation 12 about safe care and treatment, periodically inspected by the Care Quality Commission.
+Travel History and Clinical Descriptors of the COVID-19 Infections
+The RCGP RSC practices have been advised on the clinical coding that has been made available for COVID-19 across all CMR systems.
+This includes information on coding of clinical descriptors (Table 4) and any recent travel history.
+Establishment of Extended Virology Sampling
+The RCGP RSC practices participating in the annual influenza virology surveillance have started sampling from patients showing symptoms of LRTI.
+All samples received are being tested for influenza and COVID-19.
+This has led to initial early identification of background spread in low-risk patients.
+As of March 7, 2020, the surveillance system has detected 2 cases of COVID-19 in low-risk patients with no history of travel through extended virological sampling.
+This protocol describes how we have adapted a national influenza surveillance system to monitor community spread of an unexpected infection of COVID-19.
+We have rapidly created and incorporated new codes to allow data recording, and are collecting data to monitor the effectiveness of containment strategies.
+Through this surveillance, we intend to find out more about the epidemiology of COVID-19 in ambulatory care.
+In particular, its rate of spread, both temporal and geographical.
+Our testing of low-risk patients will also inform whether the containment strategy that is based on virology testing of high-risk patients and their contacts plus self-isolation is effective.
+Containment should slow the spread, and there may be benefits in the management of spread from intense surveillance.
+However, there may come a point at which the virus spreads more widely into the population, as has happened in Italy.
+Surveillance of low-risk patients should inform when we reach this tipping point and when infection rates start to remit.
+The epidemiology of COVID-19 remains emergent.
+The registration-based nature of UK primary care means that we will be able to create a complete picture of the cumulative incidence and duration.
+The surveillance system should be able to identify areas where COVID-19 spread is taking place that might be suitable for trials of antiviral therapy.
+We could also follow up on the effectiveness or any adverse reactions to these medicines or vaccinations.
+Finally, early detection of a confirmed COVID-19 case has exemplified the rapid implementation of this enhanced surveillance in the national network.
+Safety of practices is our primary concern.
+The RCGP RSC has operated for over 50 years and has been involved in collecting samples to monitor disease and vaccine effectiveness through the Hong Kong flu pandemic of 1968/69, the Russian flu of 1977/78, and the 2009 Swine flu pandemic.
+We are not aware of any increased risk to practice staff or other patients from involvement in surveillance.
+Pandemic preparedness is part of the role of the RCGP RSC.
+It is plausible that enhanced coding of information from contacts with the practices in RCGP RSC will reduce the likelihood of people who may be suspected COVID-19 cases being brought to the surgery inadvertently.
+Where cases are detected unexpectedly, it is probably helpful for that patient, their contacts, and the practice to know.
+The impact on practices has been to close for a day, if a case is found, for deep cleaning and then reopen.
+The principal limitations of our system are the number of data points.
+We are collecting serology and virology data from 100 sites, which covers a small group of the population.
+This has been satisfactory for monitoring influenza, but we are not certain if this is a sufficiently large sample for the COVID-19 outbreak.
+Our sites (surveillance practices) are currently fixed, and it could be helpful to be able to rapidly onboard practices in regions where there are more cases.
+Currently, we will be reporting weekly.
+Our existing system can be enhanced to twice weekly, but maybe daily or hourly data should be our current approach.
+Opportunistic sampling for serology in children younger than 10 years might be limited due to the overall reduced rate of blood tests in children.
+The extended surveillance using the RCGP RSC-PHE network for the emergent COVID-19 outbreak has been established rapidly.
+The model of getting the appropriate informatics to enable capture of the required data has already been a success, with data recording starting the week the codes were created.
+In addition, modifying the existing surveillance system to collect population data in a parallel way has also been effective.
+However, we are at present unsure as to whether the scale of this surveillance provides sufficient data to drive local containment strategies or if reporting infrequently meets the need of our information age.
+National Basketball Association suspends season due to COVID-19 concerns
+On Wednesday, the United States' National Basketball Association (NBA) suspended its professional basketball season due to concerns regarding COVID-19.
+The NBA's decision followed a Utah Jazz player testing positive for the COVID-19 virus.
+The NBA did not release the identity of the player in question in its announcement.
+They did say he was not present at Chesapeake Energy Arena in Oklahoma City, where the Utah Jazz were to play against the Oklahoma City Thunder.
+According to its press release, the NBA was "suspending game play following the conclusion of [Wednesday's] schedule of games until further notice."
+The Jazz's game was cancelled, as was another NBA game Wednesday between the Sacramento Kings and the New Orleans Pelicans.
+Other games scheduled for Wednesday were still held, according to NBC News.
+The United States' other major basketball organization, the National Collegiate Athletic Association, which runs college basketball, has cancelled its own tournament, March Madness, for both men's and women's leagues.
+According to Johns Hopkins University, as of Wednesday, there were at least 1,279 confirmed cases of COVID-19 in the United States.
+CNBC reported there were at least 118,381 cases worldwide.
+US President Trump declares COVID-19 national emergency
+On Friday, United States President Donald Trump declared a national emergency in response to the ongoing coronavirus outbreak.
+The move came two days after the World Health Organization declared the outbreak, which causes the COVID-19 disease, to be a pandemic.
+The move gives the federal government access to around US$50 billion in extra funding to combat the pandemic, according to NBC News.
+The proclamation specifically said "the COVID-19 outbreak in the United States constitutes a national emergency" and said the national emergency began on March 1, almost two weeks before the proclamation itself.
+The United States Department of Health and Human Services declared the outbreak a "public health emergency" on January 31.
+Trump did not place the Federal Emergency Management Agency (FEMA) in charge of the government's response to COVID-19, which Politico reported left some experts in disaster management disappointed.
+Politico quoted Tim Manning, formerly a deputy administrator at FEMA, as saying "FEMA has an important role in coordinating the larger response to the crisis" and "[i]f there's an emergency, FEMA needs to be involved."
+Trump made the decision under provisions of the National Emergencies Act, amongst other governing authorities.
+The Trump administration also announced other efforts in response to COVID-19, including waiving the interest it collects on federal student loans and increasing U.S. strategic oil reserve oil purchases.
+Impact of the 2019–20 coronavirus pandemic on education
+The 2019–20 coronavirus pandemic has affected educational systems worldwide, leading to the widespread closures of schools and universities.
+As of 8 April 2020, approximately 1.716 billion learners have been affected due to school closures in response to COVID-19.
+According to UNESCO monitoring, 188 countries have implemented nationwide closures and 5 have implemented local closures, impacting about 99.4%  of the world's student population.
+On 23 March 2020, Cambridge International Examinations (CIE) released a statement announcing the cancellation of Cambridge IGCSE, Cambridge O Level, Cambridge International AS &amp; A Level, Cambridge AICE Diploma, and Cambridge Pre-U examinations for the May/June 2020 series across all countries.
+International Baccalaureate exams have also been cancelled.School closures impact not only students, teachers, and families, but have far-reaching economic and societal consequences.
+School closures in response to COVID-19 have shed light on various social and economic issues, including student debt, digital learning, food insecurity, and homelessness, as well as access to childcare, health care, housing, internet, and disability services.
+The impact was more severe for disadvantaged children and their families, causing interrupted learning, compromised nutrition, childcare problems, and consequent economic cost to families who could not work.In response to school closures, UNESCO recommended the use of distance learning programmes and open educational applications and platforms that schools and teachers can use to reach learners remotely and limit the disruption of education.
+Efforts to stem the spread of COVID-19 through non-pharmaceutical interventions and preventive measures such as social-distancing and self-isolation have prompted the widespread closure of primary, secondary, and tertiary schooling in over 100 countries.Previous outbreaks of infectious diseases have prompted widespread school closings around the world, with varying levels of effectiveness.
+Mathematical modelling has shown that transmission of an outbreak may be delayed by closing schools.
+However, effectiveness depends on the contacts children maintain outside of school.
+School closures may be effective when enacted promptly.
+If school closures occur late relative to an outbreak, they are less effective and may not have any impact at all.
+Additionally, in some cases, the reopening of schools after a period of closure has resulted in increased infection rates.
+As closures tend to occur concurrently with other interventions such as public gathering bans, it can be difficult to measure the specific impact of school closures.During the 1918-1919 influenza pandemic in the United States, school closures and public gathering bans were associated with lower total mortality rates.
+Cities that implemented such interventions earlier had greater delays in reaching peak mortality rates.
+Schools closed for a median duration of 4 weeks according to a study of 43 US cities' response to the Spanish Flu.
+School closures were shown to reduce morbidity from the Asian flu by 90% during the 1957–58 outbreak, and up to 50% in controlling influenza in the US, 2004–2008.Multiple countries successfully slowed the spread of infection through school closures during the 2009 H1N1 Flu pandemic.
+School closures in the city of Oita, Japan, were found to have successfully decreased the number of infected students at the peak of infection; however closing schools was not found to have significantly decreased the total number of infected students.
+Mandatory school closures and other social distancing measures were associated with a 29% to 37% reduction in influenza transmission rates.
+Early school closures in the United States delayed the peak of the 2009 H1N1 Flu pandemic.
+Despite the overall success of closing schools, a study of school closures in Michigan found that "district level reactive school closures were ineffective."During the swine flu outbreak in 2009 in the UK, in an article titled "Closure of schools during an influenza pandemic" published in the Lancet Infectious Diseases, a group of epidemiologists endorsed the closure of schools in order to interrupt the course of the infection, slow further spread and buy time to research and produce a vaccine.
+Having studied previous influenza pandemics including the 1918 flu pandemic, the influenza pandemic of 1957 and the 1968 flu pandemic, they reported on the economic and workforce effect school closure would have, particularly with a large percentage of doctors and nurses being women, of whom half had children under the age of 16.
+They also looked at the dynamics of the spread of influenza in France during French school holidays and noted that cases of flu dropped when schools closed and re-emerged when they re-opened.
+They noted that when teachers in Israel went on strike during the flu season of 1999–2000, visits to doctors and the number of respiratory infections dropped by more than a fifth and more than two fifths respectively.
+For schools and childcare facilities, the U.S. Centers for Disease Control and Prevention recommends short-term closure to clean or disinfect if an infected person has been in a school building regardless of community spread.
+When there is minimal to moderate community transmission, social distancing strategies can be implemented such as cancelling field trips, assemblies, and other large gatherings such as physical education or choir classes or meals in a cafeteria, increasing the space between desks, staggering arrival and dismissal times, limiting nonessential visitors, and using a separate health office location for children with flu-like symptoms.
+When there is substantial transmission in the local community, in addition to social distancing strategies, extended school dismissals may be considered.
+On 26 January, China instituted measures to contain the COVID-19 outbreak which included extending the Spring Festival holiday to contain the outbreak.
+Universities and schools around the country closed.
+On 23 February, Iran's Ministry of Health announced the closure of universities, higher educational institutions and schools in several cities and provinces.
+On 3 March, UNESCO released the first global numbers on school closures and affected students.
+It reported that 13 countries had enacted preventive measures including the temporary closure of schools and universities, impacting 290.5 million students around the world.
+In reaction, UNESCO called on countries to support affected students and families and facilitate large-scale inclusive distance learning programmes.
+On 4 March, the Italian government ordered the full closure of all schools and universities nationwide as Italy reached 100 deaths.
+In doing so, Italy became one of 22 countries on three continents which had announced or implemented school closures.
+On 5 March, the majority of learners affected by COVID-19 emergency measures were located in China, with 233 million learners affected, followed by Japan at 16.5 million and Iran at 14.5 million.
+By 10 March, one in five students worldwide was "staying away from school due to the COVID-19 crisis" while another one in four was barred from higher education institutions.
+On 13 March, governments in 49 countries announced or implemented school closures, including 39 countries which closed schools nationwide and 22 countries with localised school closures.
+By 16 March, this figure increased from 49 to 73 countries according to UNESCO.
+By 19 March, 50% of students worldwide were affected by school closures, corresponding to nationwide closures in 102 countries and local closures in 11 countries affecting 850 million children and youth.
+By 20 March, over 70% of the world's learners were impacted by closures, with 124 country-wide school closures.
+On 23 March, all Nigerian school were found to have been closed down by Nigerian government, markets as well as companies were closed down and children were forbidden by parents to step out of their homes.
+On 26 March, all New Zealand schools and universities have been closed down across the country.
+The government has imposed a two-week holiday, allowing schools to transition to forms of distant teaching as soon as possible.
+Universities have closed for one week, but resumed with online teaching afterwards.
+Other school services remain open, but teaching is restricted to distant learning.
+By 27 March, nearly 90 percent of the world's student population was out of class.
+Regions with schools remaining open included Taiwan, Singapore, Australia, Sweden, and some U.S. states.
+By 29 March, more than 1.5 billion children and other students were affected by nationwide school closures.
+Others were disrupted by localized closures.
+Until April 6, holidays were extended in all secondary schools of Turkmenistan.
+An order signed by the Ministry of Education as a preventative measure aims to prevent the spread of respiratory diseases in connection with the WHO coronavirus pandemic.
+10 countries have localised schools closures, UNESCO estimates  473,933,356  learners are potentially at risk (pre-primary to upper-secondary education) and 77,938,904 learners are potentially at risk in tertiary education.
+Note: Figures correspond to total number of learners enrolled at pre-primary, primary, lower-secondary, and upper-secondary levels of education [ISCED levels 0 to 3], as well as at tertiary education levels [ISCED levels 5 to 8] who could be affected should localised closures become countrywide.
+Enrolment figures based on latest UNESCO Institute of Statistics data.
+School closures in response to the COVID-19 pandemic have shed a light on numerous issues affecting access to education, as well as broader socio-economic issues.
+As of March 12, more than 370 million children and youth are not attending school because of temporary or indefinite country wide school closures mandated by governments in an attempt to slow the spread of COVID-19.
+As of 29 March, nearly 90% of the world's learners were impacted by closures.Even when school closures are temporary, it carries high social and economic costs.
+The disruptions they cause affect people across communities, but their impact is more severe for disadvantaged children and their families including interrupted learning, compromised nutrition, childcare problems and consequent economic cost to families who cannot work.
+Working parents are more likely to miss work when schools close in order to take care of their children, incurring wage loss in many instances and negatively impacting productivity.
+Localised school closures place burdens on schools as parents and officials redirect children to schools that are open.
+Women often represent a large share of health-care workers and often cannot attend work because of childcare obligations that result from school closures.
+This means that many medical professionals are not at the facilities where they are most needed during a health crisis.
+Lack of access to technology or fast, reliable internet access can prevent students in rural areas and from disadvantaged families.
+Lack of access to technology or good internet connectivity is an obstacle to continued learning, especially for students from disadvantaged families.
+In response to school closures caused by COVID-19, UNESCO recommends the use of distance learning programmes and open educational applications and platforms that schools and teachers can use to reach learners remotely and limit the disruption of education.To aid in slowing the transmission of COVID-19, hundreds of libraries have temporarily closed.
+In the United States, numerous major cities announced public library closures, including Los Angeles, San Francisco, Seattle, and New York City, affecting 221 libraries.
+For students without internet at home, this increases the difficulty of keeping up with distance learning.
+School closures puts a strain on parents and guardians to provide childcare and manage distance learning while children are out of school.
+In the absence of alternative options, working parents often leave children alone when schools close and this can lead to risky behaviours, including increased influence of peer pressure and substance abuse.
+Many children worldwide rely on free or discounted meals at schools.
+When schools close, nutrition is compromised.Nutrition plays a critical role in cognitive development and academic performance for children.In Washington State, around 45% of the states 1.1 million students enrolled in traditional public and charter schools qualify for subsidised school meals.
+At least 520,000 students and their families may be affected by food insecurity as a result of school closures.School lunch programmes are the second-biggest anti-hunger initiative in the United States after food stamps.
+Every year, nearly 30 million children rely on schools to provide free or low-cost meals including breakfast, lunch, snacks, and even dinner.In Alabama, where state-wide school closures as of 18 March have affected over 720,000 students, the state Superintendent announced that staff in schools disproportionately affected by poverty would create meal distribution networks to provide food for students who rely on school lunches.
+School closures negatively impact student learning outcomes.
+Schooling provides essential learning and when schools close, children and youth are deprived opportunities for growth and development.
+The disadvantages are disproportionate for under-privileged learners who tend to have fewer educational opportunities beyond school.Student drop-out rates tend to increase as an effect of school closures due to the challenge of ensuring all students return to school once school closures ends.
+This is especially true of protracted closures.Schools are hubs of social activity and human interaction.
+When schools are closed, many children and youth miss out of on social contact that is essential to learning and development.When schools close parents are often asked to facilitate the learning of children at home and can struggle to perform this task.
+This is especially true for parents with limited education and resources.
+Potential impacts of school closures and reliance on distance learning are not addressed in federal acts of legislation at this time.
+Formal education — as opposed to informal education or non-formal education — tends to refer to schools, colleges, universities and training institutions.
+A 1974 report by the World Bank defined formal education as the following:Formal education: the hierarchically structured, chronologically graded ‘education system’, running from primary school through the university and including, in addition to general academic studies, a variety of specialised programmes and institutions for full-time technical and professional training.The majority of data collected on the number of students and learners impacted by COVID-19 has been calculated based on the closure of formal education systems.
+The UNESCO Institute for Statistics provides figures on students impacted by COVID-19 corresponding to the number of learners enrolled at pre-primary, primary, lower-secondary, and upper-secondary levels of education [ISCED levels 0 to 3], as well as at tertiary education levels [ISCED levels 5 to 8].
+Early childhood educational programmes are usually designed for children below the age of 3 and may refer to preschools, nursery schools, kindergartens, and some day care programmes.
+While many primary and secondary schools have closed around the world due to COVID-19, measures impacting early childhood educational programmes have varied.
+In some countries and territories, preschools and day cares are considered necessary services and have not closed in tandem with broader school closure measures.In the United States, the Washington State Department of Children, Youth, and Families encouraged child care and early learning centres to stay open.
+Some school districts may offer alternative child care options, prioritising the children of first responders and healthcare workers.
+The governor of Maryland mandated that specific child care services remain open for the children of emergency personnel while Washington State and California have left it to the discretion of care providers.
+California Governor Gavin Newsom explained his state's position, saying “We need our child care facilities, our daycare centers, to operate to absorb the impact of these school closures.”
+Colorado has encouraged the development of "tool kits" for parents to use at home to emulate the lessons children would have received in their early learning programmes.In Japan, Prime Minister Shinzo Abe closed all schools throughout the country until April 8, however, children's daycare facilities were excluded.
+In early March, five adults associated with a nursing facility for preschool children in Kobe tested positive for coronavirus.
+After testing over one hundred children at the facility, a preschool student was found to be carrying the virus.
+Primary or elementary education typically consists of the first four to seven years of formal education.
+The International Baccalaureate Organization (IBO) canceled the examinations for its Diploma Programme and Career-related Programme candidates scheduled between 30 April and 22 May 2020, reportedly affecting more than 200,000 students worldwide.
+The IBO stated that it would award candidates their diplomas or certificates based on "their coursework" and "the established assessment expertise, rigor, and quality control already built into the programme."
+Tertiary education, also known as higher education, refers to the non-compulsory educational levels that follow completion of secondary school or high school.
+Tertiary education is normally taken to include undergraduate and postgraduate education, as well as vocational education and training.
+Individuals who complete tertiary education generally receive certificates, diplomas, or academic degrees.
+Undergraduate education is education conducted after secondary education and prior to post-graduate education, for which the learner is typically awarded a bachelor's degree.
+Students enrolled in higher education programmes at colleges, universities, and community colleges are often refereed to in countries such as United States as "college students."The closure of colleges and universities has widespread implications for students, faculty, administrators, and the institutions themselves.
+Colleges and universities across the United States have been called upon to issue refunds to students for the cost of tuition and room and board.
+In the United States of America, Colleges and universities operate as "mini-cities" which generate significant revenue for cities, states, and regions.
+For example, Princeton University contributed $1.58 billion USD to the New Jersey economy and students spent about $60 million in off-campus spending.
+College and university closures have a domino effect on economies with far-reaching implications.According to Linda Bilmes of the Harvard Kennedy School, "local hotels, restaurants, cafes, shops, car rental agencies and other local businesses obtain a significant share of annual revenue from graduation week and college reunions...
+these communities will suffer a lot of economic damage if the colleges remain closed at that time."Small towns which rely on college students to support the local economy and provide labour to local businesses are especially impacted by school closures and the exodus of students from campus.
+In Ithaca, New York, Cornell University students spent at least $4 million a week in Tompkins county.
+In the wake of Cornell's decision to keep students home following spring break and transition to virtual instruction, the Mayor of Ithaca called for "immediate and forceful federal action — we will see a horrific economic impact as a result of Cornell University closing."
+UNESCO is sharing 10 recommendations during this period:
+Examine the readiness and choose the most relevant tools: Decide on the use high-technology and low-technology solutions based on the reliability of local power supplies, internet connectivity, and digital skills of teachers and students.
+This could range through integrated digital learning platforms, video lessons, MOOCs, to broadcasting through radios and TVs.
+Ensure inclusion of the distance learning programmes: Implement measures to ensure that students including those with disabilities or from low-income backgrounds have access to distance learning programmes, if only a limited number of them have access to digital devices.
+Consider temporarily decentralising such devices from computer labs to families and support them with internet connectivity.
+Protect data privacy and data security: Assess data security when uploading data or educational resources to web spaces, as well as when sharing them with other organisations or individuals.
+Ensure that the use of applications and platforms does not violate students’ data privacy.
+Prioritize solutions to address psychosocial challenges before teaching: Mobilize available tools to connect schools, parents, teachers, and students with each other.
+Create communities to ensure regular human interactions, enable social caring measures, and address possible psychosocial challenges that students may face when they are isolated.
+Plan the study schedule of the distance learning programmes: Organise discussions with stakeholders to examine the possible duration of school closures and decide whether the distance learning programme should focus on teaching new knowledge or enhance students’ knowledge of prior lessons.
+Plan the schedule depending on the situation of the affected zones, level of studies, needs of students needs, and availability of parents.
+Choose the appropriate learning methodologies based on the status of school closures and home-based quarantines.
+Avoid learning methodologies that require face-to-face communication.
+Provide support to teachers and parents on the use of digital tools: Organise brief training or orientation sessions for teachers and parents as well, if monitoring and facilitation are needed.
+Help teachers to prepare the basic settings such as solutions to the use of internet data if they are required to provide live streaming of lessons.
+Blend appropriate approaches and limit the number of applications and platforms: Blend tools or media that are available for most students, both for synchronous communication and lessons, and for asynchronous learning.
+Avoid overloading students and parents by asking them to download and test too many applications or platforms.
+Develop distance learning rules and monitor students’ learning process: Define the rules with parents and students on distance learning.
+Design formative questions, tests, or exercises to monitor closely students’ learning process.
+Try to use tools to support submission of students’ feedback and avoid overloading parents by requesting them to scan and send students’ feedback
+Define the duration of distance learning units based on students’ self-regulation skills: Keep a coherent timing according to the level of the students’ self-regulation and metacognitive abilities especially for livestreaming classes.
+Preferably, the unit for primary school students should not be more than 20 minutes, and no longer than 40 minutes for secondary school students.
+Create communities and enhance connection: Create communities of teachers, parents, and school managers to address sense of loneliness or helplessness, facilitate sharing of experience and discussion on coping strategies when facing learning difficulties.
+290 million students out of school due to COVID-19: UNESCO releases first global numbers and mobilizes response,   UNESCO.
+WHEREAS on March 4, 2020, I proclaimed a State of Emergency to exist in California as a result of the threat of COVID-19;
+and WHEREAS in a short period of time, COVID-19 has rapidly spread throughout California, necessitating updated and more stringent guidance from federal, state, and local public health officials;
+and WHEREAS for the preservation of public health and safety throughout the entire State of California, I find it necessary for all Californians to heed the State public health directives from the Department of Public Health.
+NOW, THEREFORE, I, GAVIN NEWSOM, Governor of the State of California, in accordance with the authority vested in me by the State Constitution and statutes of the State of California, and in particular, Government Code sections 8567, 8627, and 8665 do hereby issue the following Order to become effective immediately:
+IT IS HEREBY ORDERED THAT:
+1) To preserve the public health and safety, and to ensure the healthcare delivery system is capable of serving all, and prioritizing those at the highest risk and vulnerability, all residents are directed to immediately heed the current State public health directives, which I ordered the Department of Public Health to develop for the current statewide status of COVID-19.
+Those directives are consistent with the March 19, 2020, Memorandum on Identification of Essential Critical Infrastructure Workers During COVID-19 Response, found at: https://covid19.ca.gov/.
+ORDER OF THE STATE PUBLIC HEALTH OFFICER
+To protect public health, I as State Public Health Officer and Director of the California Department of Public Health order all individuals living in the State of California to stay home or at their place of residence except as needed to maintain continuity of operations of the federal critical infrastructure sectors, as outlined at https://www.cisa.gov/critical-infrastructure-sectors.
+In addition, and in consultation with the Director of the Governor's Office of Emergency Services, I may designate additional sectors as critical in order to protect the health and well-being of all Californians.
+Pursuant to the authority under the Health and Safety Code 120125, 120140, 131080, 120130(c), 120135, 120145, 120175 and 120150, this order is to go into effect immediately and shall stay in effect until further notice.
+The federal government has identified 16 critical infrastructure sectors whose assets, systems, and networks, whether physical or virtual, are considered so vital to the United States that their incapacitation or destruction would have a debilitating effect on security, economic security, public health or safety, or any combination thereof.
+I order that Californians working in these 16 critical infrastructure sectors may continue their work because of the importance of these sectors to Californians' health and well-being.
+This Order is being issued to protect the public health of Californians.
+The California Department of Public Health looks to establish consistency across the state in order to ensure that we mitigate the impact of COVID-19.
+Our goal is simple, we want to bend the curve, and disrupt the spread of the virus.
+The supply chain must continue, and Californians must have access to such necessities as food, prescriptions, and health care.
+When people need to leave their homes or places of residence, whether to obtain or perform the functions above, or to otherwise facilitate authorized necessary activities, they should at all times practice social distancing.
+2) The healthcare delivery system shall prioritize services to serving those who are the sickest and shall prioritize resources, including personal protective equipment, for the providers providing direct care to them.
+3) The Office of Emergency Services is directed to take necessary steps to ensure compliance with this Order.
+4) This Order shall be enforceable pursuant to California law, including, but not limited to, Government Code section 8665.
+IT IS FURTHER ORDERED that as soon as hereafter possible, this Order be filed in the Office of the Secretary of State and that widespread publicity and notice be given of this Order.
+This Order is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity, against the State of California, its agencies, departments, entities, officers, employees, or any other person.
+IN WITNESS WHEREOF I have hereunto set my hand and caused the Great Seal of the State of California to be affixed this 19th day of March 2020.
+The SARS-CoV-2 virus is the cause of COVID-19 (coronavirus disease 2019), a contagious respiratory disease that was first identified in December 2019, in Wuhan, Hubei, China.
+The disease is a type of coronavirus, the same family that includes SARS, MERS, and some varieties of the common cold.
+It was declared a pandemic by the World Health Organization (WHO) on 11 March 2020.
+While much about COVID-19 is still unknown, preliminary data suggests that it is more virulent and contagious than the seasonal flu, and less virulent but more contagious than SARS and MERS.
+Older people and those with underlying conditions are the most at risk of serious complications including death.
+Due to the spread of the disease, you are advised not to travel unless necessary, to avoid being infected, quarantined, or stranded by changing restrictions and cancelled flights.
+Avoid crowded places whenever possible.
+This is not just to protect you, but also those you come in contact with.
+As it happens, you probably aren't missing much by staying home, as many attractions around the world are closing their doors to avoid spreading the disease.
+If you do need to travel, take precautions as you would for other infections: wash your hands frequently, avoid touching your face, cough and sneeze into your elbow or a tissue, and avoid contact with sick people.
+Before traveling, read up on the extensive and fast-changing array of travel restrictions that have been imposed around the world.
+After travel, monitor your health and consider self-isolation for two weeks to avoid transmitting the disease to others.
+Transportation from long-distance passenger flights to local buses has been curtailed or completely shut down in many countries due to low demand or government orders.
+Many international and regional borders are closed.
+If you are away from home, and especially if you are in another country, consider returning home as soon as possible; this may get even more difficult as restrictions continue to change.
+In some cases it may simply not be possible, even if you're healthy and meet the legal requirements for entry.
+If you can't find a way back to your country, contact your nearest embassy or consulate for assistance.
+They may be able to organize an evacuation, identify non-regularly scheduled flights, or give you an emergency loan to pay for transport.
+In case they can't, make preparations in case you need to stay where you are for an extended period.
+If you do find a way back home, be prepared that it may be expensive, inconvenient, and have unusual restrictions (such as no checked baggage).
+As of early April 2020, the number of confirmed cases of COVID-19 is approaching one million.
+Though the disease started in mainland China, it has spread around the world and China has fewer confirmed cases and deaths than several other countries.
+Europe is the new epicenter of the pandemic.
+All but a handful of countries have reported at least one case, with the highest numbers of reported cases in the United States, Spain, Italy, Germany, France, mainland China, Iran, and the United Kingdom.
+Local transmission is established in many countries in all major inhabited regions of the world except some Pacific island nations.
+(See updates from the WHO.)
+The full extent of the spread is uncertain, due in part to limited testing.
+Many countries are experiencing a severe shortage of test kits, and the authorities have not been able to test everybody who is at high risk, so the real number of cases is probably much higher than the official one.
+Countries also differ in their testing and reporting practices, so comparisons of the number of reported cases do not tell the full story of how the epidemic has progressed in different areas.
+The virus is transmitted through respiratory droplets and through objects.
+The coronavirus is a relatively large virus, meaning it is not truly airborne: it will settle down in respiratory droplets.
+Staying two metres (six feet) away from other people is usually enough to prevent transmission through this route.
+Transmission from objects can happen, for example, if someone sneezes, touches a doorknob, and then other people touch the doorknob and then touch their faces.
+The SARS-CoV-2 virus may last on cardboard for up to 24 hours and on plastic for up to 3 days.
+Transmission via the fecal–oral route may also be possible.
+Evidence suggests that COVID-19 is contagious even without symptoms, though to what extent is still being investigated.
+Common symptoms include a fever, dry cough, and fatigue.
+Other less common symptoms include shortness of breath, a sore throat, headache, muscle pain, or sputum production.
+Some patients have very mild symptoms, similar to a cold.
+Serious complications include pneumonia, acute respiratory distress syndrome, and multi-organ failure leading to disability or death.
+About 80% of infections result in mild symptoms, while the remaining may result in hospitalization.
+Case fatality rate is estimated at 1-3% of infected individuals, most of whom are elderly with underlying health conditions.
+The fatality rate is much higher for those over 70 but significantly lower for those under 40.
+Those most at risk of COVID-19 infection and serious complications are the elderly and those with weakened immune systems or underlying health conditions like cardiovascular disease, diabetes, hypertension, chronic respiratory disease, and cancer.
+Not many cases are reported in children and most of these are mild or moderate, though a significant fraction do get pneumonia.
+Occupationally, health care workers have higher risk compared to others with clusters of disease among workers and in health care settings.
+The time between being exposed to the virus and the emergence of symptoms (incubation period) is typically between 2 and 14 days, though there has been one reported case in China where symptoms appeared 27 days after exposure.
+As of February 2020, the period of infectiousness is unknown, but is likely most significant when people are symptomatic.
+There is evidence of transmission from people who don't have symptoms, although to what extent is still being investigated.
+It is unclear whether it is possible to be reinfected with the virus after recovering from it the first time around.
+Long-term effects for people who have recovered remain unclear, but there is evidence of reduced lung capacity in some recovered patients.
+Testing for the virus usually consists of a swab inserted through the nose or a throat swab which is analysed in a laboratory for the virus.
+The current "gold standard" test involves extracting the genetic material from the sample and analysing it for known genetic markers of the virus.
+There is no established test assessing for the virus or antibodies in the blood, although tests are being developed.
+There is no test to establish immunity to the virus.
+Many governments around the world have advised their citizens not to travel unnecessarily amid the pandemic.
+Lots of airlines and package holidays are making it easy for you by waiving cancellation and change fees.
+Particularly avoid cruise ship travel.
+Older travelers and those with underlying health conditions are most at risk and should avoid travel that puts them at risk, such as long plane flights, visits to crowded places, and especially cruises, even outside of severely affected areas.
+In affected areas, most experts recommend a practice known as social distancing.
+This means minimising contact with others by keeping a distance of six feet or two meters from them and avoiding gathering together in groups.
+Some areas permit small groups; others prohibit all group gatherings.
+Measures you are encouraged to take include working from home whenever possible, avoiding crowds and avoiding leaving your home unless absolutely necessary.
+If you must go out, try to stay at least 2 meters (6 feet) away from other people.
+In many places these measures are required.
+Follow hygiene practices like for flu prevention.
+Frequently wash your hands with soap and warm water, and then dry your hands on a clean towel.
+As coronaviruses are enveloped viruses, washing your hands with soap kills the virus by disrupting the mostly fat-based viral envelope.
+Effective hand washing requires rubbing your hands for at least 20 seconds.
+Drying your washed hands physically removes some germs from your skin (so don't skip that step, and don't share towels).
+If soap and water are not available, then use a &gt;60% alcohol-based hand sanitizer.
+Alcohol is a quick germ-killer, but it's not quite instant, so this still requires the same 20 seconds of rubbing your hands together, making sure that every single scrap of skin gets wet, and then you have to wait about another minute, for the alcohol to completely dry.
+Avoid touching your eyes, nose and mouth with your hands.
+Most people touch their faces every few minutes, all day long.
+Try to do this less, and try to wash your hands before touching your face.
+Also, try to avoid touching surfaces you don't have to touch in the first place, at least with your bare hands.
+Cough and sneeze into your elbow or a tissue, and then immediately throw away the tissue and wash your hands.
+Don't stand or sit near people who might be sick.
+Stay at least one meter – and ideally two meters (six feet) – away.
+As a quick way to eyeball this distance, imagine that you and the other person both reached your hands towards each other.
+Could you touch the other person's hand without taking a step towards that person?
+If the answer is yes, then you're too close.
+Clean objects and surfaces that a lot of people touch, such as doorknobs, phones, and television remotes with regular household cleaner.
+Disinfect the surfaces with a suitable disinfectant, such as diluted household bleach.
+Stay home when you are sick, and avoid contact with other people until your symptoms are gone.
+Do not share personal items that come into contact with saliva, such as toothbrushes, eating utensils, drinks, water bottles, and towels.
+The practice of serving yourself from a common plate with your own chopsticks, common in China, should be avoided.
+Greet people without touching them.
+Avoid hugs, kisses, handshakes, fist bumps, and any other contact.
+If it's impossible to avoid contact, then wash your hands both before and after.
+It won't protect you from the coronavirus, but it will partially protect you from the flu, which remains a greater risk than COVID-19 in many areas.
+This also saves you from unnecessary worry if you get the flu and think it might be the coronavirus.
+If you are elderly or otherwise in a high-risk group and can be vaccinated for pneumonia, get that vaccination.
+It won't protect you from viral pneumonia from COVID-19, but some COVID-19 patients have died of bacterial pneumonia that attacked their weakened lungs, so a pneumonia vaccination could save your life.
+Wearing masks is recommended for those who are suspected of carrying of disease and those who are in close contact with those infected.
+For those who are asymptomatic, the WHO does not recommend masks, though some national governments do.
+Wearing a mask of some kind is required in some countries and cities in an effort to reduce community transmission.
+There are worldwide shortages of surgical masks.
+If you do wear a mask, make sure to use it correctly.
+The mask should cover your nose and mouth and fit without gaps.
+Wash your hands before putting on the mask and avoid touching the mask while wearing it.
+If you do touch it, wash your hands immediately afterwards.
+When the mask becomes damp, discard and replace it.
+Remove it from the back, throw it away, and then wash your hands.
+Remember that masks are not a substitute for good hygiene: continue to wash your hands frequently.
+Don't stock up on masks if you don't need them.
+Mask shortages mean that healthcare workers are having trouble getting a hold of masks, which puts everyone at risk.
+That includes N95 respirators, which are not recommended for the general public – these are specialist equipment which must be fitted to be optimally effective.
+Leave them for healthcare workers.
+Avoid crowded areas, especially enclosed areas without much air circulation, such as conferences, performances, shopping malls, public transportation, and religious services.
+Events which involve a large scale gathering of people, from religious pilgrimages to music concerts, are being canceled worldwide, in an effort to contain the spread of the virus.
+Tourist attractions, businesses, and transportation may be closed, especially in affected countries.
+Some canceled events, especially performances, sporting events, and classes, are being moved online, which means you can experience them without traveling.
+At petrol/gas stations, use gloves or wipe down the handle with a disinfectant wipe if you can.
+After filling up, clean your hands with hand sanitizer.
+The U.S. and Canadian governments recommend avoiding travel by cruise ship.
+Infections spread easily on board, and medical care is limited.
+Amid a cruise ship outbreak, quarantines and docking are challenging partly due to the large number of people aboard.
+Even cruise ships without confirmed cases have been denied permission to dock due to virus fears, and in the high-profile case of the Diamond Princess in Japan, hundreds of people were infected on the ship.
+If you believe you may be infected, call a hospital or local emergency medical services instead of going in person to avoid infecting others.
+Mention your symptoms and travel history.
+Wear a medical mask and follow the instructions of authorities and doctors.
+See also: Flight and health
+On a plane, follow the same hygiene practices as anywhere else: wash hands frequently, or use alcohol-based hand sanitizer if it's not convenient to leave your seat, and avoid touching your face.
+Researchers have found that passengers in window seats have less risk of contact with sick people.
+Try to book a window seat, and avoid moving around the cabin during the flight.
+After washing your hands and before sitting down, use disinfectant wipes to wipe down the area around your seat.
+Wipe hard surfaces, and if your seat is leather you can wipe that too.
+Don't wipe a cloth seat, as the moisture can make transmission easier.
+When using disinfectant wipes, follow the instructions on the packaging.
+And remember, viruses enter through your mouth, nose, and eyes – wiping down the area doesn't hurt, but it's not a substitute for proper hygiene.
+Wash your hands and avoid touching your face.
+And use a tissue to touch the touch screen or other controls.
+When using the lavatory, use paper towels to turn off the faucet and open the door, then throw them away.
+Airlines in affected areas are taking steps to reduce transmission and keep passengers safe.
+For instance, these may include cleaning facilities more frequently, allowing flight attendants to wear masks, and serving prepackaged instead of freshly heated meals.
+If a group of passengers is connecting from an area with a severe outbreak, the flight attendants may be able to seat them away from the rest of the passengers (and if you were recently in a high-risk area, consider telling the flight attendants for this reason).
+You may be prohibited from changing seats on the flight.
+This is so that, if someone on the flight turns out to be infected, the authorities can track down the people who were sitting near them for testing or quarantine.
+COVID-19 is treated by relieving symptoms and preventing complications.
+There is no vaccine or specific treatment for the novel coronavirus.
+Research into a vaccine or specific antiviral drug is underway.
+There are a variety of trials using HIV medications and other novel antiviral medications for treatment of COVID-19.
+Mild symptoms may be relieved by taking paracetamol (acetaminophen).
+If you are infected with COVID-19, countries will isolate you until several consecutive tests for COVID-19 are negative.
+If you have been in close contact with someone infected with COVID-19, many countries will quarantine you for 14 days since the last exposure and monitor you for signs and symptoms.
+Some countries will also test you even if you don't have symptoms.
+In many countries, the healthcare system has been stretched to the point of not being able to handle the sheer number of patients, and there is a chance you may be refused treatment due to the lack of available medical staff, supplies or equipment.
+Many countries have shut down or severely limited flights, ships, and border crossings, especially to and from affected areas.
+Even more countries have imposed restrictions on arriving travelers, either barring entry (maybe with an exception for local citizens and permanent residents) or requiring you to be quarantined, typically for 14 days.
+Even if a mandatory quarantine is not imposed, you may be asked to "self-quarantine" by staying at home and not interacting with other people.
+The most severe restrictions are on travellers who have recently been to affected areas, but increasingly many countries are applying them to incoming travellers overall.
+Some countries have even prohibited all or almost all foreigners from entry or limited the ability of local citizens and residents to leave.
+What are the affected areas?
+Well, this is a fast-changing situation, and each country/region/organization has its own list of what areas are subject to restrictions.
+The city of Wuhan is on every list and the rest of mainland China is on most.
+Other areas that are often included: France, Germany, Hong Kong, Iran, Italy, Japan, Macau, Singapore, South Korea, Spain, Taiwan, the United Kingdom, the United States, the Schengen Area as a whole, and sometimes various others.
+Some countries have imposed restrictions based on citizenship or residency from severely affected areas.
+A detailed list of entry restrictions is maintained by the IATA.
+It doesn't cover all the restrictions, but it's still useful.
+Keep up to date—the outbreak and the travel restrictions are changing rapidly.
+For travel in the near future, consider making refundable reservations in case the changing situation forces you to change your plans.
+Avoid buying tickets with a connection in an affected area – even changing planes can make you subject to restrictions.
+Flights may get canceled with little notice, either due to the disease's spread and ever-changing entry restrictions, or simply because fewer people are flying and airlines are having trouble filling seats.
+You might also be delayed for hours upon arrival waiting for temperature checks and related procedures and paperwork, or even get quarantined for two weeks.
+Be prepared for the possibility of disruption to your travel plans, especially if traveling internationally.
+Even if you're nowhere near affected areas there's a risk that you'll have to stay at the destination longer than planned if you've shared a building or vessel with an infected person.
+For example, in late February an Italian doctor on vacation in Costa Adeje (Canary Islands) was diagnosed with COVID-19, and as a result all the guests in the hotel he stayed at were quarantined.
+Lockdowns and other internal restrictions
+Some countries and regions, especially severely affected ones, are implementing emergency lockdowns and restrictions on people's movements and activities, even for those who haven't recently been abroad.
+These include the temporary reintroduction of some border controls, restrictions on travel within the country, closing or limiting service at restaurants and other establishments, banning large public events, and in the most severe cases prohibiting people from leaving the house except for essential reasons.
+Beyond government restrictions, individual establishments are shutting their doors and cancelling events to try to reduce the spread of the virus.
+In China, there are extensive restrictions on transportation and activity, which vary widely by province, city, and even by district or village.
+Many governments recommend against traveling to China at this time.
+If you have no choice, do your research and get up-to-date information about the local situation wherever you are going.
+People who have traveled to Hubei face particularly severe restrictions.
+Examples of restrictions that you may encounter in some parts of China (this is not an exhaustive list):
+14-day quarantine, self-quarantine, or COVID-19 test upon arrival from other parts of China or from other countries, at your expense
+questions about your travel and medical history (lying can get you years in prison)
+mandatory registration using an online or paper form
+requirement to wear a face mask in public
+people who have been outside of China within 14 days not allowed into public places like malls
+shops only accept mobile payments, not cash
+restaurants, transportation and other establishments refusing service to non-Chinese citizens
+many forms of transportation reduced or shut down
+mandatory real-name registration for public transit cards
+access in and out of a town, village, or city completely blocked
+non-resident visitors prohibited from entering apartment complexes
+only allowed to go outside once every two days to get supplies
+businesses, activities, and attractions closed
+businesses need local government permission to re-open
+restaurants (if they are even open) require a minimum distance between customers
+selling substandard face masks has a maximum sentence of life imprisonment
+As of mid-March 2020, Europe is the epicenter of the epidemic, and many European countries have closed their borders to international travel - only border commuters and freight are allowed to cross.
+Also businesses other than food stores and pharmacies are closed, and public transport has been reduced or stopped.
+In the worst affected countries including Italy, Spain and France, lockdowns like in China in January, have been implemented.
+As well the EU has closed its outer borders.
+COVID-19 is prevalent also in North America.
+The borders between Canada, the U.S., and Mexico are closed to non-essential travel, and in many areas bans on big gatherings are in effect (this means places like restaurants are closed, and events are canceled).
+Numerous state, county, and municipal jurisdictions have issued stay-at-home orders that require all nonessential businesses to close.
+With lots of flights canceled, warnings issued, and restrictions imposed, flying in the time of coronavirus can be a challenge.
+Some routes are not possible.
+Others will require more inconvenient connections than usual—multiple stops and long waits between flights.
+In some cases that means more expensive tickets.
+On the other hand, the good news is that many flights are cheaper than usual due to decreased demand, and there's a decent chance you'll get an empty seat next to you.
+Build in extra time for your connections, especially if transferring from an international flight to a domestic flight and especially if your itinerary involves a country that's seriously affected.
+Screenings, temperature checks, extra paperwork, and the associated waiting around can add minutes or hours before you're allowed to continue on your journey.
+You may find it harder than usual to buy a ticket to or from a destination subject to warnings and restrictions.
+This is a real concern if you're trying to get out of an affected area.
+For instance, most aggregators are not selling tickets from China to the United States (presumably to avoid falling afoul of restrictions and being on the hook for a passenger's flight out).
+To buy a ticket for an itinerary like this, you may have to contact the airline or use a lesser-known aggregator.
+Another possibility is to buy two separate tickets (for instance, a ticket from China to Cambodia and a second ticket from Cambodia to the U.S.), but be careful you won't get quarantined or lose your luggage in between.
+Connecting flights can be a problem.
+The risk of getting stuck in the connection city is higher than usual right now, due to delays for screening and testing as well as extensive cancellations.
+Connecting in an affected area may lead to entry restrictions later on, and if you've been in an affected area recently some countries won't even let you change planes.
+On certain itineraries there is a risk of getting quarantined somewhere along the way.
+So book a direct flight if you can, and if not, think carefully about where to connect.
+In uncertain times, plans can change.
+Many embassies and consulates have evacuated nonessential staff, and some have shut down operations completely.
+Emergency assistance should still be available, though it's possible you may have to contact a further-away consulate if your local one has shut down.
+If you have been stranded due to the pandemic, your nearest consulate may be able to help you find a flight home, arrange an emergency loan so you can buy a ticket, or provide an emergency passport.
+At the very least they can keep you informed about the local situation and notify you about recently introduced travel requirements and restrictions.
+Ordinary consular services such as visa and passport processing may be suspended or restricted to urgent need, depending on the location and the consulate.
+Although some people call the disease "Wuhan pneumonia" (武汉(漢)肺炎/武肺), "Wuhan disease", or "Chinese virus", the use of these terms is considered racist in China and by many people of Chinese origin.
+It is still common to refer the disease as "Wuhan pneumonia" or "Chinese virus" in places like Hong Kong and Taiwan.
+To be safe, use location-neutral terms when referring to the disease, such as "COVID-19", "novel coronavirus", or just "the virus" or "the pandemic".
+Particularly in developing countries where law enforcement are poorly trained, enforcement of curfew, lockdown or stay-at-home orders are often brutal, often using forces not proportionate against crowds.
+Comply with these orders, and avoid crowds in public.
+As a result of the coronavirus pandemic, xenophobia has risen in many countries, primarily but not exclusively targeting people perceived to be Chinese.
+There has been a worldwide spike in racist incidents targeting people of East Asian origin, including in major cities such as New York, London and San Francisco.
+In Hong Kong, Sinophobia, which was already high to begin with, has intensified as a result of the pandemic, with the result that many shops and restaurants are now denying service to mainland Chinese customers and banning Mandarin speakers from their premises (with the exception of Taiwanese).
+Levels of xenophobia have also risen in East Asia, with some restaurants and other businesses in Japan and China refusing service to foreign customers.
+In China, there have been incidents of foreigners being refused rooms by hotel staff, and foreign residents, particularly black people, being kicked out of their apartments on short notice by their landlords.
+Sources for further information on the coronavirus outbreak include:
+The US government Centers for Disease Control and Prevention
+European Centre for Disease Prevention and Control (daily updates)
+United Kingdom government, - Foreign and Commonwealth Office advice for Travellers
+An online map and dashboard from the John Hopkins University Center for Systems Science and Engineering with live updates
+Partial lists of entry restrictions from IATA and The New York Times
+A variety of misinformation and conspiracy theories about the virus are being promoted online and even by some government officials, so be careful which sources you check for information.
+Ensure that all information and advice you receive has been backed by reputable doctors and scientists.
+In a crisis, it's natural to want to keep following the latest updates, but it may be better for your mental health to moderate the amount of news that you look at, and stick to reliable news sources.
+If you normally watch the news twice per day then stick to this schedule and do something else, rather than having the 24-hour news on continuously.
+b'Bat SARS-like coronavirus WIV1 (Bat SL-CoV-WIV1), also sometimes called SARS-like coronavirus WIV1, is a strain of Severe acute respiratory syndrome-related coronavirus (SARSr-CoV) isolated from Chinese rufous horseshoe bats (Rhinolophus sinicus).
+Like all coronaviruses, virions consist of single-stranded positive-sense RNA enclosed within an envelope.
+The discovery confirms that bats are the natural reservoir of SARS-CoV.
+Phylogenetic analysis shows the possibility of direct transmission of SARS from bats to humans without the intermediary Chinese civets, as previously believed.
+b'COVID-19 drug development is the research process to develop a preventative vaccine or therapeutic prescription drug that would alleviate the severity of 2019-20 coronavirus disease (COVID-19).
+The International Clinical Trials Registry Platform of the WHO recorded 536 clinical studies to develop post-infection therapies for COVID-19 infections, with numerous established antiviral compounds for treating other infections under clinical research to be repurposed.
+In March, the WHO initiated the "SOLIDARITY Trial" in 10 countries, enrolling thousands of people infected with COVID-19 to assess treatment effects of four existing antiviral compounds with the most promise of efficacy.
+A dynamic, systematic review was established in April 2020 to track the progress of registered clinical trials for COVID-19 vaccine and therapeutic drug candidates.Vaccine and drug development is a multistep process, typically requiring more than five years to assure safety and efficacy of the new compound.
+Drug development is the process of bringing a new infectious disease vaccine or therapeutic drug to the market once a lead compound has been identified through the process of drug discovery.
+It includes laboratory research on microorganisms and animals, filing for regulatory status, such as via the FDA, for an investigational new drug to initiate clinical trials on humans, and may include the step of obtaining regulatory approval with a new drug application to market the drug.
+Development of a COVID-19 vaccine or therapeutic antiviral drug begins with matching a chemical concept to the potential prophylactic mechanism of the future vaccine or antiviral activity in vivo.
+New chemical entities (NCEs, also known as new molecular entities or NMEs) are compounds that emerge from the process of drug discovery to specify a vaccine or antiviral candidate.
+These have promising activity against a biological target related to COVID-19 disease.
+At the beginning of vaccine or drug development, little is known about the safety, toxicity, pharmacokinetics, and metabolism of the NCE in humans.
+It is the function and obligation of drug development to assess all of these parameters prior to human clinical trials to prove safety and efficacy.
+A further major objective of drug development is to recommend the dose and schedule for the first use in a human clinical trial ("first-in-human" [FIH] or First Human Dose [FHD], previously also known as "first-in-man" [FIM]).
+In addition, drug development must establish the physicochemical properties of the NCE: its chemical makeup, stability, and solubility.
+Manufacturers must optimize the process they use to make the chemical so they can scale up from a medicinal chemist producing milligrams, to manufacturing on the kilogram and ton scale.
+They further examine the product for suitability to package as capsules, tablets, aerosol, intramuscular injectable, subcutaneous injectable, or intravenous formulations.
+Together, these processes are known in preclinical and clinical development as chemistry, manufacturing, and control (CMC).Many aspects of drug development focus on satisfying the regulatory requirements of drug licensing authorities.
+These generally constitute tests designed to determine the major toxicities of a novel compound prior to first use in humans.
+The Canadian government announced CA$275 million in funding for 96 research projects on medical countermeasures against COVID-19, including numerous vaccine candidates at Canadian universities, with plans to establish a "vaccine bank" of new vaccines for implementation if another coronavirus outbreak occurs.
+Clinical trial programs involve three, multiple-year stages toward product approval, and a fourth, post-approval stage for ongoing safety monitoring of the vaccine or drug therapy:
+Phase I trials, usually in healthy volunteers, determine safety and dosing.
+Phase II trials are used to establish an initial reading of efficacy and further explore safety in small numbers of people having the disease targeted by the NCE.
+Phase III trials are large, pivotal trials to determine safety and efficacy in sufficiently large numbers of people with the COVID-19 infection.
+If safety and efficacy are adequately proved, clinical testing may stop at this step and the NCE advances to the new drug application (NDA) stage to begin marketing.
+Phase IV trials are post-approval trials that may be a condition attached by the FDA, also called post-market surveillance studies.
+In addition to the tests required to move a novel vaccine or antiviral drug into the clinic for the first time, manufacturers must ensure that any long-term or chronic toxicities are well-defined, including effects on systems not previously monitored (fertility, reproduction, immune system, among others).
+In the United States, this process is called a "new drug application" or NDA.
+A clinical trial design in progress may be modified as an "adaptive design" if accumulating data in the trial provide early insights about positive or negative efficacy of the treatment.
+The global Solidarity and European Discovery trials of hospitalized people with severe COVID-19 infection apply adaptive design to rapidly alter trial parameters as results from the four experimental therapeutic strategies emerge.
+Adaptive designs within ongoing Phase II-III clinical trials on candidate therapeutics may shorten trial durations and use fewer subjects, possibly expediting decisions for early termination or success, and coordinating design changes for a specific trial across its international locations.
+Most novel drug candidates (NCEs) fail during drug development, either because they have unacceptable toxicity or because they simply do not prove efficacy on the targeted disease, as shown in Phase II-III clinical trials.
+The high failure rates associated with pharmaceutical development are referred to as an "attrition rate", requiring decisions during the early stages of drug development to "kill" projects early to avoid costly failures.
+One 2010 study assessed both capitalized and out-of-pocket costs for bringing a single new drug to market as about US$1.8 billion and $870 million, respectively.
+A median cost estimate of 2015-16 trials for development of 10 anti-cancer drugs was $648 million.
+In a 2016 review of 106 drug candidates assessed through clinical trials, the total capital expenditure for a manufacturer having a drug approved through successful Phase III trials was $2.6 billion (in 2013 dollars), an amount increasing at an annual rate of 8.5%.
+Seven trials were evaluating repurposed drugs already approved to treat malaria, including four studies on hydroxychloroquine or chloroquine phosphate.
+Repurposed antiviral drugs make up most of the Chinese research, with 9 Phase III trials on remdesivir across several countries due to report by the end of April.
+Led by the Bill and Melinda Gates Foundation with partners investing US$125 million and coordinating with the World Health Organization, the COVID-19 Therapeutics Accelerator began in March, facilitating drug development researchers to rapidly identify, assess, develop, and scale up potential treatments.
+The COVID-19 Clinical Research Coalition formed to coordinate and expedite results from international clinical trials on the most promising post-infection treatments.
+In early 2020, numerous established antiviral compounds for treating other infections were being repurposed or developed in new clinical research efforts to alleviate the illness of COVID-19.
+For an already-approved drug (such as hydroxychloroquine for malaria), Phase III-IV trials determine in hundreds to thousands of COVID-19-infected people the possible extended use of an already-approved drug for treating COVID-19 infection.
+As of early April 2020, 103 candidate therapeutics were in preclinical or a stage of Phase I-IV development, with trial results for 29 drug candidates expected during April.
+In March, the World Health Organization (WHO) launched the coordinated "Solidarity trial" in 10 countries to rapidly assess in thousands of COVID-19 infected people the potential efficacy of existing antiviral and anti-inflammatory agents not yet evaluated specifically for COVID-19 illness.
+Do any of the drugs reduce mortality?
+Do any of the drugs reduce the time a patient is hospitalized?
+Do the treatments affect the need for people with COVID-19-induced pneumonia to be ventilated or maintained in intensive care?
+Could such drugs be used to minimize the illness of COVID-19 infection in healthcare staff and people at high risk of developing severe illness?Enrolling people with COVID-19 infection is simplified by using data entries, including informed consent, on a WHO website.
+After the trial staff determines the drugs available at the hospital, the WHO website randomizes the hospitalized subject to one of the trial drugs or to the hospital standard of care for treating COVID-19.
+The trial physician records and submits follow-up information about the subject status and treatment, completing data input via the WHO Solidarity website.
+A global safety monitoring board of WHO physicians examine interim results to assist decisions on safety and effectiveness of the trial drugs, and alter the trial design or recommend an effective therapy.
+A similar web-based study to Solidarity, called "Discovery", was initiated in March across seven countries by INSERM (Paris, France).During March, funding for the Solidarity trial reached US$108 million from 203,000 individuals, organizations and governments, with 45 countries involved in financing or trial management.
+Numerous candidate drugs under study as "supportive" treatments to relieve discomfort during illness, such as NSAIDs or bronchodilators, are not included in the table below.
+Others in early-stage Phase II trials or numerous treatment candidates in Phase I trials, are also excluded.
+Drug candidates in Phase I-II trials have a low rate of success (under 12%) to pass through all trial phases to gain eventual approval.
+Hydroxychloroquine is more commonly available than chloroquine in the United States.
+Although several countries use chloroquine or hydroxychloroquine for treatment of persons hospitalized with COVID-19, as of March 2020 the drug has not been formally approved through clinical trials in the United States.
+Chloroquine has been recommended by Chinese, South Korean and Italian health authorities for the treatment of COVID-19, although these agencies and the US CDC noted contraindications for people with heart disease or diabetes.
+Both drugs have extensive interactions with prescription drugs, affecting the therapeutic dose and disease mitigation.
+Some people have allergic reactions to these drugs.On 12 April, a preliminary clinical trial conducted at a hospital in Brazil was stopped when several people given high doses of chloroquine for COVID-19 infection developed irregular heart rates, causing 11 deaths.
+Chinese clinical trials in Wuhan and Shenzhen claimed to show that favipiravir was "clearly effective".
+Of 35 patients in Shenzhen tested negative in a median of 4 days, while the length of illness was 11 days in the 45 patients who did not receive it.
+In a study conducted in Wuhan on 240 patients with pneumonia half were given favipiravir and half received umifenovir.
+The term "preclinical research" is defined by laboratory studies in vitro and in vivo, indicating a beginning stage for development of a vaccine, antiviral or monoclonal antibody therapy, such as experiments to determine effective doses and toxicity, before a candidate compound is advanced for safety and efficacy evaluation in humans.
+Some antibiotics may be repurposed as COVID-19 treatments:
+In March 2020, the main protease of the SARS-CoV-2 virus was identified as a target for post-infection drugs.
+This enzyme is essential to the host cell to reproduce the ribonucleic acid of the virus.
+To find the enzyme, scientists used the genome published by Chinese researchers in January 2020 to isolate the main protease.
+As a potential combination therapy, they are used together in two Phase III arms of the 2020 global Solidarity project on COVID-19.
+A preliminary study in China of combined lopinavir and ritonavir found no effect in people hospitalized for COVID-19.
+It is unclear yet whether conditions arising during pregnancy including diabetes, cardiac failure, hypercoagulability or hypertension might represent additional risk factors for pregnant people as they do for nonpregnant people.From the limited data available, vertical transmission during the third trimester probably does not occur, or only occurs very rarely.
+There is no data yet on early pregnancy.
+Little evidence exists to permit any solid conclusions about the nature of COVID-19 infection in pregnancy.
+A case series of 43 women from New York who tested positive for COVID-19 showed similar patterns to non-pregnant adults: 86% had mild disease, 9.3% had severe disease and 4.7% developed critical disease.
+Fetal distress was reported in two.
+None of the women developed severe COVID-19 pneumonia or died.
+All of them had live birth pregnancies and no severe neonatal asphyxia was observed.
+The samples of breast milk, amniotic fluid, cord blood and neonatal throat swab were tested for SARS-CoV-2, and all results were negative.In another study on 15 pregnant women, majority of the patients presented with fever and cough, while laboratory tests yielded lymphocytopenia in 12 patients.
+Computed tomography findings of these patients were consistent with previous reports of non-pregnant patients, consisting of ground-glass opacities at early stage.
+Follow-up images after delivery showed no progression of pneumonia.Media reports indicate that over 100 women with COVID-19 might have delivered, and in March 2020, no maternal deaths were reported.
+Their guidelines thus advise that any pregnant person admitted to hospital with a COVID-19 infection should receive at least 10 days of prophylactic low-molecular-weight heparin after being discharged from the hospital.
+There are no data yet concerning the implications of COVID-19 infections for labour.
+One infant girl born to a mother with COVID-19 had elevated IgM levels two hours after birth, suggesting that she had been infected in utero and supporting the possibility of vertical transmission in some cases.
+A small study involving 6 confirmed COVID-19 mothers showed no indication of SARS-COV-19 in their newborns' throats or serum but antibodies were present in neonatal blood sera samples, including IgM in two of the infants.
+This is not usually passed from mother to fetus so further research is required to know whether the virus crossed the placenta or whether placentas of women in the study were damaged or abnormal.
+Since COVID-19 shows similarities to SARS-CoV and MERS-CoV, it is likely that their effect on pregnancy are similar.
+Four of seven had first trimester miscarriage, two of five had fetal growth restriction in the second trimester, and four of five had preterm birth.
+None of the newborns were infected with SARS-CoV.
+A report of ten cases of MERS- CoV infection in pregnancy in Saudi Arabia showed that the clinical presentation is variable, from mild to severe infection.
+The outcome was favorable in a majority of the cases, but the infant death rate was 27%.A recent review suggested that COVID-19 appeared to be less lethal to mothers and infants than SARS and MERS but that there may be an increased risk of preterm birth after 28 weeks' gestation.
+The World Health Organization and  Centers for Disease Control and Prevention of the United States advises pregnant women to do the same things as the general public to avoid infection, such as covering cough, avoid interacting with sick people, cleaning hands with soap and water or sanitizer.
+A survey conducted in Shanghai among pregnant women in different trimesters of pregnancy identified a strong demand for online access to health information and services.
+People expecting their first baby were more willing to have online consultation and guidance than who had previously given birth.The RCOG and RCM recommend that in-person appointments be deferred by 7 days after the start of symptoms of COVID-19 or 14 days if another person in the household has symptoms.
+Fever subsequently developed in three asymptomatic patients.
+One patient who had tested negative subsequently became symptomatic postpartum and tested positive three days after the initial negative test.
+The doctors conducting the screening recommended that in order to reduce infection and allocate PPE, due to high numbers of patients presenting as asymptomatic, universal screening of pregnant patients should be conducted.
+They also suggest that people with suspected or confirmed COVID-19 should have continuous electronic fetal monitoring.
+The use of birthing pools is not recommended for suspected or confirmed cases of COVID-19 due to the risk of infection via faeces.
+In the UK, official recommendations state that precautionary separation of a mother and a healthy baby should not be undertaken lightly and that they should be kept together in the postpartum period where neonatal care is not required.Literature from China recommended separation of infected mothers from babies for 14 days.
+In the US there is also the recommendation that newborns and mothers should be temporarily separated until transmission-based precautions are discontinued, and that where this is not possible the newborn should be kept 2 metres away from the mother.
+b'COVID-19 surveillance involves monitoring the spread of the coronavirus disease in order to establish the patterns of disease progression.
+The World Health Organization (WHO) recommends active surveillance, with focus of case finding, testing and contact tracing in all transmission scenarios.
+COVID-19 surveillance is expected to monitor epidemiological trends, rapidly detect new cases, and based on this information, provide epidemiological information to conduct risk assessment and guide disease preparedness.
+Syndromic surveillance is done based on the symptoms of an individual that corresponds to COVID-19.
+As of March 2020, the WHO recommends the following case definitions:
+Probable case : "A suspect case for whom testing for the COVID-19 virus is inconclusive" OR "a suspect case for whom testing could not be performed for any reason".
+Confirmed case: "A person with laboratory confirmation of COVID-19 infection, irrespective of clinical signs and symptoms".
+Direct physical contact with a probable or confirmed case;
+Direct care for a patient with probable or confirmed COVID-19 disease without using proper personal protective equipment;
+Other situations as indicated by local risk assessments".WHO recommends reporting of probable and confirmed cases of COVID-19 infection within 48 hours of identification.
+The countries should report on a case-by-case basis as far as possible, but in case of limitation in resources, aggregate weekly reporting is also possible.
+Some organizations have created crowdsourced apps for syndromic surveillance, where people can report their symptoms to help researchers map areas with concentration of COVID-19 symptoms.
+Virological surveillance is done by using molecular tests for COVID-19.
+WHO has published resources for laboratories on how to perform testing for COVID-19.
+In the European Union, laboratory confirmed cases of COVID-19 are reported within 24 hours of identification.
+At least 24 countries have established digital surveillance of their citizens.
+The digital surveillance technologies include apps, location data and electronic tags.
+The Center For Disease Control and Prevention in USA tracks the travel information of individuals using airline passenger data.
+In Hong Kong, authorities are requiring a bracelet and an app for all travellers.
+A GPS app is used to track the locations of individuals in South Korea to ensure against quarantine breach, sending alerts to the user and to authorities if people leave designated areas.
+In Singapore, individuals have to report their locations with photographic proof.
+Thailand is using an app and SIM cards for all travelers to enforce their quarantine.
+Human rights organizations have criticized some of these measures, asking the governments not to use the pandemic as a cover to introduce invasive digital surveillance.
+b'Coronaviruses are a group of related viruses that cause diseases in mammals and birds.
+In humans, coronaviruses cause respiratory tract infections that can range from mild to lethal.
+Mild illnesses include some cases of the common cold (which has other possible causes, predominantly rhinoviruses), while more lethal varieties can cause SARS, MERS, and COVID-19.
+Symptoms in other species vary: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea.
+There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.
+Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronaviridae, order Nidovirales, and realm Riboviria.
+They are enveloped viruses with a positive-sense single-stranded RNA genome and a nucleocapsid of helical symmetry.
+The genome size of coronaviruses ranges from approximately 26 to 32 kilobases, one of the largest among RNA viruses.
+They have characteristic club-shaped spikes that project from their surface, which in electron micrographs create an image reminiscent of the solar corona from which their name derives.
+Coronaviruses were first discovered in the 1930s when an acute respiratory infection of domesticated chickens was shown to be caused by infectious bronchitis virus (IBV).
+In the 1940s, two more animal coronaviruses, mouse hepatitis virus (MHV) and transmissible gastroenteritis virus (TGEV), were isolated.Human coronaviruses were discovered in the 1960s.
+The earliest ones studied were from human patients with the common cold, which were later named human coronavirus 229E and human coronavirus OC43.
+They were first imaged by Scottish virologist June Almeida at St. Thomas Hospital in London.
+Other human coronaviruses have since been identified, including SARS-CoV in 2003, HCoV NL63 in 2004, HKU1 in 2005, MERS-CoV in 2012, and SARS-CoV-2 in 2019.
+Most of these have involved serious respiratory tract infections.
+The name was first used in 1968 by an informal group of virologists in the journal Nature to designate the new family of viruses.
+The name refers to the characteristic appearance of virions (the infective form of the virus) by electron microscopy, which have a fringe of large, bulbous surface projections creating an image reminiscent of a crown or of a solar corona.
+This morphology is created by the viral spike peplomers, which are proteins on the surface of the virus.
+Coronaviruses are large pleomorphic spherical particles with bulbous surface projections.
+The envelope of the virus in electron micrographs appears as a distinct pair of electron dense shells.The viral envelope consists of a lipid bilayer where the membrane (M), envelope (E) and spike (S) structural proteins are anchored.
+The lipid bilayer envelope, membrane proteins, and nucleocapsid protect the virus when it is outside the host cell.
+Coronaviruses contain a positive-sense, single-stranded RNA genome.
+The genome size for coronaviruses ranges from 26.4 to 31.7 kilobases.
+The genome size is one of the largest among RNA viruses.
+The open reading frames 1a and 1b, which occupy the first two-thirds of the genome, encode the replicase/transcriptase polyprotein.
+The replicase/transcriptase polyprotein self cleaves to form nonstructural proteins.The later reading frames encode the four major structural proteins: spike, envelope, membrane, and nucleocapsid.
+Interspersed between these reading frames are the reading frames for the accessory proteins.
+The number of accessory proteins and their function is unique depending on the specific coronavirus.
+Infection begins when the viral spike (S) glycoprotein attaches to its complementary host cell receptor.
+After attachment, a protease of the host cell cleaves and activates the receptor-attached spike protein.
+Depending on the host cell protease available, cleavage and activation allows the virus to enter the host cell by endocytosis or direct fusion of the viral envelop with the host membrane.On entry into the host cell, the virus particle is uncoated, and its genome enters the cell cytoplasm.
+The host ribosome translates the initial overlapping open reading frame of the virus genome and forms a long polyprotein.
+The polyprotein has its own proteases which cleave the polyprotein into multiple nonstructural proteins.
+A number of the nonstructural proteins coalesce to form a multi-protein replicase-transcriptase complex (RTC).
+The main replicase-transcriptase protein is the RNA-dependent RNA polymerase (RdRp).
+It is directly involved in the replication and transcription of RNA from an RNA strand.
+The other nonstructural proteins in the complex assist in the replication and transcription process.
+The exoribonuclease nonstructural protein, for instance, provides extra fidelity to replication by providing a proofreading function which the RNA-dependent RNA polymerase lacks.One of the main functions of the complex is to replicate the viral genome.
+RdRp directly mediates the synthesis of negative-sense genomic RNA from the positive-sense genomic RNA.
+This is followed by the replication of positive-sense genomic RNA from the negative-sense genomic RNA.
+The other important function of the complex is to transcribe the viral genome.
+RdRp directly mediates the synthesis of negative-sense subgenomic RNA molecules from the positive-sense genomic RNA.
+This is followed by the transcription of these negative-sense subgenomic RNA molecules to their corresponding positive-sense mRNAs.
+The replicated positive-sense genomic RNA becomes the genome of the progeny viruses.
+The mRNAs are gene transcripts of the last third of the virus genome after the initial overlapping reading frame.
+These mRNAs are translated by the host's ribosomes into the structural proteins and a number of accessory proteins.
+RNA translation occurs inside the endoplasmic reticulum.
+The viral structural proteins S, E, and M move along the secretory pathway into the Golgi intermediate compartment.
+There, the M proteins direct most protein-protein interactions required for assembly of viruses following its binding to the nucleocapsid.
+Progeny viruses are then released from the host cell by exocytosis through secretory vesicles.
+The interaction of the coronavirus spike protein with its complement host cell receptor is central in determining the tissue tropism, infectivity, and species range of the virus.
+The SARS coronavirus, for example, infects human cells by attaching to the angiotensin-converting enzyme 2 (ACE2) receptor.
+The scientific name for coronavirus is Orthocoronavirinae or Coronavirinae.
+Coronaviruses belong to the family of Coronaviridae, order Nidovirales, and realm Riboviria.
+Genus Betacoronavirus; type species: Murine coronavirus
+Species: Betacoronavirus 1 (Bovine Coronavirus, Human coronavirus OC43), Human coronavirus HKU1, Murine coronavirus, Pipistrellus bat coronavirus HKU5, Rousettus bat coronavirus HKU9, Severe acute respiratory syndrome-related coronavirus (SARS-CoV, SARS-CoV-2), Tylonycteris bat coronavirus HKU4, Middle East respiratory syndrome-related coronavirus, Hedgehog coronavirus 1 (EriCoV)
+Species: Beluga whale coronavirus SW1, Infectious bronchitis virus
+The most recent common ancestor (MRCA) of all coronaviruses is estimated to have existed as recently as 8000 BCE, although some models place the common ancestor as far back as 55 million years or more, implying long term coevolution with bat and avian species.
+The most recent common ancestor of the alphacoronavirus line has been placed at about 2400 BCE, the betacoronavirus line at 3300 BCE, the gammacoronavirus line at 2800 BCE, and the deltacoronavirus line at about 3000 BCE.
+The large number of host bat and avian species, and their global range, has enabled extensive evolution and dissemination of coronaviruses.Many human coronavirus have their origin in bats.
+More recently, alpaca coronavirus and human coronavirus 229E diverged sometime before 1960.
+MERS-CoV emerged in humans from bats through the intermediate host of camels.
+MERS-CoV, although related to several bat coronavirus species, appears to have diverged from these several centuries ago.
+The most closely related bat coronavirus and SARS-CoV diverged in 1986.
+A possible path of evolution, of SARS coronavirus and keen bat coronaviruses, suggests that SARS related coronaviruses coevolved in bats for a long time.
+In the 1790s, equine coronavirus diverged from the bovine coronavirus after a cross-species jump.
+Later in the 1890s, human coronavirus OC43 diverged from bovine coronavirus after another cross-species spillover event.
+It is speculated that the flu pandemic of 1890 may have been caused by this spillover event, and not by the influenza virus, because of the related timing, neurological symptoms, and unknown causative agent of the pandemic.
+Human coronavirus OC43 besides causing respiratory infections is also suspected of playing a role in neurological diseases.
+In the 1950s, the human coronavirus OC43 began to diverge into its present genotypes.
+Phylogentically, mouse hepatitis virus (Murine coronavirus), which infects the mouse's liver and the central nervous system, is related to  human coronavirus OC43 and bovine coronavirus.
+Human coronavirus HKU1, like the aforementioned viruses, also has its origins in rodents.
+Coronaviruses vary significantly in risk factor.
+Some can kill more than 30% of those infected, such as MERS-CoV, and some are relatively harmless, such as the common cold.
+Coronaviruses can cause colds with major symptoms, such as fever, and a sore throat from swollen adenoids.
+Coronaviruses can cause pneumonia (either direct viral pneumonia or secondary bacterial pneumonia) and bronchitis (either direct viral bronchitis or secondary bacterial bronchitis).
+The human coronavirus discovered in 2003, SARS-CoV, which causes severe acute respiratory syndrome (SARS), has a unique pathogenesis because it causes both upper and lower respiratory tract infections.Six species of human coronaviruses are known, with one species subdivided into two different strains, making seven strains of human coronaviruses altogether.
+Four of these coronaviruses continually circulate in the human population and produce the generally mild symptoms of the common cold in adults and children worldwide: -OC43, -HKU1, HCoV-229E, -NL63.
+Coronaviruses cause about 15% of commons colds.
+The majority of colds are caused by rhinoviruses.
+The four mild coronaviruses have a seasonal incidence occurring in the winter months in temperate climates.
+There is no preference towards a particular season in tropical climates.
+Four human coronaviruses produce symptoms that are generally mild:
+The virus was officially named the SARS coronavirus (SARS-CoV).
+More than 8,000 people were infected, about ten percent of whom died.
+In September 2012, a new type of coronavirus was identified, initially called Novel Coronavirus 2012, and now officially named Middle East respiratory syndrome coronavirus (MERS-CoV).
+The World Health Organization issued a global alert soon after.
+The WHO update on 28 September 2012 said the virus did not seem to pass easily from person to person.
+However, on 12 May 2013, a case of human-to-human transmission in France was confirmed by the French Ministry of Social Affairs and Health.
+In addition, cases of human-to-human transmission were reported by the Ministry of Health in Tunisia.
+Two confirmed cases involved people who seemed to have caught the disease from their late father, who became ill after a visit to Qatar and Saudi Arabia.
+Despite this, it appears the virus had trouble spreading from human to human, as most individuals who are infected do not transmit the virus.
+The final name for the virus is Middle East respiratory syndrome coronavirus (MERS-CoV).
+The only U.S. cases (both survived) were recorded in May 2014.In May 2015, an outbreak of MERS-CoV occurred in the Republic of Korea, when a man who had traveled to the Middle East, visited four hospitals in the Seoul area to treat his illness.
+This caused one of the largest outbreaks of MERS-CoV outside the Middle East.
+As of December 2019, 2,468 cases of MERS-CoV infection had been confirmed by laboratory tests, 851 of which were fatal, a mortality rate of approximately 34.5%.
+In December 2019, a pneumonia outbreak was reported in Wuhan, China.
+On 31 December 2019, the outbreak was traced to a novel strain of coronavirus, which was given the interim name 2019-nCoV by the World Health Organization (WHO), later renamed SARS-CoV-2 by the International Committee on Taxonomy of Viruses.
+Some researchers have suggested the Huanan Seafood Wholesale Market may not be the original source of viral transmission to humans.As of 17 April 2020, there have been at least 153,822 confirmed deaths and more than 2,240,191 confirmed cases in the coronavirus pneumonia pandemic.
+The Wuhan strain has been identified as a new strain of Betacoronavirus from group 2B with approximately 70% genetic similarity to the SARS-CoV.
+The virus has a 96% similarity to a bat coronavirus, so it is widely suspected to originate from bats as well.
+The pandemic has resulted in travel restrictions and nationwide lockdowns in several countries.
+Coronaviruses have been recognized as causing pathological conditions in veterinary medicine since the 1930s.
+Except for avian infectious bronchitis, the major related diseases have mainly an intestinal location.
+Coronaviruses primarily infect the upper respiratory and gastrointestinal tract of mammals and birds.
+They also cause a range of diseases in farm animals and domesticated pets, some of which can be serious and are a threat to the farming industry.
+In chickens, the infectious bronchitis virus (IBV), a coronavirus, targets not only the respiratory tract but also the urogenital tract.
+The virus can spread to different organs throughout the chicken.
+Economically significant coronaviruses of farm animals include porcine coronavirus (transmissible gastroenteritis coronavirus, TGE) and bovine coronavirus, which both result in diarrhea in young animals.
+Feline coronavirus: two forms, feline enteric coronavirus is a pathogen of minor clinical significance, but spontaneous mutation of this virus can result in feline infectious peritonitis (FIP), a disease associated with high mortality.
+Similarly, there are two types of coronavirus that infect ferrets: Ferret enteric coronavirus causes a gastrointestinal syndrome known as epizootic catarrhal enteritis (ECE), and a more lethal systemic version of the virus (like FIP in cats) known as ferret systemic coronavirus (FSC).
+There are two types of canine coronavirus (CCoV), one that causes mild gastrointestinal disease and one that has been found to cause respiratory disease.
+Mouse hepatitis virus (MHV) is a coronavirus that causes an epidemic murine illness with high mortality, especially among colonies of laboratory mice.
+Sialodacryoadenitis virus (SDAV) is highly infectious coronavirus of laboratory rats, which can be transmitted between individuals by direct contact and indirectly by aerosol.
+Some strains of MHV cause a progressive demyelinating encephalitis in mice which has been used as a murine model for multiple sclerosis.
+Significant research efforts have been focused on elucidating the viral pathogenesis of these animal coronaviruses, especially by virologists interested in veterinary and zoonotic diseases.
+Porcine coronavirus (transmissible gastroenteritis coronavirus of pigs, TGEV).
+Bovine coronavirus (BCV), responsible for severe profuse enteritis in of young calves.
+Feline coronavirus (FCoV) causes mild enteritis in cats as well as severe Feline infectious peritonitis (other variants of the same virus).
+the two types of canine coronavirus (CCoV) (one causing enteritis, the other found in respiratory diseases).
+Turkey coronavirus (TCV) causes enteritis in turkeys.
+Ferret enteric coronavirus causes epizootic catarrhal enteritis in ferrets.
+Ferret systemic coronavirus causes FIP-like systemic syndrome in ferrets.
+Rabbit enteric coronavirus causes acute gastrointestinal disease and diarrhea in young European rabbits.
+Porcine epidemic diarrhea virus (PED or PEDV), has emerged around the world.

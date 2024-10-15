@@ -1,0 +1,971 @@
+y tiene alguno de los siguientes síntomas además de dolor de pecho
+¿y tiene secreción nasal?
+¿y este dolor sale de su pecho?
+y beba mucho líquido
+y digamos que ella tiene los mismos síntomas
+¿y dígame qué síntomas tiene ahora?
+y los síntomas no desaparecen en cinco días
+¿algún dolor agudo en el lado izquierdo del pecho?
+ahora tiene algo de dificultad para respirar
+además de la diabetes, ¿tiene otros problemas o enfermedades importantes?
+pero si tiene tos
+porque tienen tos
+¿tiene algún problema de presión arterial hasta donde sabe?
+sus familiares tienen los mismos síntomas
+tener tos seca resfriado y secreción nasal vómitos diarrea
+no creo tener presión arterial alta
+siento dolor de pecho aquí, en la parte de adelante del pecho
+tuve un dolor agudo breve en el pecho
+aunque también tengo alergia al polen
+{NS}
+veo que sube desde el centro de su pecho hasta su cuello
+me duele el pecho
+está ocurriendo justo en el centro de mi pecho
+es justo en el centro de mi pecho
+suena como que quizás solo tenga un resfriado común y corriente o una gripe
+le enviaré una imagen
+le enviaré una imagen en su pantalla
+casi siempre es este tipo de dolor de pecho
+mi hermana tiene síntomas similares
+ahora le envío una imagen
+o si tiene presión arterial alta
+así que el dolor de pecho comenzó esta mañana
+la fiebre empezó hace dos días
+los dolores musculares con la alergia al polen
+bueno, desde mi punto de vista, es un poco de gripe
+bueno, señora, al escuchar sus síntomas, parece que tiene uno de los virus de la gripe
+probablemente tenga dolor de pecho
+Estimaciones preliminares de la prevalencia de afecciones médicas subyacentes seleccionadas entre pacientes con enfermedad por coronavirus 2019 — Estados Unidos, 12 de febrero–28 de marzo de 2020
+El 11 de marzo de 2020, la Organización Mundial de la Salud declaró a la enfermedad por coronavirus 2019 (COVID-19) una pandemia.
+Al 28 de marzo de 2020, se ha registrado un total de 571 678 casos confirmados de COVID-19 y 26 494 muertes en todo el mundo.
+Informes de China e Italia sugieren que los factores de riesgo de enfermedad grave incluyen la edad avanzada y la presencia de al menos una de varias afecciones médicas subyacentes.
+Los adultos mayores de EE. UU., incluidos los de ≥65 años y en particular aquellos de ≥85 años, también parecen tener un mayor riesgo de complicaciones graves asociadas a la COVID-19; sin embargo, aún no se han informado datos que describan las afecciones médicas subyacentes entre los pacientes con COVID-19 en EE. UU.
+Al 28 de marzo de 2020, los estados y territorios de EE. UU. han informado 122 653 casos de COVID-19 en EE. UU. a los CDC, incluidos 7162 (5,8 %) sobre quienes se informaron datos de afecciones médicas subyacentes y otros factores de riesgo conocidos de complicaciones graves de infecciones respiratorias.
+Entre estos 7162 casos, 2692 (37,6 %) pacientes tenían una o más afecciones médicas subyacentes o factores de riesgo, y 4470 (62,4 %) no tenían ninguna de estas afecciones informadas.
+El porcentaje de pacientes con COVID-19 que tenían al menos una afección médica subyacente o factor de riesgo era más alto entre quienes requerían internación en la unidad de cuidados intensivos (UCI) (358 de 457, 78 %) y quienes requerían hospitalización sin internación en la UCI (732 de 1037, 71 %) que entre quienes no eran hospitalizados (1388 de 5143, 27 %).
+Las afecciones más informadas eran diabetes mellitus, enfermedad pulmonar crónica y enfermedad cardiovascular.
+Estas conclusiones preliminares sugieren que, en Estados Unidos, las personas con afecciones médicas subyacentes u otros factores de riesgo reconocidos de complicaciones graves de infecciones respiratorias parecen tener un mayor riesgo de enfermedad grave por la COVID-19 que las personas que no presentan esas afecciones.
+Se analizaron los datos de casos de COVID-19 confirmados por laboratorio informados a los CDC de 50 estados, cuatro territorios estadounidenses e islas asociadas, el Distrito de Columbia y la ciudad de Nueva York, con fechas de aparición entre el 12 de febrero y el 28 de marzo de 2020.
+Se excluyeron los casos de personas repatriadas a Estados Unidos desde Wuhan, China, y del crucero Diamond Princess.
+Para los casos en los que se desconocía la fecha de aparición, se calculó la fecha de aparición restando 4 días (intervalo medio desde la aparición de los síntomas hasta fecha de toma de la muestra en casos con fechas conocidas en estos datos) a la primera toma de muestra.
+Los departamentos de salud pública informaron casos a los CDC usando un formulario de informe de casos estandarizado que captura información (sí, no o se desconoce) sobre las siguientes afecciones y posibles factores de riesgo: enfermedad pulmonar crónica (que incluye asma, enfermedad pulmonar obstructiva crónica [EPOC] y enfisema); diabetes mellitus; enfermedad cardiovascular; enfermedad renal crónica; enfermedad hepática crónica; condición de inmunocomprometido; trastorno neurológico, del desarrollo neurológico o discapacidad intelectual; embarazo; condición de fumador actual; antecedentes de tabaquismo u otra enfermedad crónica.
+Los datos informados a los CDC son preliminares y pueden ser actualizados por los departamentos de salud con el tiempo; es posible que faltaran datos críticos al momento del informe inicial; por lo tanto, este análisis es descriptivo y no pudieron hacerse comparaciones estadísticas.
+Se calcularon los porcentajes de pacientes de todas las edades con afecciones médicas subyacentes que no fueron hospitalizados, fueron hospitalizados sin internación en la UCI y fueron hospitalizados con internación en la UCI.
+Se estimaron los porcentajes de hospitalizaciones con y sin internación en la UCI en personas de ≥19 años con y sin afecciones médicas subyacentes.
+Esta parte del análisis se limitó a personas de ≥19 años debido al tamaño pequeño de la muestra de casos en niños con afecciones médicas subyacentes informadas (N = 32).
+Para resolver la falta de datos entre estos informes preliminares, los rangos se estimaron con un límite inferior, que incluía como denominador los casos con estado conocido y desconocido de hospitalización con y sin internación en la UCI, y un límite superior, que solo incluía casos con estado de desenlace clínico conocido como denominador.
+Debido al tamaño pequeño de la muestra y a la falta de datos sobre afecciones médicas subyacentes entre los pacientes con COVID-19 que murieron, no se calcularon las tasas de letalidad para personas con y sin afecciones subyacentes.
+Al 28 de marzo de 2020, se informó a los CDC un total de 122 653 casos de COVID-19 confirmados por laboratorio (figura) y 2112 muertes.
+Se enviaron a los CDC formularios de informe de casos de 74 439 (60,7 %) casos.
+Estaban disponibles datos sobre la presencia o ausencia de afecciones médicas subyacentes y otros factores de riesgo reconocidos de complicaciones graves de infecciones respiratorias (es decir, tabaquismo y embarazo) de 7162 (5,8 %) pacientes (tabla 1).
+Aproximadamente un tercio de esos pacientes (2692, 37,6 %) tenía al menos una afección subyacente o un factor de riesgo.
+Diabetes mellitus (784, 10,9 %), enfermedad pulmonar crónica (656, 9,2 %) y enfermedad cardiovascular (647, 9,0 %) eran las afecciones más informadas entre todos los casos.
+Entre 457 internaciones en la UCI y 1037 hospitalizaciones sin internación en la UCI, 358 (78 %) y 732 (71 %), respectivamente, ocurrieron entre personas con una o más afecciones médicas subyacentes informadas.
+En cambio, se informó que 1388 de 5143 (27 %) pacientes con COVID-19 que no fueron hospitalizados tenían al menos una afección médica subyacente.
+Entre los pacientes ≥19 años, el porcentaje de hospitalizaciones sin internación en la UCI era mayor en aquellos con afecciones médicas subyacentes (27,3 %–29,8 %) que en aquellos sin afecciones médicas subyacentes (7,2 %–7,8 %); el porcentaje de casos que requirieron internación en la UCI también era mayor en aquellos con afecciones médicas subyacentes (13,3 %–14,5 %) que en aquellos que no tenían estas afecciones (2,2 %–2,4 %) (tabla 2).
+Se informaron cantidades reducidas de pacientes con COVID-19 <19 años hospitalizados (48) o internados en una UCI (ocho).
+En cambio, 335 pacientes <19 no fueron hospitalizados y faltaban datos sobre la hospitalización de 1342.
+Entre todos los pacientes con COVID-19 sobre los que había información completa de afecciones subyacentes o factores de riesgo, se produjeron 184 muertes (todas entre pacientes ≥19 años); se informaron 173 muertes (94 %) entre los pacientes con al menos una afección subyacente.
+Entre los 122 653 casos de COVID-19 en EE. UU. informados a los CDC hasta el 28 de marzo de 2020, había datos disponibles sobre afecciones médicas subyacentes o posibles factores de riesgo de 7162 (5,8 %) pacientes; entre estos pacientes, mayores porcentajes de pacientes con afecciones subyacentes fueron hospitalizados e internados en la UCI que de pacientes sin afecciones subyacentes informadas.
+Estos resultados son coincidentes con los datos de China e Italia, que sugieren que los pacientes con afecciones médicas subyacentes y factores de riesgo, incluidos, entre otros, diabetes mellitus, hipertensión, EPOC, enfermedad de las arterias coronarias, enfermedad cerebrovascular, enfermedad renal crónica y tabaquismo, podrían tener un mayor riesgo de enfermarse gravemente o morir a causa de la COVID-19.
+Este análisis estuvo limitado por las cantidades reducidas y la falta de datos debido a la carga que recae sobre los departamentos de salud encargados de informar casos ante el rápido aumento de los conteos de casos, y estos resultados podrían variar a medida que estén disponibles más datos.
+Aún se desconoce si la gravedad o el nivel de control de las afecciones médicas subyacentes afectan el riesgo de enfermedad grave asociada a la COVID-19.
+Muchas de estas afecciones médicas subyacentes son comunes en Estados Unidos: de acuerdo con datos autoinformados de 2018, la prevalencia de diabetes diagnosticada entre adultos estadounidenses fue del 10,1 %, y la prevalencia ajustada por edad de todos los tipos de enfermedad cardíaca en EE. UU. (salvo hipertensión sin otra afección cardíaca) fue del 10,6 % en 2017.
+La prevalencia ajustada por edad de EPOC entre adultos estadounidenses es del 5,9 %, y en 2018, la prevalencia estimada en EE. UU. de asma crónica entre personas de todas las edades fue del 7,9 %.
+Los CDC continúan desarrollando y actualizando recursos destinados a personas con afecciones médicas subyacentes para reducir el riesgo de contraer la COVID-19.
+La mayor prevalencia estimada de estas condiciones entre aquellos que integran este grupo inicial de pacientes con COVID-19 en EE. UU. y el riesgo potencialmente más alto de enfermarse más gravemente a causa de la COVID-19 debido a la presencia de afecciones subyacentes ponen de relieve la importancia de la prevención de la COVID-19 en personas con afecciones subyacentes.
+Los resultados de este informe están sujetos a al menos seis limitaciones.
+En primer lugar, estos datos son preliminares y el análisis estuvo limitado por la falta de datos debida a la carga de informes que recae sobre el departamento de salud ante el rápido aumento de los conteos de casos y los retrasos en el suministro de información que requiere revisión del expediente médico; estos resultados podrían variar a medida que estén disponibles más datos.
+La información sobre las afecciones subyacentes solo estaba disponible para 7162 (5,8 %) de los 122 653 casos informados a los CDC.
+No se puede dar por supuesto que aquellos respecto de quienes falta información son similares a aquellos de quienes se tienen datos sobre hospitalizaciones o afecciones médicas subyacentes.
+En segundo lugar, estos datos están sujetos a sesgo en la comprobación del desenlace clínico debido al breve tiempo de seguimiento.
+Algunos resultados podrían estar subestimados, y no es posible evaluar el desenlace clínico a largo plazo en este análisis.
+En tercer lugar, debido a la disponibilidad reducida de pruebas en muchas jurisdicciones durante este período, este análisis probablemente esté sesgado hacia los casos más graves, y los resultados podrían variar a medida que las pruebas se generalicen.
+En cuarto lugar, debido a la naturaleza descriptiva de estos datos, no pudieron compararse las tasas de incidencia entre personas con y sin afecciones médicas subyacentes y, por ende, no fue posible estimar la diferencia en el riesgo de enfermedad grave a causa de la COVID-19 entre estos grupos.
+En quinto lugar, no fue posible arribar a conclusiones acerca de las afecciones subyacentes que no se incluyeron en el formulario de informe de casos o acerca de distintas afecciones que se informaron en una única categoría abierta.
+Por ejemplo, asma y EPOC se incluyeron en la categoría de enfermedad pulmonar crónica.
+Por último, para algunas afecciones médicas subyacentes, incluidos trastornos neurológicos, enfermedad hepática crónica, condición actual de fumador y embarazo, se informaron pocas complicaciones graves; por lo tanto, no es posible sacar conclusiones sobre el riesgo de COVID-19 grave entre personas de estos grupos.
+Las personas de Estados Unidos con afecciones médicas subyacentes aparentemente tienen un mayor riesgo de enfermarse más gravemente de COVID-19, lo que coincide con datos de otros países.
+Las personas con afecciones médicas subyacentes que tienen síntomas de COVID-19, como fiebre, tos o disnea, deben comunicarse de inmediato con su proveedor de atención médica.
+Estas personas deberían tomar medidas para protegerse de la COVID-19, como lavarse las manos, limpiar y desinfectar superficies de mucho contacto, y mantener el distanciamiento físico, lo que incluye quedarse en casa; evitar las multitudes, las reuniones y los viajes, y evitar el contacto con personas que estén enfermas.
+Para quienes tienen afecciones médicas subyacentes, se recomienda mantener al menos un suministro de medicamentos para 30 días y un suministro de alimentos y otros artículos de necesidad para 2 semanas, y estar informado sobre los síntomas de la COVID-19.
+Todas las personas deben tomar medidas para protegerse de la COVID-19 y proteger a los demás.
+Todas las personas que estén enfermas deben quedarse en casa, salvo que necesiten atención médica; no deben ir a trabajar y deben mantenerse alejadas de los demás.
+Esto es especialmente importante para aquellos que trabajan con personas que tienen afecciones subyacentes o que, por otro motivo, tienen un riesgo alto de tener complicaciones graves a causa de la COVID-19.
+Las estrategias de mitigación comunitaria, cuyo objetivo es frenar la propagación de la COVID-19, son importantes para proteger a todas las personas de la COVID-19, en especial a las personas con afecciones médicas subyacentes y otras personas en riesgo de enfermedad grave asociada a la COVID-19 (https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf).
+¿Qué ya se sabe sobre este tema?
+Informes publicados de China e Italia sugieren que los factores de riesgo para enfermarse gravemente de COVID-19 incluyen las afecciones médicas subyacentes, pero aún no se han publicado datos que describan las afecciones médicas subyacentes en pacientes estadounidenses con COVID-19.
+¿Qué agrega este informe?
+Sobre la base de datos preliminares de EE. UU., las personas con afecciones médicas subyacentes, como diabetes mellitus, enfermedad pulmonar crónica y enfermedad cardiovascular, aparentemente tienen un riesgo mayor de enfermarse gravemente a causa de la COVID-19 que las personas que no tienen estas afecciones.
+¿Qué consecuencias tiene esto para la práctica de la salud pública?
+Estrategias para proteger a todas las personas y, especialmente, a aquellas con afecciones médicas subyacentes, como el distanciamiento social y el lavado de manos, deben ser implementadas por todas las comunidades y personas para ayudar a frenar la propagación de la COVID-19.
+Aparición de un nuevo coronavirus (COVID-19): protocolo para ampliar la vigilancia utilizado por el Centro de Investigación y Vigilancia del Real Colegio de Médicos Generales y Salud Pública de Inglaterra
+El Centro de Investigación y Vigilancia (RSC) del Real Colegio de Médicos Generales (RCGP) y Salud Pública de Inglaterra (PHE) han trabajado juntos de manera fructífera en la vigilancia de la influenza y otras enfermedades infecciosas por más de 50 años, lo que incluye tres pandemias anteriores.
+Con la aparición del brote internacional de infección por coronavirus (COVID-19), se ha establecido un enfoque nacional de contención en el RU para examinar a personas con sospecha de exposición a la COVID-19.
+Al mismo tiempo y por separado, se ha ampliado la vigilancia del RSC del RCGP para controlar la distribución temporal y geográfica de la infección COVID-19 en la comunidad, así como para evaluar la eficacia de la estrategia de contención.
+Los objetivos de este estudio son vigilar la COVID-19 tanto en poblaciones asintomáticas como en casos ambulatorios con infecciones respiratorias, determinar la tasa y el patrón de propagación de la COVID-19 y evaluar la eficacia de la política de contención.
+El RSC del RCGP, una red de más de 500 consultorios de medicina general de Inglaterra, extrae datos seudonimizados todas las semanas.
+Esta vigilancia ampliada abarca cinco componentes: (1) Registro de historias clínicas de cualquiera que se sospecha que tiene o que ha estado expuesto a la COVID-19.
+Los proveedores de historias clínicas digitales han creado, en una semana tras la petición, nuevos códigos para respaldar esto.
+(2) Ampliación de la vigilancia virológica actual y examen de personas con enfermedad similar a la influenza o infecciones de las vías respiratorias inferiores (LRTI)—con la advertencia de que las personas que se sospecha que tienen o que han estado expuestas a la COVID-19 deben ser derivadas a la vía de contención nacional y no ser atendidas en atención primaria.
+(3) Toma de muestras serológicas en todos los grupos etarios.
+Esto será una muestra de sangre adicional que se tomará a las personas que asistan al consultorio de su médico general para un análisis de sangre programado.
+Los 100 consultorios de medicina general que actualmente realizan vigilancia virológica anual de la influenza participarán en la ampliación de la vigilancia virológica y serológica.
+(4) Toma de muestras de suero de convaleciente.
+Tenemos la oportunidad de aumentar la extracción de datos al doble por semana en caso de ser necesario.
+Los exudados y sueros se analizarán en laboratorios de referencia de PHE.
+Los proveedores del sistema clínico de consultorios de medicina general han incorporado una nueva serie de emergencia de códigos clínicos para respaldar la vigilancia de la COVID-19.
+Además, los consultorios que participan en la vigilancia virológica actual ahora tomarán muestras para la vigilancia de la COVID-19 a pacientes de bajo riesgo que presenten LRTI.
+En las primeras 2 semanas de implementación de esta vigilancia, hemos identificado 3 casos: 1 a través del nuevo sistema de codificación y los otros 2 a través del muestreo virológico ampliado.
+Hemos convertido rápidamente el sistema nacional establecido de vigilancia de la influenza del RSC del RCGP en uno que puede comprobar la eficacia de la política de contención de la COVID-19.
+La vigilancia ampliada ya ha visto en uso a los nuevos códigos con 3 casos informados.
+La rápida divulgación de este protocolo debe debería permitir la crítica científica y el conocimiento compartido.
+El Centro de Investigación y Vigilancia (RSC) del Real Colegio de Médicos Generales (RCGP) es una red de consultorios de medicina general (GP) con una población representativa a nivel nacional que suministra datos seudonimizados para la vigilancia semanal de enfermedades infecciosas.
+El programa de vigilancia de enfermedades es encomendado por Salud Pública de Inglaterra (PHE) y comprende 37 enfermedades infecciosas, incluida la influenza.
+El RSC del RCGP y PHE mantienen una firme colaboración desde hace más de 50 años para la vigilancia de la influenza y enfermedades respiratorias, y actualmente se encuentran en el ciclo 53 de vigilancia y análisis.
+El RSC del RCGP extrae cada semana datos seudonimizados de una muestra representativa a nivel nacional de más de 500 GP urbanos y no urbanos, que abarca a una población de más de 4 millones.
+Los datos de estos consultorios se comunican en línea en un informe semanal, lo que incluye llevar un seguimiento de las tasas semanales de enfermedades similares a la influenza y otras enfermedades transmisibles y respiratorias en Inglaterra.
+También elaboramos un informe anual.
+El conjunto de datos del RSC del RCGP incluye todos los datos codificados y todos los elementos recetados, incluida la exposición a la vacuna.
+El RSC del RCGP realiza vigilancia virológica cada temporada de influenza, en la temporada 2019-2020 participaron 100 consultorios de medicina general (gráfico 1).
+Estos consultorios para muestreo virológico también se reclutan de tal manera que sean representativos a nivel nacional (gráfico 1).
+Los consultorios de medicina general realizan hisopados nasofaríngeos a las personas que desarrollen enfermedades respiratorias agudas dentro de los 7 días posteriores al comienzo de los síntomas.
+Se realizan hisopados nasofaríngeos a los niños menores de 5 años que presenten síntomas de bronquitis o bronquiolitis aguda.
+Además, se toman muestras nasofaríngeas a cualquier persona mayor de 5 años que tenga un comienzo agudo de enfermedad similar a la influenza y virus respiratorio sincitial.
+Los hisopados se analizan en la Unidad de Virus Respiratorios de la influenza de PHE para controlar las tasas de positividad y las cepas circulantes, así como para evaluar la eficacia de la vacuna.
+El RSC del RCGP realizó exitosamente una prueba piloto en la que recolectó muestras serológicas de personas adultas y las vinculó con un registro médico de pacientes durante la temporada de influenza 2018-2019.
+Esta prueba piloto se hizo en colaboración con la Unidad de Seroepidemiología de PHE y se agregó a las muestras de sangre residual enviadas a PHE por los laboratorios del Servicio Nacional de Salud (NHS).
+La serología puede proporcionar información importante sobre la inmunidad de la población originaria, y las redes centinelas pueden proporcionar un mecanismo para la recopilación sistemática de datos y la vinculación a registros médicos y resultados de salud.
+La prueba serológica piloto demostró la capacidad de la red de recolectar muestras serológicas en personas adultas.
+Con el brote de la COVID-19, PHE y el RSC del RCGP han adaptado la actual vigilancia de la influenza para controlar la propagación de la COVID-19 en la comunidad, y este protocolo sienta las bases para esa colaboración.
+La estrategia nacional principal para la infección por COVID-19 es la contención, se supervisa a los pacientes con alto riesgo a través del sistema de ayuda telefónica NHS111 y los equipos de protección sanitaria de PHE, pero la vigilancia del RSC del RCGP es completamente independiente.
+El RSC del RCGP, mediante la ampliación de su trabajo establecido, proporcionará vigilancia serológica y virológica para controlar la distribución temporal y geográfica de la infección por COVID-19 en la comunidad, y evaluar la eficacia de la estrategia de contención.
+No trabajaríamos de forma aislada en esta investigación.
+Compartiremos el protocolo con colegas del Reino Unido y con el consorcio I-MOVE, que recientemente obtuvo financiación del programa Horizonte 2020 de la Unión Europea a partir de la convocatoria “Avances en el conocimiento para la respuesta clínica y de salud pública a la epidemia del nuevo coronavirus”.
+Se prevé obtener una gran eficacia en la gestión del proyecto a través de esta colaboración, mayor de la que obtienen los países que actúan solos.
+El objetivo de este estudio es identificar si hay una transmisión comunitaria no detectada de la COVID-19, estimar la susceptibilidad de la población y controlar la distribución temporal y geográfica de la infección por COVID-19 en la comunidad.
+Los objetivos de este estudio son los siguientes:
+Controlar la carga de la presunta actividad de la COVID-19 en la comunidad a través de la vigilancia de la atención primaria y la codificación clínica de los posibles casos de COVID-19 incluidos en el procedimiento de contención.
+Proporcionar pruebas virológicas sobre la existencia y la magnitud de la transmisión comunitaria no detectada de COVID-19 y controlar las tasas de positividad entre las personas que padecen una enfermedad similar a la influenza o infecciones agudas de las vías respiratorias en la atención primaria.
+Estimar la susceptibilidad de referencia a la COVID-19 en la comunidad y calcular las tasas de exposición tanto sintomática como asintomática en la población a través del control de la seroprevalencia.
+Implementar un programa piloto para recolectar suero de convaleciente con perfiles de anticuerpos entre casos recuperados de la COVID-19 reintegrados a la comunidad.
+Pretendemos registrar lo siguiente.
+Carga de trabajo clínico relacionada con los informes de COVID-19 usando los códigos creados para señalar los casos, aquellos que se están evaluando y dónde se encuentra la infección quedan excluidos (gráficos 2-4).
+Países extranjeros visitados en los últimos 28 días.
+Códigos existentes que pueden tener utilidad (cuadros 1-3).
+Es posible que muchos consultorios de medicina general y equipos de atención primaria no se den cuenta de que los datos relevantes importantes pueden codificarse.
+También existe la posibilidad durante cualquier pandemia de evaluar la eficacia de cualquier medida de control de la transmisión.
+La codificación confiable de las letras y de los resultados de las pruebas que indican una infección se convirtió en confirmado o excluido.
+Los métodos seguirán el enfoque utilizado en el actual sistema de vigilancia de la influenza y en el estudio serológico reciente, e incluye cinco componentes: (1) vigilancia clínica de la atención primaria; (2) vigilancia virológica; (3) vigilancia serológica de la población; (4) suero de convaleciente en los casos y (5) conservación de datos.
+El NHS utiliza el sistema de codificación de la Nomenclatura Sistematizada de Medicina - Términos Clínicos (SNOMED CT), que generalmente solo se actualiza dos veces al año.
+Hubo una complejidad adicional ya que algunos proveedores de registros médicos computarizados (CMR) utilizan los sistemas de codificación de lectura (términos clínicos de lectura versión 3, CTv3), que ya no se actualiza.
+Además, no había códigos clínicos para registrar la COVID-19 a principios de febrero de 2020.
+Por lo tanto, los dos proveedores principales de sistemas de consultorios de medicina general agregaron los cinco términos que se muestran en el cuadro 4 como códigos locales para todo el sistema.
+Posteriormente, también se puso a disposición una publicación de emergencia del Reino Unido de conceptos de SNOMED CT para la COVID-19 en todos los sistemas de CMR (cuadro 4).
+La intención es que, finalmente, se mapeen a los nuevos conceptos de SNOMED CT a medida que estén disponibles, lo que permitirá el registro de los datos relevantes (anexo 1 de Multimedia).
+Los requisitos clave para esta publicación fueron la capacidad para codificar (cuadro 4) un caso de COVID-19, la exposición al riesgo de infección (viaje a una zona en la que puede haber un riesgo más alto), el contacto con alguien infectado con COVID-19, un informe que indique que a una persona se le hizo la prueba de COVID-19, y que la enfermedad se excluyó (probablemente una prueba negativa).
+Además, los consultorios ahora pueden codificar cualquier viaje al extranjero realizado, lo que incluye la capacidad de registrar visitas a varios países (implementado el 8 de febrero de 2020).
+Los gráficos 2 a 4 muestran la implementación web de EMIS.
+Actualmente, las muestras virológicas para la vigilancia de la influenza van acompañadas de un formulario de solicitud estándar.
+Para la COVID-19, crearemos un nuevo formulario de solicitud que registrará:
+Fecha del comienzo de los síntomas
+Diagnóstico de cualquiera de las siguientes condiciones:
+Bronquitis/bronquiolitis aguda en menores de cinco años
+Infección de las vías respiratorias inferiores (IVRI)
+Antecedentes de fiebre (S/N); se midió (S/N); en caso afirmativo, nivel
+Falta de aire (S/N), si se evaluó: saturación de oxígeno y frecuencia respiratoria
+Viaje reciente (S/N); en caso afirmativo, países visitados en los últimos 14 días
+Contacto con una persona mencionada con COVID-19 confirmada (S/N) con un comentario de texto libre sobre el nivel de certidumbre
+Estos códigos se agruparán de manera ontológica en “definitivo”, “probable”, “posible” y “no es un caso” a través de nuestro enfoque estándar para agrupar códigos (cuadro 5), que se ha utilizado anteriormente en ámbitos de enfermedades.
+La definición del RSC del RCGP de enfermedad similar a la influenza se muestra en el anexo 2 de Multimedia.
+Presentación pública de los datos usando un observatorio y tableros
+Desarrollaremos un observatorio para presentar los datos a nivel nacional y un tablero para comentarios a los consultorios sobre la calidad de sus datos y la recolección de muestras para virología y serología.
+Esto se basa en la codificación descrita en el cuadro 4.
+Los casos definitivos se presentarán en nuestro tablero como “casos” de COVID-19.
+Los casos posibles se presentarán como “en investigación” (investigando).
+“No es un caso” se presentará como “excluido”.
+Se establecieron datos en línea en las primeras semanas en el observatorio de COVID-19 (gráfico 5), que indican la cantidad total de pacientes y la tasa por cada 10 000 pacientes de casos confirmados o en investigación, así como aquellos en los que se excluyó el virus.
+Tenemos la opción de comenzar a hacer informes de vigilancia dos veces por semana con la posibilidad de cambiar esto por la presentación de informes diarios.
+Continuaremos con el muestreo virológico de nuestros consultorios centinela, en lugar de interrumpirlo a medida que la influenza estacional disminuya.
+Además, reclutaremos más consultorios de vigilancia.
+Los consultorios de virología del RSC del RCGP tendrán el objetivo de realizar entre 200 y 300 hisopados nasofaríngeos por semana en toda la red centinela del RSC del RCGP, con la recopilación de especímenes en todos los grupos de edad.
+Además de los criterios de inclusión para la vigilancia virológica de la influenza (enfermedades similares a la influenza, bronquitis/bronquiolitis aguda), los consultorios participantes tomarán muestras de hisopados nasofaríngeos de cualquier persona que tenga síntomas agudos de IVRI si los síntomas comienzan dentro de los 7 días.
+Los oficiales de investigación del RSC del RCGP y el personal de enlace de los consultorios administrarán los consultorios para obtener una muestra nacional total de entre 200 y 300 hisopados por semana.
+Esto podría aumentar si los modeladores de PHE requieren más muestras.
+Las muestras de cada consultorio se extenderán en los siguientes grupos etarios: < 5 años, 5-17 años, 18-64 años y 65 años en adelante.
+Las muestras (hisopados o de suero) recolectadas se enviarán en sobres prepagados al laboratorio de PHE correspondiente para su análisis.
+Todas las muestras recolectadas se analizarán para detectar la presencia de influenza y COVID-19.
+Además, PHE analizará retrospectivamente las muestras virológicas de influenza recolectadas entre principios y mediados de febrero de 2020 para detectar la COVID-19.
+Los consultorios aún seguirán el protocolo de PHE para la COVID-19 con respecto a las personas en riesgo de infección que deberán recibir indicaciones sobre el procedimiento de contención, en lugar de asistir físicamente a los consultorios.
+Las pruebas directas de aquellos que se someten a una cirugía todavía se permiten, pero también hemos implementado el autohisopado en la casa.
+El resumen de los procesos se detalla en el anexo 3 de Multimedia.
+A todas las personas con una enfermedad similar a la influenza o una enfermedad respiratoria que se contacten con un consultorio de medicina general (por ejemplo, llaman por teléfono para programar una cita) se les debe preguntar específicamente si hicieron un viaje reciente a China y a otros países señalados en la recomendación actual de PHE, o si han tenido contacto con otras personas con COVID-19.
+Si estas consultas de evaluación son positivas, se aconsejará al paciente no ir al consultorio y, en cambio, seguir el diagrama de flujo de PHE.
+Puede hacerlo personal clínico o de recepción, según el protocolo del consultorio individual.
+Estas llamadas se deben codificar en el sistema de CMR del consultorio de medicina general y pueden informarse como parte del informe semanal del RSC del RCGP.
+Hemos desarrollado material de capacitación para respaldar esta codificación (anexo 4 de Multimedia).
+Estos incluyen tarjetas de ayuda para:
+Personal de recepción o clasificación del consultorio: para la codificación de los pacientes que llaman al consultorio con síntomas de infección respiratoria aguda con antecedentes de viaje a zonas importantes según la recomendación de PHE.
+Personal administrativo o médicos que codifican: para impulsar la codificación coherente de los resultados para cualquier caso sospechoso, incluida la codificación de los resultados negativos para su exclusión.
+Los consultorios que participan en vigilancia virológica recolectarán de manera oportunista muestras de sangre de los pacientes que vayan al consultorio para hacerse un análisis de sangre de rutina.
+A los pacientes que asistan al consultorio para hacerse un análisis de sangre de rutina se les pedirá que proporcionen una muestra adicional para serología.
+Hemos realizado búsquedas iniciales dentro de la base de datos del RSC del RCGP para observar la cantidad de resultados de conteos sanguíneos completos (CSC) y las tasas generales en adultos y niños (gráficos 6-9).
+Un CSC es uno de los análisis más frecuentes que se realizan, y esperamos que esto proporcione una indicación aproximada de la cantidad total de análisis de sangre realizados.
+La tasa de muestreo, por cada 100 000 pacientes, fue más alta en los niños de 15 a 17 años y en los adultos de 60 años o más, mientras que las tasas más bajas se observaron en los niños de 0 a 4 años y en los adultos de 18 a 29 años (gráficos 6-9).
+Proporcionaremos 1000 muestras de referencia para serología en todas las edades que reflejen las distintas tasas de asistencia por edad.
+Además, evaluaremos si podemos obtenerlas a todas de consultorios de virología para mejorar el rendimiento.
+Una buena distribución geográfica es importante, por lo que PHE puede sugerir áreas en las que la recolección para serología será más útil.
+Esto continuará con 800 muestras mensuales.
+La muestra se estratificará con 200 especímenes para la encuesta sobre la prepandemia (100 mensuales) en los siguientes grupos etarios: < 5 años, 5-17 años, 18-64 años y 65 años o más.
+Los pacientes más jóvenes, menores de 14 años en muchos consultorios y niños menores de 8 años en prácticamente todos los consultorios, requerirán vigilancia serológica pediátrica.
+Elaboraremos un nuevo formulario de solicitud para los consultorios para registrar los viajes recientes y la exposición a la COVID-19.
+Implementaremos un programa piloto para recolectar serología convaleciente de personas con casos confirmados y que han tenido una muestra de virología aguda en el momento de su infección.
+Esto se hace para identificar un estado de portador en los pacientes que se recuperaron del virus, pero lo pueden seguir transmitiendo.
+Si hay una pequeña cantidad de casos, esto puede ayudar a desarrollar un kit de prueba para que los pacientes lleven a su propio consultorio de medicina general y se explore su aceptabilidad para los pacientes.
+Si hay una gran cantidad de casos de COVID-19 a nivel nacional, se podrían recolectar muestras convalecientes de consultorios del RSC del RCGP en los que haya casos confirmados, con la capacidad de vincularlos con el registro médico completo.
+Este proceso puede incluir verificar los números seudonimizados del NHS de personas que obtuvieron resultados positivos en los consultorios del RSC del RCGP, verificar la directriz actual de PHE sobre las consideraciones de infecciosidad para los casos confirmados y ofrecerle al paciente una cita siguiendo el proceso anteriormente mencionado.
+Esto debe coordinarse cuidadosamente a nivel nacional en toda la red y puede requerir que PHE se asegure de que no se contacten varias agencias con las personas.
+El RSC del RCGP podría proporcionar una estructura útil para canalizar el contacto inicial una vez que PHE haya realizado una solicitud.
+Los consultorios del RSC del RCGP que participan en la vigilancia virológica anual de la influenza han comenzado a tomar muestras en pacientes con síntomas de IVRI.
+Todas las muestras recibidas se están analizando para detectar influenza y COVID-19.
+El RSC del RCGP analizará maneras de recolectar muestras convalecientes de pacientes que obtuvieron resultados positivos en pruebas de la COVID-19 a través de la extensión de la vigilancia virológica.
+Desde el principio, conservaremos cuidadosamente los datos para garantizar que puedan usarse para estudios futuros.
+Nuestros datos clínicos se vincularán con virología.
+Conservaremos nuestros datos usando los principios de localización, accesibilidad, interoperabilidad y reutilización.
+Para facilitar esto, nuestro conjunto de datos está incluido en el Health Data Research UK y en la European Health Data & Evidence Network.
+La metodología estadística está a favor de un enfoque normativo al brote generalizado de la enfermedad, en el que se utilizan las denominadas intervenciones no farmacéuticas (NPI) para responder a una nueva pandemia para provocar la supresión de la enfermedad.
+El objetivo de esta política es reducir los índices de contacto en la población y, de esa manera, reducir la transmisión del virus.
+Para implementar esto, el Gobierno del Reino Unido expresó recientemente el deseo de implementar medidas de autoaislamiento de la población.
+Al centrarse en el número de reproducción (R) (la cantidad promedio de casos secundarios que genera cada caso) e intentar reducir R por debajo de 1, la política busca reducir la cantidad de casos a niveles bajos o (como se observó en brotes anteriores con el síndrome respiratorio agudo grave y el Ébola) eliminar la transmisión de persona a persona.
+Tal como demostró la experiencia de la pandemia de H1N1 en 2009, las intervenciones no farmacéuticas pueden ser un componente crucial de la mitigación de la pandemia.
+Será clave para el foco de nuestro estudio la estimación de los casos pico en la población y el seguimiento continuo a través de la recopilación de datos y del modelado del crecimiento potencial y la aparición de posteriores picos en casos nuevos a medida que se flexibilicen las medidas de distanciamiento social.
+Ya se han publicado importantes medidas epidemiológicas de la enfermedad relativas al brote de la COVID-19 en China continental.
+Otra medida fundamental en la dinámica de la pandemia es el tiempo que transcurre entre la infección y el momento en que una persona puede contagiar a otras, y la duración media de la infecciosidad.
+Estos factores, si se calculan con precisión, darán buenas predicciones sobre la duración probable de la pandemia, la cantidad final de casos infectados.
+Queremos aplicar la interferencia bayesiana aproximada (ABC) a los (posiblemente heterogéneos espacialmente) modelos epidemiológicos estocásticos Susceptible, Expuesto, Infectado, Recuperado (SEIR).
+Estas técnicas se pueden realizar en paralelo y se han aplicado exitosamente a muchas áreas, incluidos los modelos de transmisión de enfermedades.
+Están adaptados particularmente a las situaciones que carecen de funciones de verosimilitud y en las que los enfoques más tradicionales, como los métodos de Monte Carlo basados en cadenas de Markov, no son prácticos.
+Se ha demostrado que este enfoque funciona de forma eficaz en los datos de vigilancia de ASPREN, una red de consultorios de medicina general centinela y enfermeros especializados que comunican información anónima sobre enfermedades similares a la influenza y otras afecciones, donde cuestiones como datos faltantes y la necesidad de modelar el proceso de observación se abordaron satisfactoriamente.
+Además, los picos en los casos nuevos se estimaron mediante métodos de distribución.
+Las estimaciones de los parámetros del modelo SEIR se pueden abordar en conjuntos de datos grandes debido a la posibilidad de hacer análisis paralelos, y estos métodos se han implementado en varias bibliotecas R; tenemos previsto usar las bibliotecas ABSEIR (disponibles en GitHub: https://tinyurl.com/vqu35cj) y abctools (https://tinyurl.com/tfjavz4) para estimar las medidas epidemiológicas con una frecuencia semanal.
+Dado que estamos adaptando un modelo epidemiológico SIR en la rutina del cálculo bayesiano aproximado, prevemos que nuestros resultados serán sólidos en comparación con los datos de casos semanales que contienen conteos relativamente pequeños.
+Por ejemplo, observemos la metodología del cálculo bayesiano aproximado aplicada a los datos sobre el resfriado común en Tristán de Acuña de 1967, donde los conteos de I (cantidad de casos infectados) y de R (cantidad de casos recuperados) a lo sumo alcanzan las decenas.
+Finalmente, además de la metodología anterior, aplicaremos el método de Kaplan-Meier con dos resultados (muerte y recuperación) para estimar la tasa de letalidad por casos.
+Este enfoque es independiente de la metodología del cálculo bayesiano aproximado y permitirá comparar las estimaciones de los dos enfoques de modelización para evaluar la solidez de los resultados.
+La vigilancia del RSC del RCGP con PHE se define como Protección de la salud en la regulación 3 de las regulaciones del Servicio de Salud (Control de la información del paciente) de 2002.
+Esto fue confirmado por la oficina del Custodio Caldicott de PHE.
+No vemos ningún aumento del riesgo para los consultorios o los médicos que participan en esta vigilancia.
+El asesoramiento sobre el control y la prevención de la infección seguirá las directrices nacionales existentes.
+Cualquier caso identificado se abordará según las directrices de PHE/NHS vigentes en ese momento, incluido el asesoramiento para los contactos identificados.
+Sin embargo, nuestra capacitación incluirá recordatorios sobre la manipulación segura de los especímenes y la revisión de las medidas de control de las infecciones, que se prevé que serán altas en nuestros consultorios.
+Es una parte clave de la regulación 12 sobre el tratamiento y cuidado seguros, que la Comisión de Calidad de la Atención inspecciona periódicamente.
+Antecedentes de viajes y descriptores clínicos de las infecciones por COVID-19
+Se informó a los consultorios del RSC del RCGP sobre la codificación clínica que se puso a disposición para la COVID-19 en todos los sistemas de registros médicos computarizados.
+Esto incluye información sobre la codificación de los descriptores clínicos (cuadro 4) y los antecedentes de viaje recientes.
+Establecimiento de muestreo virológico extendido
+Los consultorios del RSC del RCGP que participan en la vigilancia virológica anual de la influenza han comenzado a tomar muestras en pacientes con síntomas de IVRI.
+Todas las muestras recibidas se están analizando para detectar influenza y COVID-19.
+Esto llevó a la identificación temprana inicial de propagación en el entorno en pacientes de bajo riesgo.
+Al 7 de marzo de 2020, el sistema de vigilancia ha detectado 2 casos de COVID-19 en pacientes de bajo riesgo sin antecedentes de viajes a través del muestreo virológico extendido.
+Este protocolo describe cómo hemos adaptado un sistema nacional de vigilancia de la influenza para hacer un seguimiento de la propagación comunitaria de una infección imprevista por COVID-19.
+Hemos creado e incorporado rápidamente códigos nuevos para permitir el registro de datos, y estamos recopilando datos para controlar la eficacia de las estrategias de contención.
+A través de esta vigilancia, nos proponemos obtener más información sobre la epidemiología de la COVID-19 en la atención ambulatoria.
+En particular, su tasa de propagación, tanto temporal como geográfica.
+Nuestra evaluación de los pacientes de bajo riesgo también informará si la estrategia de contención que se basa en las pruebas virológicas de los pacientes de alto riesgo y sus contactos más el autoaislamiento es eficaz.
+La contención debería reducir la propagación, y es posible que la vigilancia intensiva sea beneficiosa para el control de la propagación.
+Sin embargo, se puede llegar a un punto en el que el virus se propague de forma más extensa en la población, como sucedió en Italia.
+La vigilancia de los pacientes de bajo riesgo debería indicar el momento en que lleguemos a este punto crítico y el momento en que las tasas de infección comiencen a disminuir.
+La epidemiología de la COVID-19 sigue siendo emergente.
+La naturaleza basada en el registro de la atención primaria del Reino Unido significa que podremos crear un panorama completo de la incidencia acumulada y la duración.
+El sistema de vigilancia debería identificar las áreas en las que la COVID-19 se propaga que podrían ser adecuadas para realizar ensayos de tratamiento antiviral.
+También podríamos hacer un seguimiento de la eficacia o de las reacciones adversas a estos medicamentos o vacunas.
+Finalmente, la detección temprana de un caso confirmado de COVID-19 ha demostrado la rápida implementación de esta vigilancia mejorada en la red nacional.
+La seguridad de los consultorios es nuestra principal preocupación.
+El RSC del RCGP ha funcionado durante más de 50 años y participó en la recolección de muestras para controlar la enfermedad y la eficacia de la vacuna en la pandemia de gripe de Hong Kong de 1968/69, la gripe rusa de 1977/78 y la pandemia de gripe porcina de 2009.
+No tenemos conocimiento de ningún aumento del riesgo para el personal del consultorio u otros pacientes debido a la participación en la vigilancia.
+La preparación ante una pandemia es parte de la función del RSC del RCGP.
+Es posible que la mejor codificación de la información de los contactos con los consultorios en el RSC del RCGP reduzca la probabilidad de que se lleve inadvertidamente a un consultorio a personas que pueden ser casos sospechosos de COVID-19.
+Cuando se detecten casos de forma inesperada, probablemente sea útil que ese paciente, sus contactos y el consultorio lo sepan.
+El impacto en los consultorios ha sido cerrar durante un día, si se detecta un caso, para hacer una limpieza profunda y luego volver a abrir.
+Las principales limitaciones de nuestro sistema son las cantidades de puntos de datos.
+Estamos recopilando datos sobre serología y virología de 100 centros, lo que cubre un pequeño grupo de la población.
+Esto ha sido satisfactorio para llevar un control de la influenza, pero no estamos seguros de que sea una muestra lo suficientemente grande para el brote de la COVID-19.
+Nuestros centros (consultorios de vigilancia) actualmente son fijos, y podría ser útil poder incorporar consultorios rápidamente en regiones donde hay más casos.
+Actualmente, presentaremos informes con una frecuencia semanal.
+Nuestro actual sistema puede mejorarse a dos veces por semana, pero tal vez los datos diarios o por hora deberían ser nuestro enfoque actual.
+El muestreo oportunista para serología en niños menores de 10 años podría ser limitado debido a la tasa general reducida de análisis de sangre en niños.
+La vigilancia extendida a través de la red de PHE y del RSC del RCGP para el brote emergente de la COVID-19 se estableció rápidamente.
+El modelo de obtención de la informática adecuada para permitir la captura de los datos requeridos ya ha sido un éxito, el registro de datos comenzó la semana en la que se crearon los códigos.
+Además, modificar el actual sistema de vigilancia para recopilar datos sobre la población de forma paralela también ha sido eficaz.
+Sin embargo, actualmente no estamos seguros de que la magnitud de esta vigilancia proporcione datos suficientes para impulsar estrategias de contención local o de que la presentación de informes con poca frecuencia cubra las necesidades de nuestra era informática.
+La Asociación Nacional de Baloncesto suspende la temporada debido a preocupaciones por la COVID-19
+El miércoles, la Asociación Nacional de Baloncesto (NBA) de los Estados Unidos suspendió su temporada de baloncesto profesional debido a preocupaciones relacionadas con la COVID-19.
+La NBA tomó esta decisión después de que un jugador de Utah Jazz diera positivo en la prueba del virus de la COVID-19.
+La NBA no divulgó la identidad del jugador en cuestión durante su anuncio.
+Dijeron que no estuvo presente en el Chesapeake Energy Arena en la ciudad de Oklahoma, donde los Utah Jazz debían jugar contra los Oklahoma City Thunder.
+Según su comunicado de prensa, la NBA "suspendía los partidos tras la conclusión del programa de partidos [del miércoles] hasta nuevo aviso".
+El partido de los Jazz se canceló, al igual que otro partido de la NBA el miércoles entre los Sacramento Kings y los New Orleans Pelicans.
+Otros partidos programados para el miércoles aún se mantenían, según NBC News.
+La otra organización de baloncesto importante de los Estados Unidos, la National Collegiate Athletic Association, que dirige partidos de baloncesto universitarios, canceló su propio campeonato, March Madness, para las ligas tanto masculina como femenina.
+Según la Universidad Johns Hopkins, al día miércoles, había al menos 1279 casos confirmados de COVID-19 en los Estados Unidos.
+CNBC informó que había al menos 118 381 casos en todo el mundo.
+El presidente Trump de los Estados Unidos declara la emergencia nacional por la COVID-19
+El viernes, el presidente de los Estados Unidos, Donald Trump, declaró una emergencia nacional en respuesta al actual brote de coronavirus.
+La medida se tomó dos días después de que la Organización Mundial de la Salud declarara el brote, lo que ocasiona que la enfermedad COVID-19 sea una pandemia.
+Según NBC News, la medida le da acceso al Gobierno federal a alrededor de 50 000 USD en fondos adicionales para combatir la pandemia.
+El anuncio específicamente indicó "el brote de la COVID-19 en los Estados Unidos constituye una emergencia nacional" y señaló que la emergencia nacional comenzó el 1 de marzo, casi dos semanas antes del anuncio.
+El 31 de enero, el Departamento de Salud y Servicios Humanos de los Estados Unidos declaró el brote una "emergencia de salud pública".
+Trump no puso a cargo a la Agencia Federal para la Gestión de Emergencias (FEMA) de la respuesta del Gobierno a la COVID-19, lo que, según informó Politico, decepcionó a algunos expertos en gestión de desastres.
+Politico citó a Tim Manning, anteriormente administrador adjunto en FEMA, quien dijo "FEMA tiene una importante función en la coordinación de la mayor respuesta a la crisis" y "[s]i hay una emergencia, la FEMA debe estar implicada".
+Trump tomó la decisión en virtud de las disposiciones de la Ley Nacional de Emergencias, entre otras autoridades rectoras.
+La administración de Trump también anunció otras medidas en respuesta a la COVID-19, entre ellas, la renuncia a los intereses sobre los préstamos estudiantiles federales y el aumento de las compras de las reservas estratégicas de petróleo de los Estados Unidos.
+Impacto de la pandemia de coronavirus 2019-2020 en la educación
+La pandemia de coronavirus 2019-2020 ha afectado a los sistemas educativos de todo el mundo, lo que provocó el cierre generalizado de escuelas y universidades.
+Hasta el 8 de abril de 2020, había alrededor de 1716 millones de estudiantes afectados por el cierre de las escuelas en el marco de la COVID-19.
+Según el seguimiento de la UNESCO, 188 países implementaron cierres a nivel nacional y 5 a nivel local, lo que afecta al 99,4 % de la población estudiantil mundial.
+El 23 de marzo de 2020, Cambridge International Examinations (CIE) publicó un comunicado en el que se anunció la cancelación de los exámenes Cambridge IGCSE, Cambridge O Level, Cambridge International AS & A Level, Cambridge AICE Diploma y Cambridge Pre-U para la convocatoria de mayo y junio de 2020 en todos los países.
+También se han cancelado los exámenes del Bachillerato Internacional. El cierre de escuelas no solo afecta a los estudiantes, los docentes y las familias, sino que tiene consecuencias económicas y sociales de amplio alcance.
+El cierre de escuelas en respuesta a la COVID-19 ha puesto de manifiesto varias problemáticas sociales y económicas, entre las que se incluyen la deuda de los estudiantes, el aprendizaje digital, la inseguridad alimentaria, la falta de hogar, así como el acceso al cuidado infantil, a la atención de la salud, a la vivienda, a internet y a los servicios para personas con discapacidad.
+El impacto fue más grave para los niños en situación de desventaja y sus familias y provocó una interrupción del aprendizaje, una alimentación comprometida, problemas con el cuidado de los niños y, en consecuencia, un costo económico para las familias que no pudieron trabajar. En respuesta al cierre de escuelas, la UNESCO recomendó el uso de programas de educación a distancia y de aplicaciones y plataformas educativas abiertas que las escuelas y los docentes pueden usar para llegar a los alumnos de manera remota y reducir la interrupción de la educación.
+Los esfuerzos por frenar la propagación de la COVID-19 mediante intervenciones no farmacéuticas y medidas preventivas como el distanciamiento físico y el autoaislamiento han dado lugar al cierre generalizado de las escuelas primarias, secundarias y terciarias en más de 100 países. Brotes de enfermedades infecciosas anteriores provocaron el cierre generalizado de escuelas alrededor del mundo, con distintos niveles de efectividad.
+Los modelos matemáticos han demostrado que el cierre de escuelas puede retrasar la transmisión de una epidemia.
+Sin embargo, la eficacia depende del contacto que los niños mantienen fuera de la escuela.
+El cierre de escuelas puede ser eficaz cuando se ejecuta de inmediato.
+Si el cierre de escuelas se establece tarde con relación al brote, es menos eficaz y puede que no genere ningún impacto.
+Además, en algunos casos, la reapertura de escuelas después de un tiempo de cierre ha dado lugar a un aumento en los índices de infección.
+Dado que los cierres tienden a establecerse simultáneamente con otras intervenciones, como la prohibición de reuniones públicas, puede ser difícil medir el impacto específico del cierre de las escuelas. En la pandemia de gripe de 1918 y 1919 en Estados Unidos, el cierre de escuelas y la prohibición de reuniones públicas se asociaron con tasas de mortalidad totales más bajas.
+Las ciudades que implementaron esas intervenciones con anterioridad tardaron más en alcanzar las tasas de mortalidad máximas.
+Según un estudio sobre la respuesta a la gripe española de 43 ciudades estadounidenses, las escuelas estuvieron cerradas, en promedio, durante 4 semanas.
+Se demostró que el cierre de las escuelas redujo la morbilidad de la gripe asiática en un 90 % durante el brote de 1957 y 1958 y en hasta un 50 % en el control de la gripe de 2004 a 2008 en Estados Unidos. Múltiples países lograron frenar la propagación de la infección con el cierre de escuelas durante la pandemia de gripe H1N1 en 2009.
+Se comprobó que el cierre de escuelas en la ciudad de Oita, Japón, redujo con éxito la cantidad de estudiantes infectados durante el pico de la infección; sin embargo, no se comprobó que el cierre de escuelas haya reducido significativamente la cantidad total de estudiantes infectados.
+El cierre obligatorio de escuelas y otras medidas de distanciamiento social se asociaron a una reducción del 29 % al 37 % de las tasas de transmisión de la gripe.
+El cierre anticipado de escuelas en Estados Unidos retrasó el pico de la pandemia de gripe H1N1 de 2009.
+A pesar del éxito general del cierre de las escuelas, un estudio sobre el cierre de escuelas en Michigan reveló que "los cierres reactivos de escuelas a nivel de distrito no fueron eficaces". Durante el brote de gripe porcina en 2009 en el Reino Unido, en un artículo titulado "Cierre de escuelas durante una pandemia de gripe" que se publicó en la revista Lancet Infectious Diseases, un grupo de epidemiólogos respaldó el cierre de escuelas con el fin de interrumpir el avance de la infección, frenar la propagación y ganar tiempo para investigar y desarrollar una vacuna.
+Tras estudiar pandemias de gripe anteriores, incluidas la de 1918, la de 1957 y la de 1968, informaron sobre las consecuencias económicas y laborales que tendría el cierre de escuelas, en particular con un gran porcentaje de médicas y enfermeras, de las cuales la mitad tenía hijos menores de 16 años.
+También analizaron la dinámica de la propagación de la gripe en Francia durante las vacaciones escolares francesas y observaron que los casos de gripe disminuían cuando las escuelas estaban cerradas y reaparecían cuando volvían a abrir.
+Observaron que cuando los docentes de Israel hicieron paro durante la temporada de gripe de 1999 y 2000, las consultas a los médicos y la cantidad de infecciones respiratorias disminuyeron en más de una quinta parte y en más de dos quintas partes, respectivamente.
+En el caso de las escuelas y los centros de cuidado infantil, los Centros para el Control y la Prevención de Enfermedades de Estados Unidos recomiendan el cierre a corto plazo para limpiar o desinfectar si una persona infectada estuvo en el edificio escolar, independientemente de la transmisión comunitaria.
+Cuando la transmisión comunitaria es mínima o moderada, se pueden implementar estrategias de distanciamiento social, como cancelar las excursiones, las asambleas y otras reuniones masivas, como las clases de educación física o de coro o las comidas en el comedor, aumentar el espacio entre los pupitres, escalonar los horarios de entrada y salida, limitar las visitas que no sean esenciales y usar un lugar separado para la sala de salud para los niños que tengan síntomas gripales.
+Cuando la transmisión en la comunidad local es significativa, además de las estrategias de distanciamiento social, se puede considerar la prolongación de la suspensión de clases.
+El 26 de enero, China implementó medidas para contener el brote de COVID-19, entre las que se incluyó extender el feriado del Festival de la Primavera.
+Las universidades y escuelas de todo el país cerraron.
+El 23 de febrero, el Ministerio de Salud de Irán anunció el cierre de universidades, instituciones de enseñanza de nivel superior y escuelas en varias ciudades y provincias.
+El 3 de marzo, la UNESCO publicó las primeras cifras mundiales sobre el cierre de escuelas y los estudiantes afectados.
+Se informó que 13 países habían implementado medidas preventivas, entre las que se incluía el cierre temporal de escuelas y universidades, lo que afectó a 290,5 millones de estudiantes en todo el mundo.
+La respuesta de la UNESCO fue pedir a los países que apoyaran a los estudiantes afectados y sus familias y facilitaran los programas de enseñanza a distancia inclusivos y a gran escala.
+El 4 de marzo, el Gobierno de Italia ordenó el cierre total de todas las escuelas y universidades a nivel nacional, cuando Italia alcanzó la cifra de 100 muertos.
+Con esta medida, Italia se convirtió en uno de los 22 países de tres continentes que habían anunciado o implementado el cierre de escuelas.
+El 5 de marzo, la mayoría de los alumnos afectados por las medidas de emergencia de la COVID-19 era de China, con 233 millones de estudiantes afectados, seguidos por Japón con 16,5 millones e Irán con 14,5 millones.
+Para el 10 de marzo, uno de cada cinco estudiantes de todo el mundo "no estaba yendo a la escuela por la crisis de la COVID-19", mientras que uno de cada cuatro se encontraba imposibilitado de asistir a instituciones de enseñanza de nivel superior.
+El 13 de marzo, los gobiernos de 49 países anunciaron o implementaron el cierre de las escuelas, entre los que se incluyeron 39 países que cerraron las escuelas a nivel nacional y 22 países en los que el cierre fue localizado.
+Para el 16 de marzo, esta cifra aumentó de 49 a 73 países según la UNESCO.
+Para el 19 de marzo, el cierre de escuelas había afectado al 50 % de los estudiantes de todo el mundo, lo que corresponde a cierres a nivel nacional en 102 países y cierres a nivel local en 11 países, que impactaron sobre 850 millones de niños y jóvenes.
+Para el 20 de marzo, los cierres habían afectado a más del 70 % de los alumnos del mundo, con cierres de escuelas en 124 países.
+El 23 de marzo, se supo que el Gobierno de Nigeria había cerrado todas las escuelas, todos los mercados y las empresas estaban cerrados y los padres prohibieron a sus hijos salir de sus casas.
+El 26 de marzo, se cerraron todas las escuelas y universidades de Nueva Zelanda.
+El Gobierno dispuso vacaciones por dos semanas, lo que permitió a las escuelas hacer la transición a formas de educación a distancia lo más pronto posible.
+Las universidades cerraron durante una semana, pero después reanudaron la actividad con enseñanza en línea.
+Otros servicios escolares continúan abiertos, pero las clases se limitan a la educación a distancia.
+Para el 27 de marzo, casi el 90 % de la población estudiantil mundial no asistía a clases.
+Las regiones con escuelas que permanecieron abiertas incluyeron a Taiwán, Singapur, Australia, Suecia y algunos estados de Estados Unidos.
+Para el 29 de marzo, el cierre de escuelas a nivel nacional había afectado a más de 1500 millones de niños y otros estudiantes.
+Otros se vieron afectados por cierres locales.
+Hasta el 6 de abril, las vacaciones se habían extendido en todas las escuelas secundarias de Turkmenistán.
+Una orden firmada por el Ministerio de Educación como medida preventiva tiene el objetivo de prevenir la propagación de enfermedades respiratorias relacionadas con la pandemia de coronavirus declarada por la OMS.
+En 10 países existe el cierre de escuelas localizado. La UNESCO estima que 473 933 356 estudiantes se encuentran potencialmente en situación de riesgo (desde el nivel preescolar hasta el nivel secundario superior) y que 77 938 904 alumnos se encuentran potencialmente en situación de riesgo en el nivel terciario.
+Nota: Las cifras corresponden a la cantidad total de estudiantes matriculados en los niveles de educación preescolar, primaria, primer y segundo ciclo de educación secundaria (niveles 0 a 3 de la CINE), así como en los niveles de educación terciaria (niveles 5 a 8 de la CINE), que podrían verse afectados si los cierres localizados se transformaran en cierres a escala nacional.
+Las cifras de matriculación se calculan sobre la base de los datos más recientes del Instituto de Estadística de la UNESCO.
+El cierre de escuelas en respuesta a la pandemia de COVID-19 ha puesto de manifiesto numerosas cuestiones que repercuten en el acceso a la educación, así como problemáticas socioeconómicas más amplias.
+Al 12 de marzo, más de 370 millones de niños y jóvenes no están asistiendo a clases por el cierre temporal o indefinido de escuelas a nivel nacional dispuesto por los gobiernos en un intento por frenar la propagación de la COVID-19.
+Al 29 de marzo, los cierres habían afectado a casi el 90 % de los estudiantes del mundo.
+Los problemas que causan afectan a personas de todas las comunidades, pero el impacto es más fuerte en los niños en desventaja y sus familias, lo que incluye un aprendizaje interrumpido, una alimentación comprometida, problemas en el cuidado de los niños y, en consecuencia, un costo económico para las familias que no pueden trabajar.
+Los padres que trabajan tienen más probabilidades de faltar al trabajo cuando las escuelas cierran para ocuparse de sus hijos, lo que supone una pérdida de ingresos en muchos casos y repercute negativamente en la productividad.
+El cierre localizado de escuelas implica una presión sobre las escuelas, ya que los padres y los funcionarios trasladan a los niños a las escuelas que están abiertas.
+Las mujeres representan una gran proporción del grupo de trabajadores de la salud y a menudo no pueden ir a trabajar debido a las obligaciones de cuidado de niños que se derivan del cierre de escuelas.
+Esto significa que muchos médicos no están en las instalaciones, donde más se los necesita durante una crisis sanitaria.
+La falta de acceso a la tecnología o de una conexión rápida y confiable a internet puede perjudicar a los estudiantes de zonas rurales y de familias en situación de desventaja.
+La falta de acceso a la tecnología o a una buena conexión a internet es un obstáculo para continuar aprendiendo, en particular para los estudiantes de familias en situación de desventaja.
+En respuesta al cierre de escuelas provocado por la COVID-19, la UNESCO recomienda el uso de programas de educación a distancia y de aplicaciones y plataformas educativas abiertas que las escuelas y los docentes pueden usar para llegar a los alumnos de manera remota y reducir la interrupción de la educación. Con el fin de retrasar la transmisión de COVID-19, cientos de bibliotecas han cerrado temporalmente.
+En Estados Unidos, muchas ciudades importantes, incluidas Los Ángeles, San Francisco, Seattle y Nueva York, anunciaron el cierre de bibliotecas públicas, que afecta a 221 bibliotecas.
+En el caso de los estudiantes que no tienen internet en su casa, esto aumenta la dificultad de mantenerse al día con la educación a distancia.
+El cierre de las escuelas implica un esfuerzo por parte de los padres y los tutores que deben cuidar a sus hijos y ocuparse de la educación a distancia mientras los niños no vayan a la escuela.
+Ante la falta de opciones alternativas, los padres que trabajan suelen dejar a los hijos solos cuando las escuelas cierran y esto puede dar lugar a comportamientos de riesgo, que incluyen una mayor influencia de la presión de los compañeros y el uso indebido de sustancias.
+Muchos niños de todo el mundo dependen de las comidas gratuitas o con descuento de las escuelas.
+Cuando las escuelas cierran, la alimentación se ve especialmente comprometida. La alimentación desempeña un papel fundamental en el desarrollo cognitivo y en el rendimiento académico de los niños. En el estado de Washington, alrededor del 45 % de los 1,1 millones de estudiantes del estado matriculados en escuelas públicas tradicionales y subvencionadas cumplen con los requisitos para recibir comidas financiadas.
+Como consecuencia del cierre de las escuelas, la inseguridad alimentaria podría afectar a, por lo menos, 520 000 estudiantes y sus familias. Los programas de almuerzo escolar son la segunda iniciativa más grande contra el hambre en Estados Unidos, después de los cupones de alimentos.
+Cada año, casi 30 millones de niños reciben comidas gratuitas o de bajo costo en las escuelas, incluidos el desayuno, el almuerzo, refrigerios, e incluso la cena. En Alabama, donde el cierre de escuelas desde el 18 de marzo ha afectado a más de 720 000 estudiantes, el superintendente del estado anunció que el personal de las escuelas afectado de manera desproporcionada por la pobreza crearía redes de distribución de comidas para proporcionar alimentos a los estudiantes que necesitan los almuerzos escolares.
+Los cierres de escuelas tienen un impacto negativo en los resultados de aprendizaje de los estudiantes.
+La escolarización ofrece aprendizajes fundamentales y cuando las escuelas cierran, los niños y jóvenes se quedan sin oportunidades de crecimiento y desarrollo.
+Las desventajas son desproporcionadas para los estudiantes con menos privilegios, que suelen tener menos oportunidades educativas fuera de la escuela. Las tasas de deserción escolar tienden a aumentar como consecuencia del cierre de las escuelas debido al desafío de garantizar que todos los estudiantes regresen a clases cuando finalicen los cierres.
+Esto es particularmente válido en el caso de los cierres prolongados. Las escuelas son centros de actividad social y de interacción humana.
+Cuando las escuelas están cerradas, muchos niños y jóvenes pierden el contacto social, que es fundamental para el aprendizaje y el desarrollo. Cuando las escuelas cierran, se suele pedir a los padres que faciliten el aprendizaje de los niños en la casa y a estos les puede resultar difícil llevar adelante esta tarea.
+En particular, en el caso de los padres con educación y recursos limitados.
+Las posibles consecuencias del cierre de escuelas y la adopción de la educación a distancia no forman parte de las leyes federales en este momento.
+La educación formal (en contraposición a la educación informal o no formal) suele referirse a escuelas, universidades, centros de enseñanza superior e instituciones de formación.
+Un informe del Banco Mundial de 1974 definió a la educación formal de la siguiente manera. Educación formal: "sistema educativo" estructurado jerárquicamente y clasificado cronológicamente que abarca desde la escuela primaria hasta la universidad e incluye, además de estudios académicos generales, una variedad de programas e instituciones especializados para la formación profesional y técnica a tiempo completo. La mayoría de los datos recolectados sobre la cantidad de estudiantes y alumnos afectados por la COVID-19 se ha calculado en función del cierre de los sistemas de educación formal.
+El Instituto de Estadística de la UNESCO proporciona cifras sobre los estudiantes afectados por la COVID-19 correspondientes a la cantidad de alumnos matriculados en los niveles de educación preescolar, primaria, primer y segundo ciclo de educación secundaria (niveles 0 a 3 de la CINE), así como en los niveles de educación terciaria (niveles 5 a 8 de la CINE).
+Los programas educativos para la primera infancia suelen estar diseñados para niños de menos de 3 años y pueden hacer referencia a centros de educación preescolar, guarderías, jardines de infantes y algunos programas de cuidado diurno.
+Si bien muchas escuelas primarias y secundarias de todo el mundo cerraron por la COVID-19, las medidas que afectan a los programas educativos para la primera infancia han sido variadas.
+En algunos países y territorios, los centros de educación preescolar y guarderías son considerados servicios esenciales y no se han cerrado, junto con medidas más amplias de cierre de escuelas. En Estados Unidos, el Departamento de Niños, Jóvenes y Familias del estado de Washington instó a los centros de cuidado infantil y de educación temprana a que permanezcan abiertos.
+Es posible que algunos distritos escolares ofrezcan opciones alternativas para el cuidado infantil, dando prioridad a los primeros intervinientes y el personal sanitario.
+El gobernador de Maryland ordenó que ciertos servicios de cuidado infantil permanecieran abiertos para los hijos del personal de emergencia, mientras que los estados de Washington y California lo dejaron a discreción de los proveedores de cuidado.
+El gobernador de California Gavin Newsom explicó la posición de su estado y afirmó: "Necesitamos que los centros de cuidado infantil, las guarderías, funcionen para amortiguar el impacto del cierre de las escuelas".
+Colorado alentó el desarrollo de "kits de herramientas" para padres para que los utilicen en casa con el fin de simular las clases que sus hijos habrían tenido en los programas de aprendizaje temprano. En Japón, el primer ministro Shinzo Abe cerró todas las escuelas del país hasta el 8 de abril, pero con la excepción de los centros de cuidado infantil.
+A principios de marzo, cinco adultos vinculados a una guardería para niños en edad preescolar en Kobe dieron positivo en coronavirus.
+Después de hacer pruebas a más de cien niños del centro, se descubrió que un alumno en edad preescolar era portador del virus.
+La educación primaria suele comprender los primeros cuatro a siete años de la educación formal.
+La Organización del Bachillerato Internacional (OBI) canceló los exámenes de los candidatos del Programa del Diploma y del Programa de Orientación Profesional, programados para efectuarse entre el 30 de abril y el 22 de mayo de 2020, lo que, según se informa, afecta a más de 200 000 estudiantes en todo el mundo.
+La OBI afirmó que otorgará los diplomas o certificados a sus candidatos en función de "sus trabajos de clase" y en "la experiencia, el rigor y las medidas de control de calidad de las evaluaciones que ya están incorporados en el programa".
+La educación terciaria, también conocida como educación superior, hace referencia a los niveles de educación no obligatorios posteriores a la finalización de la escuela secundaria.
+Normalmente, se considera que la educación terciaria incluye la educación de grado y posgrado, así como la educación y formación técnica profesional.
+Las personas que finalizan la educación terciaria, en general, reciben certificados, diplomas o títulos académicos.
+La educación de grado es posterior a la educación secundaria y anterior a la educación de posgrado, por la que se suele obtener un título universitario de grado.
+Los estudiantes matriculados en programas de educación superior en facultades, universidades y centros de formación superior suelen denominarse "estudiantes universitarios" en países como Estados Unidos. El cierre de facultades y universidades tiene consecuencias masivas para los estudiantes, los profesores, los administradores y las mismas instituciones.
+Se ha pedido a las facultades y universidades de Estados Unidos que emitan reembolsos a los estudiantes por el monto de la matrícula, el alojamiento y la comida.
+En Estados Unidos, las facultades y las universidades suelen funcionar como "miniciudades" que generan importantes ingresos para las ciudades, los estados y las regiones.
+Por ejemplo, Princeton University aportó 1580 millones de dólares estadounidenses a la economía de Nueva Jersey y los estudiantes gastaron alrededor de 60 millones fuera del campus.
+Los cierres de facultades y universidades tienen un efecto dominó en las economías, con consecuencias de gran alcance. Según Linda Bilmes, de Harvard Kennedy School, "los hoteles, los restaurantes, las cafeterías, las tiendas y las agencias de alquiler de automóviles y otros negocios locales obtienen una parte importante de las ganancias anuales de la semana de graduación y las reuniones universitarias...".
+estas comunidades sufrirán mucho daño económico si los centros universitarios permanecen cerrados en ese momento. Las ciudades pequeñas que dependen de los estudiantes universitarios para sustentar la economía local y contar con personal en los negocios locales se ven particularmente afectadas por el cierre de las instituciones educativas y el éxodo de los estudiantes del campus.
+En Ithaca, Nueva York, los estudiantes de Cornell University gastaban, por lo menos, cuatro millones a la semana en el condado de Tompkins.
+Tras la decisión de Cornell de que los estudiantes se queden en casa después del receso de primavera y de adoptar la enseñanza virtual, el alcalde de Ithaca exigió "una acción federal inmediata y contundente: veremos un impacto económico atroz como consecuencia del cierre de Cornell University".
+La UNESCO comparte 10 recomendaciones en este período:
+Analice la preparación y elija las herramientas más relevantes: decida sobre el uso de soluciones de alta y baja tecnología en función de la fiabilidad de los suministros de energía locales, la conexión a internet y las habilidades digitales de los docentes y alumnos.
+Esto podría abarcar desde plataformas integradas de aprendizaje digital, clases por video y CEMA hasta la transmisión por radio y televisión.
+Garantice la inclusión en los programas de educación a distancia: tome medidas para asegurarse de que los alumnos, incluidos aquellos con discapacidades o de contextos de bajos ingresos, tengan acceso a los programas, en el caso de que solo una cantidad reducida de los estudiantes tenga acceso a dispositivos digitales.
+Considere la posibilidad de trasladar temporalmente ese tipo de dispositivos de los laboratorios informáticos a las familias y bríndeles apoyo con la conexión a internet.
+Proteja la privacidad y la seguridad de los datos: evalúe la seguridad de los datos cuando suba información o recursos educativos a sitios web, así como cuando comparta estos con otras organizaciones o personas.
+Asegúrese de que el uso de aplicaciones y plataformas no constituya una violación a la privacidad de los datos de los estudiantes.
+Dé prioridad a las soluciones que abordan problemáticas psicosociales antes de dar clases: movilice las herramientas disponibles para conectar a las escuelas, los padres, los docentes y los estudiantes entre sí.
+Cree comunidades para garantizar interacciones humanas frecuentes, facilite medidas de cuidado social y aborde los posibles problemas psicosociales que puedan enfrentar los estudiantes al estar aislados.
+Planifique el cronograma de estudio de los programas de educación a distancia: organice reuniones con las partes interesadas para analizar la posible duración del cierre de las escuelas y decidir si el programa de educación a distancia debe enfocarse en enseñar contenido nuevo o en fortalecer el conocimiento de los alumnos de clases anteriores.
+Planifique el cronograma según la situación de las zonas afectadas, el nivel de estudios, las necesidades de los estudiantes y la disponibilidad de los padres.
+Elija las metodologías de aprendizaje adecuadas en función de la situación del cierre de las escuelas y de las cuarentenas en el hogar.
+Evite las metodologías de aprendizaje que requieran comunicación cara a cara.
+Apoye a los docentes y a los padres en el uso de las herramientas digitales: organice una capacitación breve o sesiones de orientación para docentes y padres también, si hace falta seguimiento y coordinación.
+Ayude a los docentes a preparar los elementos básicos, como las soluciones para el uso de datos de internet si se les pide que transmitan las clases en directo.
+Combine abordajes adecuados y limite la cantidad de aplicaciones y plataformas: combine herramientas o medios que estén disponibles para la mayoría de los estudiantes, tanto para la comunicación y clases sincrónicas, como para el aprendizaje asincrónico.
+Evite sobrecargar a los estudiantes y los padres pidiéndoles que descarguen y prueben demasiadas aplicaciones o plataformas.
+Elabore normas para la educación a distancia y supervise el proceso de aprendizaje de los alumnos: defina las normas para la educación a distancia con los padres y los alumnos.
+Diseñe preguntas formativas, pruebas o ejercicios para controlar de cerca el proceso de aprendizaje de los alumnos.
+Intente usar herramientas para facilitar el envío de comentarios de los alumnos y evite sobrecargar a los padres pidiéndoles que revisen y envíen los comentarios de los estudiantes.
+Defina la duración de las unidades de educación a distancia en función de las habilidades de autonomía de los estudiantes: mantenga una duración de tiempo que sea coherente con el nivel de autonomía y las habilidades metacognitivas de los estudiantes, sobre todo para las clases en vivo.
+Preferentemente, la unidad no debe ser de más de 20 minutos para los alumnos de escuelas primarias y de no más de 40 minutos para los alumnos de escuelas secundarias.
+Cree comunidades y fortalezca la conexión: cree comunidades de docentes, padres y directivos de escuelas para abordar la sensación de soledad o impotencia, promover el intercambio de experiencias y las conversaciones sobre estrategias para lidiar con las dificultades de aprendizaje.
+290 millones de estudiantes sin clases por la COVID-19: la UNESCO divulga las primeras cifras mundiales y se moviliza para dar respuesta (UNESCO).
+POR CUANTO el 4 de marzo de 2020 proclamé la existencia de un estado de emergencia en California como resultado de la amenaza de la COVID-19;
+y POR CUANTO en un corto período la COVID-19 se ha propagado rápidamente a lo largo de California, lo cual hizo necesaria una orientación más actualizada y estricta por parte de los funcionarios de salud pública federal, estatal y local;
+y POR CUANTO, a los fines de preservación de la salud y la seguridad públicas en todo el estado de California, determino que es necesario que todos los residentes de California sigan las directivas de salud pública del estado comunicadas por el Departamento de Salud Pública.
+POR TANTO, YO, GAVIN NEWSOM, gobernador del estado de California, por la autoridad que me ha sido conferida por la Constitución Estatal y los estatutos del estado de California y, en particular, por las secciones 8567, 8627 y 8665 del Código de Gobierno, a través de la presente, emito la siguiente Orden, la cual entrará en vigor de manera inmediata:
+POR LA PRESENTE SE DECRETA QUE:
+1) A los fines de proteger la salud y la seguridad públicas y garantizar que el sistema de atención sanitaria pueda servir a todos y, priorizando a aquellos que se encuentran en una mayor situación de riesgo y vulnerabilidad, se ordena a todos los residentes que acaten de inmediato las directivas de salud pública actuales del estado, las cuales desarrolló, bajo mis órdenes, el Departamento de Salud Pública para la situación actual a nivel estatal de la COVID-19.
+Esas directivas son coherentes con el Memorando sobre la Identificación de los Trabajadores de la Infraestructura Crítica Esencial durante la Respuesta a la COVID-19 del 19 de marzo de 2020, el cual se puede consultar en: https://covid19.ca.gov/.
+ORDEN DEL FUNCIONARIO DE SALUD PÚBLICA ESTATAL
+A fin de proteger la salud pública, yo, el funcionario de Salud Pública del estado y director del Departamento de Salud Pública de California ordeno a todas las personas que vivan en el estado de California que se queden en sus hogares o lugar de residencia, excepto según sea necesario para mantener la continuidad de las operaciones de los sectores de infraestructura crítica federal, tal como se establece aquí: https://www.cisa.gov/critical-infrastructure-sectors.
+Además, en consulta con el director de la Oficina de Servicios de Emergencia del Gobernador, podré designar otros sectores adicionales como sectores críticos para proteger la salud y el bienestar de todos los residentes de California.
+De conformidad con la autoridad conferida por las secciones 120125, 120140, 131080, 120130(c), 120135, 120145, 120175 y 120150 del Código de Salud y Seguridad, esta orden entrará en vigor en forma inmediata y seguirá en vigor hasta próximo aviso.
+El gobierno federal ha identificado 16 sectores de infraestructura crítica cuyos activos, sistemas y redes, tanto físicos como virtuales, se consideran tan cruciales para los Estados Unidos que su incapacitación o su destrucción tendrían un efecto debilitante para la seguridad, la seguridad económica, la salud o sanidad pública o cualquier combinación de estas áreas.
+Ordeno que los residentes de California que trabajan en estos 16 sectores de infraestructura crítica puedan continuar desempeñando sus tareas debido a la importancia de estos sectores para la salud y el bienestar de los residentes de California.
+Esta Orden se emite para proteger la salud pública de los residentes de California.
+El Departamento de Salud Pública de California busca establecer una uniformidad en todo el estado a fin de garantizar que mitiguemos el impacto de la COVID-19.
+Nuestro objetivo es simple: queremos aplanar la curva y detener la propagación del virus.
+La cadena de suministro se debe mantener y los residentes de California deben tener acceso a los productos de primera necesidad, como alimentos, medicamentos recetados y atención médica.
+Cuando las personas tengan que salir de sus hogares o lugares de residencia, ya sea para obtener los productos o realizar las actividades anteriormente mencionadas, o bien, para facilitar las actividades necesarias autorizadas, deberán aplicar el distanciamiento social en todo momento.
+2) El sistema de atención médica deberá priorizar los servicios para ayudar a quienes estén más enfermos y deberá priorizar los recursos, incluidos los equipos de protección personal, para los proveedores que les brinden atención directa a estos.
+3) Se le ha ordenado a la Oficina de Servicios de Emergencia que tome las medidas necesarias para garantizar el cumplimiento de esta Orden.
+4) El cumplimiento de esta Orden será exigible de conformidad con las leyes de California, las que incluyen, sin limitarse a este, el Código de Gobierno, sección 8665.
+SE ORDENA, ADEMÁS, que, tan pronto como sea posible, se presente esta Orden ante la Oficina del Secretario de Estado, se haga pública y se divulgue en forma generalizada.
+Esta Orden no crea ni se emite con el objetivo de crear ningún derecho o beneficio, sustancial o procedimental, exigible en derecho o equidad al estado de California, sus agencias, departamentos, entidades, funcionarios, empleados o cualquier otra persona.
+EN FE DE LO CUAL firmo y estampo el Gran Sello del estado de California el día 19 de marzo de 2020.
+El virus SARS-CoV-2 es la causa de la COVID-19 (enfermedad del coronavirus 2019), una enfermedad respiratoria contagiosa que se identificó por primera vez en diciembre de 2019, en Wuhan, Hubei, China.
+Esta enfermedad es un tipo de coronavirus, la misma familia que incluye al SARS, al MERS y a algunas variedades del resfrío común.
+La Organización Mundial de la Salud (OMS) la declaró una pandemia el 11 de marzo de 2020.
+Aunque aún se desconocen muchos aspectos de la COVID-19, los datos preliminares sugieren que es más virulenta y contagiosa que la gripe estacional, y menos virulenta pero más contagiosa que el SARS y el MERS.
+Las personas mayores y aquellas con afecciones subyacentes son las que tienen mayor riesgo de sufrir complicaciones graves, incluida la muerte.
+Debido a la propagación de la enfermedad, se le recomienda que no viaje a menos que sea necesario, para evitar contagiarse, ser puesto en cuarentena o quedar varado en otro lugar debido a las cambiantes restricciones y los vuelos cancelados.
+Evite los lugares concurridos en la medida de lo posible.
+Esto no solo es para protegerlo a usted, sino también a las personas con las que tiene contacto.
+De hecho, es probable que no se pierda de mucho por quedarse en casa, ya que muchas de las atracciones en todo el mundo están cerrando sus puertas para evitar la propagación de la enfermedad.
+Si necesita viajar, tome las precauciones que tomaría para otras infecciones: lávese las manos con frecuencia, evite tocarse el rostro, cúbrase con la parte interna del codo o con un pañuelo al toser o estornudar y evite el contacto con personas enfermas.
+Antes de viajar, lea la amplia y rápidamente cambiante variedad de restricciones de viaje que se han impuesto en todo el mundo.
+Después de viajar, controle su estado de salud y considere aislarse de los demás por dos semanas para evitar el contagio de la enfermedad.
+En muchos países, se ha limitado o suspendido completamente el transporte desde los viajes de pasajeros de larga distancia hasta los autobuses locales debido a la baja demanda o a órdenes gubernamentales.
+Se han cerrado muchas fronteras internacionales y regionales.
+Si se encuentra lejos de su casa y, en especial, si está en otro país, considere volver a su casa tan pronto como sea posible; es probable que esto se vuelva incluso más difícil a medida que cambien las restricciones.
+En algunos casos, quizás esto no sea posible, incluso aunque usted esté sano y cumpla los requisitos legales para el ingreso.
+Si no encuentra la manera de regresar a su país, comuníquese con su embajada o su consulado más cercano para pedir asistencia.
+Es posible que ellos puedan organizar una evacuación, identificar vuelos que no estén programados de manera regular o darle un préstamo de emergencia para pagar el transporte.
+Si ellos no pudieran, haga los arreglos necesarios en caso de que deba quedarse donde está por un período prolongado.
+Si encuentra la manera de regresar a su hogar, anticipe que la vuelta será costosa e incómoda y tendrá restricciones inusuales (como no permitir despachar equipaje).
+Al mes de abril de 2020, la cantidad de casos confirmados de COVID-19 se acerca a un millón.
+Aunque la enfermedad empezó en China continental, se ha propagado al resto del mundo y China tiene menos casos confirmados y muertes que varios de los otros países.
+Europa es el nuevo epicentro de la pandemia.
+Todos los países, salvo unos cuantos, han declarado tener al menos un caso; los que tienen el mayor número de casos confirmados son Estados Unidos, España, Italia, Alemania, Francia, China continental y el Reino Unido.
+Se ha establecido la transmisión local en muchos países, en todas las regiones de mayor población del mundo, con excepción de algunas naciones de las islas del Pacífico.
+(Consulte las actualizaciones de la OMS).
+No está clara la magnitud total de la propagación, debido, en parte, a las pruebas limitadas.
+Muchos países tienen una marcada escasez de kits de prueba y las autoridades no han podido hacerle la prueba a toda la población de riesgo, por lo que la cantidad real de casos probablemente sea mucho más alta que la oficial.
+Los países también difieren unos de otros en sus prácticas de realización de las pruebas y elaboración de informes, por lo que las comparaciones del número de casos confirmados no indican a ciencia cierta cómo ha progresado la epidemia en distintas áreas.
+El virus se transmite por medio de las gotitas de la respiración y los objetos.
+El coronavirus es un virus relativamente grande; esto quiere decir que realmente no se puede transportar en el aire: se posa junto con las gotitas respiratorias.
+Mantenerse a una distancia de dos metros (seis pies) de las demás personas generalmente es suficiente para prevenir la transmisión por este medio.
+La transmisión a través de objetos puede ocurrir, por ejemplo, si alguien estornuda, toca un picaporte, y luego otras personas tocan el picaporte y se llevan las manos al rostro.
+El virus SARS-CoV-2 puede durar en las superficies de cartón por hasta 24 horas y en el plástico por hasta 3 días.
+También es posible la transmisión vía fecal/oral.
+La evidencia sugiere que la COVID-19 es contagiosa incluso sin síntomas, aunque todavía se está investigando en qué medida lo es.
+Entre los síntomas comunes se incluyen la fiebre, la tos seca y la fatiga.
+Otros síntomas menos comunes incluyen falta de aliento, dolor de garganta, dolor de cabeza, dolor muscular o producción de esputo.
+Algunos pacientes tienen síntomas muy leves, parecidos a los de un resfrío.
+Las complicaciones graves incluyen neumonía, síndrome de dificultad respiratoria aguda y fallo multiorgánico que puede causar una discapacidad o la muerte.
+Alrededor del 80 % de las infecciones tienen como resultado síntomas leves, mientras que el resto puede requerir una hospitalización.
+Se estima que la tasa de letalidad es del 1 % al 3 % de las personas contagiadas, la mayoría de las cuales son adultos mayores con afecciones de salud subyacentes.
+La tasa de letalidad es mucho más elevada para las personas mayores de 70 años, pero es significativamente menor para los menores de 40 años.
+Las personas que tienen mayor riesgo de contagiarse de COVID-19 y tener complicaciones graves son los adultos mayores con sistemas inmunitarios debilitados o afecciones de salud subyacentes, como enfermedad cardiovascular, diabetes, hipertensión, enfermedad respiratoria crónica y cáncer.
+No se informan muchos casos en niños y la mayoría son leves o moderados, aunque en una porción significativa de estos sí se desarrolla neumonía.
+A nivel ocupacional, los trabajadores de atención médica tienen un riesgo mayor en comparación con las demás personas, debido a los grupos de enfermedades presentes en los entornos y entre los trabajadores de atención médica.
+El tiempo entre la exposición al virus y la aparición de los síntomas de emergencia (llamado período de incubación) suele ser de 2 a 14 días, aunque se informó de un caso en China en el que los síntomas aparecieron 27 días después de la exposición.
+Al mes de febrero de 2020, se desconoce el período de infectividad, pero probablemente sea más significativo en el caso de las personas sintomáticas.
+Hay evidencia de transmisión por parte de personas que no tienen síntomas, aunque aún se está investigando en qué medida ocurre esto.
+No queda claro si es posible volver a contagiarse el virus después de recuperarse la primera vez.
+Todavía no quedan claros los efectos a largo plazo para las personas que se han recuperado, pero hay evidencia de reducción de la capacidad pulmonar en algunos pacientes recuperados.
+Las pruebas para detectar el virus normalmente consisten en introducir un hisopo en la nariz o en la garganta, que luego se analiza en un laboratorio para determinar la presencia del virus.
+La prueba de referencia actual implica la extracción de material genético de la muestra y su posterior análisis para detectar los marcadores genéticos conocidos del virus.
+No hay ninguna prueba establecida para evaluar el virus o los anticuerpos en la sangre, aunque se están desarrollando pruebas.
+No hay ninguna prueba que permita establecer la inmunidad al virus.
+Muchos gobiernos de todo el mundo han recomendado a sus ciudadanos que no hagan viajes innecesarios durante la pandemia.
+Muchas aerolíneas y paquetes turísticos están facilitando esto al omitir las tarifas de cancelación y las tarifas por cambios.
+En especial, se deben evitar los viajes en cruceros.
+Los viajeros de edad avanzada y aquellos con afecciones de salud subyacentes tienen un mayor riesgo y deberían evitar los viajes que los pongan en riesgo, como los vuelos largos, las visitas a lugares muy concurridos y, especialmente, los cruceros, incluso fuera de las zonas más afectadas.
+En las áreas afectadas, la mayoría de los expertos recomiendan una práctica denominada distanciamiento social.
+Esto significa minimizar el contacto con las demás personas manteniendo una distancia de seis pies o dos metros el uno del otro y evitar reunirse en grupos.
+En algunos lugares se permite reunirse en grupos pequeños; en otros, están prohibidas todas las reuniones en grupo.
+Las medidas que se le recomienda tomar incluyen trabajar desde el hogar siempre que sea posible, evitar las aglomeraciones y no salir de su casa a menos que sea absolutamente necesario.
+Si tiene que salir, intente mantener una distancia de al menos 2 metros (6 pies) de las demás personas.
+En muchos lugares, estas medidas son obligatorias.
+Siga prácticas de higiene tales como las que se recomiendan para prevenir la gripe.
+Lávese las manos con agua tibia y jabón con frecuencia y séqueselas con una toalla limpia.
+Debido a que los coronavirus son virus encapsulados, lavarse las manos con jabón mata al virus al deteriorar la envoltura vírica que se compone principalmente de grasas.
+Para que el lavado de manos sea efectivo, debe durar al menos 20 segundos.
+Secarse las manos después de lavárselas retira físicamente algunos gérmenes de la piel (así que no omita ese paso y no comparta las toallas).
+Si no tiene acceso a agua y jabón, use un desinfectante para manos con más del 60 % de alcohol.
+El alcohol mata los gérmenes en forma rápida pero no instantánea, por lo que también en este caso es necesario frotarse las manos por 20 segundos y asegurarse de que se humedezca la totalidad de la piel; después de esto, se debe esperar un minuto más, aproximadamente, para que el alcohol se seque completamente.
+Evite tocarse los ojos, la nariz y la boca con las manos.
+La mayoría de la gente se toca el rostro cada pocos minutos, a lo largo de todo el día.
+Intente hacer esto con menos frecuencia y trate de lavarse las manos antes de tocarse el rostro.
+También intente no tocar las superficies si no es necesario tocarlas, al menos con las manos expuestas.
+Al toser o estornudar, cúbrase con la parte interna del codo o un pañuelo y, luego, deseche el pañuelo inmediatamente y lávese las manos.
+No se pare ni se siente cerca de otras personas que podrían estar enfermas.
+Manténgase al menos a un metro de distancia o, idealmente, a dos metros (seis pies).
+Una forma de calcular esta distancia a simple vista es imaginar que usted y la otra persona intentan estirar los brazos para tocarse las manos.
+¿Podría tocar la mano de la otra persona sin dar un paso en su dirección?
+Si la respuesta es afirmativa, entonces está demasiado cerca.
+Limpie con un limpiador de uso doméstico los objetos y las superficies que mucha gente toque, como los picaportes, los teléfonos y los controles remotos de televisores.
+Desinfecte las superficies con un desinfectante adecuado, como lejía de uso doméstico diluida.
+Quédese en casa si está enfermo y evite el contacto con otras personas hasta que se vayan sus síntomas.
+No comparta los artículos personales que entren en contacto con la saliva, como cepillos de dientes, utensilios de cocina, bebidas, botellas de agua y toallas.
+Se debe evitar la práctica de servirse uno mismo con palillos de una fuente compartida, una práctica que es común en China.
+Salude a la gente sin tocarla.
+Evite dar abrazos, besos o apretones de mano, chocar los puños y tener cualquier otro tipo de contacto.
+Si es imposible evitar el contacto, lávese las manos tanto antes como después de este.
+Esto no lo protegerá del coronavirus, pero sí lo protegerá parcialmente de la gripe, la cual sigue siendo un mayor riesgo que la COVID-19 en muchos lugares.
+Esto también le ahorra la preocupación innecesaria de contagiarse de gripe y pensar que podría ser coronavirus.
+Si es un adulto mayor o se encuentra en un grupo de alto riesgo y puede vacunarse contra la neumonía, hágalo.
+Esto no lo protegerá de la neumonía viral ocasionada por la COVID-19, pero algunos pacientes con COVID-19 han muerto de neumonía bacteriana que atacó sus pulmones debilitados; por este motivo, la vacuna contra la neumonía podría salvarle la vida.
+Se recomienda el uso de mascarillas para aquellas personas que se sospeche que tengan la enfermedad y para quienes hayan estado en contacto cercano con alguien contagiado.
+En el caso de las personas asintomáticas, la OMS no recomienda el uso de mascarillas, aunque algunos gobiernos nacionales sí lo hacen.
+El uso de algún tipo de mascarilla es obligatorio en algunos países y ciudades a fin de reducir la transmisión comunitaria.
+Hay una escasez mundial de mascarillas quirúrgicas.
+Si usa una mascarilla, asegúrese de usarla correctamente.
+La mascarilla debe cubrirle la nariz y la boca y ajustarse sin dejar ninguna separación.
+Lávese las manos antes de colocarse la mascarilla y evite tocar la mascarilla mientras la use.
+Si la toca, lávese las manos de manera inmediata.
+Cuando la mascarilla se humedezca, deséchela y reemplácela.
+Quíteselo por la parte trasera, deséchelo y lávese las manos.
+Recuerde que las mascarillas no sustituyen la buena higiene: siga lavándose las manos con frecuencia.
+No acumule mascarillas si no las necesita.
+La escasez de mascarillas significa que los trabajadores de la salud están teniendo problemas para conseguir mascarillas, lo cual pone a todo el mundo en riesgo.
+Eso incluye los respiradores N95, que no se recomiendan para el público en general; estos son equipos especializados que se deben ajustar para una óptima eficacia.
+Déjeselos a los trabajadores de la salud.
+Evite las áreas con gran concentración de gente, en especial aquellas sin suficiente circulación de aire, como salas de conferencias, espectáculos, centros comerciales, transporte público y servicios religiosos.
+Los eventos que impliquen una concentración masiva de gente, desde las peregrinaciones religiosas hasta los conciertos musicales, se están cancelando en todo el mundo, con el objetivo de detener la propagación del virus.
+Las atracciones turísticas, los negocios y los medios de transporte pueden estar cerrados, particularmente en los países afectados.
+Algunos eventos cancelados, especialmente los espectáculos, los eventos deportivos y las clases, se están realizando en línea, lo cual significa que puede participar en ellos sin tener que viajar.
+En las gasolineras/estaciones de servicio, use guantes o, si puede, limpie el mango del surtidor con una toallita desinfectante.
+Después de llenar el tanque, límpiese las manos con desinfectante de manos.
+Los gobiernos de Estados Unidos y Canadá recomiendan evitar los viajes en crucero.
+El contagio se propaga fácilmente a bordo de una embarcación y la atención médica es limitada.
+Si hay un brote en un crucero, es difícil implementar la cuarentena y atracar la embarcación, debido, en parte, a la gran cantidad de gente a bordo.
+Se les denegó el permiso para atracar incluso a algunos cruceros sin casos confirmados debido a los miedos por el coronavirus; en el caso del Diamond Princess en Japón, que tuvo gran repercusión mediática, cientos de personas se contagiaron a bordo de la embarcación.
+Si cree que podría haberse contagiado, llame a un hospital o a los servicios locales de emergencias médicas en vez de ir en persona, para evitar contagiar a otras personas.
+Mencione sus síntomas y sus antecedentes de viaje.
+Use una mascarilla médica y siga las instrucciones de las autoridades y los médicos.
+Consulte también: Vuelos y salud
+En un avión, siga las mismas prácticas de higiene que en cualquier otro lugar: lávese las manos con frecuencia o use un desinfectante de manos a base de alcohol si no es conveniente levantarse de su asiento y evite tocarse el rostro.
+Se ha determinado a través de investigaciones que los pasajeros que ocupan asientos del lado de la ventanilla tienen un menor riesgo de contacto con personas enfermas.
+Intente reservar un asiento del lado de la ventanilla y evite desplazarse por la cabina durante el vuelo.
+Después de lavarse las manos y antes de sentarse, use toallitas desinfectantes para limpiar el área que rodea su asiento.
+Limpie las superficies sólidas y, si el asiento es de cuero, puede limpiarlo también.
+No limpie con una toallita un asiento de tela, ya que la humedad puede facilitar la transmisión.
+Al usar toallitas desinfectantes, siga las instrucciones del envase.
+Y recuerde que los virus entran a través de la boca, la nariz y los ojos; nunca está de más limpiar la zona, pero esto no reemplaza una buena higiene.
+Lávese las manos y evite tocarse el rostro.
+Y use una toallita para tocar las pantallas táctiles y otros controles.
+Al usar el lavabo, use toallitas de papel para cerrar el grifo y abrir la puerta y luego deséchelas.
+Las aerolíneas en las zonas afectadas están tomando medidas para reducir la transmisión y mantener a los pasajeros a salvo.
+Por ejemplo, estos pueden incluir la limpieza de las instalaciones con mayor frecuencia, permitir que los auxiliares de vuelo usen mascarillas y servir comidas envasadas previamente en vez de comidas recién calentadas.
+Si un grupo de pasajeros tiene un vuelo de conexión desde una zona con un brote severo, es posible que los auxiliares de vuelo sienten a estos pasajeros alejados del resto (y si usted estuvo recientemente en un área de alto riesgo, considere informárselo a los auxiliares de vuelo por este motivo).
+Es posible que le prohíban cambiar de asiento durante el vuelo.
+El objetivo de esto es que, si alguien en el vuelo está infectado, las autoridades puedan hacer un seguimiento con las personas que estaban sentadas cerca de este pasajero para someterlas a una prueba o ponerlas en cuarentena.
+El tratamiento de la COVID-19 implica el alivio de los síntomas y la prevención de las complicaciones.
+No hay ninguna vacuna ni tratamiento específico para el nuevo coronavirus.
+Actualmente se encuentran en curso investigaciones para desarrollar una vacuna o un medicamento antivírico.
+Hay diversos ensayos en los que se están usando medicamentos contra el VIH y otros medicamentos antivíricos nuevos para el tratamiento de la COVID-19.
+Los síntomas leves pueden aliviarse tomando paracetamol (acetaminofén).
+Si se ha contagiado COVID-19, los países lo aislarán hasta que se le hayan realizado varias pruebas consecutivas de COVID-19 con resultados negativos.
+Si ha estado en contacto estrecho con alguien contagiado de COVID-19, en muchos países se lo pondrá en cuarentena por 14 días a partir de la última fecha de exposición y se controlarán sus signos y síntomas.
+En algunos países, se le harán pruebas incluso si no tiene síntomas.
+En muchos países, el sistema de salud se encuentra sobrecargado al punto de que no puede manejar la cantidad de pacientes, por lo que existe la posibilidad de que le nieguen el tratamiento debido a la falta de personal, suministros o equipos médicos disponibles.
+Muchos países han cancelado o limitado en gran medida los vuelos y los viajes en barco y han cerrado los cruces de fronteras, especialmente desde áreas afectadas o hacia estas.
+Incluso más países han impuesto restricciones para los viajeros que llegan al país, ya sea que se les deniegue el ingreso (quizás con la excepción de los ciudadanos y residentes permanentes del país) o se les exija que hagan una cuarentena, que suele ser de 14 días.
+Incluso si no se le impone la cuarentena obligatoria, es posible que le pidan que haga una "cuarentena voluntaria" y se quede en casa, sin interactuar con otras personas.
+Las restricciones más severas son para los viajeros que han estado en forma reciente en zonas afectadas, pero cada vez son más los países que las aplican a todos los viajeros que ingresan al país.
+Algunos países han prohibido incluso el ingreso de todos o casi todos los extranjeros o han limitado las salidas de los ciudadanos o residentes locales.
+¿Cuáles son las zonas afectadas?
+Bueno, la situación cambia rápidamente y cada país/región/organización tiene su propia lista de zonas sujetas a restricciones.
+La ciudad de Wuhan se encuentra en todas las listas y el resto de China continental está en la mayoría de ellas.
+Otras zonas que generalmente se incluyen son: Francia, Alemania, Hong Kong, Irán, Italia, Japón, Macao, Singapur, Corea del Sur, España, Taiwán, el Reino Unido, los Estados Unidos, el espacio Schengen en su totalidad y, a veces, varios otros lugares.
+Algunos países han impuesto restricciones basadas en la ciudadanía o la residencia de las áreas gravemente afectadas.
+La Asociación Internacional de Transporte Aéreo mantiene una lista detallada de las restricciones de ingreso.
+No cubre todas las restricciones, pero sigue siendo útil.
+Manténgase informado: el brote y las restricciones de viaje cambian rápidamente.
+Si tiene que viajar en el futuro cercano, considere hacer reservas reembolsables, en caso de que la cambiante situación lo obligue a modificar sus planes.
+Evite comprar boletos con conexiones en las áreas afectadas ya que incluso un cambio de avión puede hacer que usted quede sujeto a las restricciones.
+Los vuelos se pueden cancelar sin mucho preaviso, ya sea debido a la propagación de la enfermedad y las cambiantes restricciones de ingreso o al hecho de que son menos las personas que viajan y las aerolíneas tienen dificultad para llenar los vuelos.
+También es posible que sufra demoras de varias horas tras su llegada, mientras espera los controles de temperatura y los procedimientos y papeleo relacionados, o que lo coloquen en cuarentena por dos semanas.
+Debe estar preparado para la posibilidad de que se vean interrumpidos sus planes de viaje, especialmente si se trata de un viaje internacional.
+Incluso si no se encuentra cerca de las áreas afectadas, existe el riesgo de que deba quedarse en su destino más tiempo de lo planeado si estuvo en el mismo edificio o embarcación que una persona contagiada.
+Por ejemplo, a fines de febrero, un médico italiano que estaba de vacaciones en Costa Adeje (islas Canarias) fue diagnosticado con COVID-19 y, como resultado, todos los huéspedes del hotel en el que se quedó el médico fueron puestos en cuarentena.
+Cierres y otras restricciones internacionales
+Algunos países y regiones, especialmente los más afectados, están implementando cierres de emergencia y restricciones a la circulación y las actividades de las personas, incluso para aquellas personas que no han viajado recientemente al exterior.
+Estos incluyen la reintroducción temporal de algunos controles de fronteras, restricciones de viaje dentro del país, cierre de restaurantes u otros establecimientos o limitación de sus servicios, prohibición de eventos públicos masivos y, en los casos más severos, no dejar que las personas salgan de sus hogares excepto por razones esenciales.
+Más allá de las restricciones gubernamentales, los establecimientos individuales están cerrando sus puertas y cancelando eventos para tratar de reducir la propagación del virus.
+En China hay importantes restricciones de transporte y actividad, las cuales varían ampliamente entre las distintas provincias y ciudades o, incluso, entre los distintos distritos o pueblos.
+Muchos gobiernos recomiendan no viajar a China en este momento.
+Si no le queda otra opción, investigue y obtenga la información más actualizada acerca de la situación local, donde sea que vaya.
+Las personas que han viajado a Hubei enfrentan restricciones particularmente estrictas.
+Ejemplos de las restricciones que puede encontrar en algunas partes de China (esta lista no es exhaustiva):
+cuarentena de 14 días, cuarentena voluntaria o prueba de COVID-19 al llegar desde otras partes de China o desde otros países, el costo de lo cual corre por su cuenta
+preguntas sobre sus antecedentes de viaje y médicos (si miente pueden darle una condena de varios años en la cárcel)
+registro obligatorio por medio de un formulario en línea o impreso
+requisito de usar una mascarilla en público
+prohibición del ingreso a lugares públicos, como centros comerciales, a aquellas personas que han estado fuera de China en los últimos 14 días
+aceptación de pagos móviles únicamente, no en efectivo, por parte de las tiendas
+rehusar dar servicios a quienes no sean ciudadanos chinos en restaurantes, medios de transporte y otros establecimientos
+cierre o reducción de la frecuencia de muchos medios de transporte
+registro obligatorio con el nombre real para tarjetas de transporte público
+bloqueo del ingreso o la salida de ciertos pueblos, aldeas o ciudades
+prohibición de ingreso a complejos de apartamentos a las visitas que no residan en ellos
+permiso de salir solo una vez cada dos días para comprar suministros
+cierre de negocios, transacciones y atracciones
+necesidad de los negocios de obtener permiso por parte de los gobiernos locales para volver a abrir
+obligación de mantener una distancia mínima entre los clientes en restaurantes (si es que hay alguno abierto)
+la venta de mascarillas faciales de calidad inferior conlleva una condena máxima de prisión perpetua
+Desde mediados de marzo de 2020, Europa es el epicentro de la epidemia y muchos países europeos han cerrado sus fronteras y no permiten el viaje internacional; solo se les permite cruzar la frontera a los trabajadores fronterizos y a los transportes de carga de mercancías.
+Además, se han cerrado los negocios que no sean negocios de venta de alimentos o farmacias y se ha reducido o detenido la circulación del transporte público.
+En los países más afectados, incluidos Italia, España y Francia, se han implementado cierres como los de enero en China.
+Además, la UE ha cerrado sus fronteras exteriores.
+La COVID-19 también es prevalente en América del Norte.
+Las fronteras entre Canadá, EE. UU. y México se han cerrado para el viaje no esencial y, en muchas áreas, se han prohibido las reuniones masivas (esto significa que ciertos lugares, como los restaurantes, están cerrados y los eventos se han cancelado).
+Diversas jurisdicciones estatales, provinciales y municipales han ordenado que las personas se queden en sus hogares y que todos los negocios no esenciales permanezcan cerrados.
+Debido a la cantidad de vuelos cancelados, alertas emitidas y restricciones impuestas, puede ser muy difícil volar en tiempos de coronavirus.
+Algunas rutas no son posibles.
+Otros requieren más conexiones inconvenientes que lo normal, es decir, muchas paradas y largos tiempos de espera entre un vuelo y otro.
+En algunos casos, eso significa que los boletos cuestan más.
+Por otra parte, la buena noticia es que muchos vuelos son mucho más baratos que antes debido a la reducción de la demanda y es muy probable que el asiento junto al suyo esté vacío.
+Incluya en sus planes tiempo adicional para sus conexiones, especialmente si se transfiere de un vuelo internacional a un vuelo doméstico, y en particular si su itinerario incluye un país gravemente afectado.
+Los exámenes de detección, los controles de temperatura, el papeleo adicional y las esperas asociadas pueden agregar una demora de minutos u horas antes de que se le permita continuar su viaje.
+Es posible que ahora sea más difícil comprar un boleto a un destino sujeto a alertas y restricciones o desde este.
+Esto puede ser un verdadero problema si está intentando salir de un área afectada.
+Por ejemplo, la mayoría de los agregadores turísticos no está vendiendo boletos de China a los Estados Unidos (presuntamente para evitar problemas a causa de las restricciones y la obligación de reembolsarle al pasajero un viaje de salida).
+Para comprar un boleto para este tipo de itinerario, es posible que deba contactar a la aerolínea o usar un agregador menos conocido.
+Otra posibilidad es comprar dos boletos separados (por ejemplo, un boleto de China a Camboya y un segundo boleto de Camboya a los EE. UU.), pero debe tener cuidado porque podrían ponerlo en cuarentena o se le podría perder el equipaje en la conexión.
+Los vuelos de conexión pueden ser un problema.
+El riesgo de quedar atrapado en la ciudad de conexión ahora es incluso mayor que antes, debido a las demoras causadas por las pruebas y los exámenes de detección, además de las numerosas cancelaciones.
+Una conexión en un área afectada podría derivar en restricciones de ingreso posteriores y, si ha estado en un área afectada en forma reciente, algunos países ni siquiera le permitirán cambiar de avión.
+En ciertos itinerarios hay un riesgo de que lo pongan en cuarentena en algún momento del trayecto.
+Así que, si puede, reserve un vuelo directo; si no puede, piense cuidadosamente dónde hará su conexión.
+En tiempos inciertos, los planes pueden cambiar.
+Muchas embajadas y consulados han evacuado al personal no esencial y algunas han detenido sus operaciones completamente.
+De todos modos, debería tener asistencia de emergencia a su disposición, aunque es posible que deba comunicarse con un consulado más alejado si el consulado local ha cerrado.
+Si ha quedado varado debido a la pandemia, es posible que el consulado más cercano pueda ayudarlo a encontrar un vuelo de regreso a casa, coordinar un préstamo de emergencia para que pueda comprar un boleto o darle un pasaporte de emergencia.
+Como mínimo, pueden mantenerlo informado respecto de la situación local y notificarle los requisitos y las restricciones de viaje que se hayan aplicado en forma reciente.
+Los servicios consulares habituales, como el procesamiento de visas y pasaportes, pueden verse suspendidos o restringidos a necesidades urgentes, según la ubicación y el consulado.
+Aunque algunas personas llaman a esta enfermedad la "neumonía de Wuhan" (武汉(漢)肺炎/武肺), la "enfermedad de Wuhan" o el "virus chino", el uso de estos términos se considera racista en China y por parte de muchas personas de origen chino.
+En lugares como Hong Kong o Taiwán sigue siendo común referirse a la enfermedad como "neumonía de Wuhan" o "virus Chino".
+Para estar seguro, use términos que no hagan referencia a un lugar al hablar de la enfermedad, como la "COVID-19", el "nuevo coronavirus" o, simplemente, "el virus" o "la pandemia".
+Especialmente en los países en desarrollo en los que las fuerzas del orden público carecen de un entrenamiento apropiado, la aplicación de toques de queda, cierres u órdenes de quedarse en el hogar puede ser, con frecuencia, brutal y usar una fuerza no proporcional contra las multitudes.
+Cumpla con estas órdenes y evite las multitudes en público.
+Como resultado de la pandemia del coronavirus, ha aumentado la xenofobia en muchos países y se ataca, en forma principal pero no exclusiva, a aquellas personas a las cuales se percibe como de origen chino.
+Ha habido un gran aumento mundial de incidentes racistas dirigidos a personas de Asia Oriental, incluso en ciudades importantes, como Nueva York, Londres o San Francisco.
+En Hong Kong, la sinofobia, que ya era grave desde antes, se ha intensificado como resultado de la pandemia, lo que ha provocado que muchos negocios y restaurantes se nieguen a servir a clientes de China continental y echen de sus instalaciones a quienes hablen mandarín (con la excepción del taiwanés).
+Los niveles de xenofobia también han aumentado en Asia Oriental y algunos restaurantes y otros negocios en Japón y China se niegan a servir a clientes extranjeros.
+En China, ha habido incidentes en los que el personal de algunos hoteles se ha negado a darles una habitación a extranjeros y en los que algunos propietarios de apartamentos han echado de los apartamentos con poco tiempo de aviso a sus inquilinos extranjeros, en especial a inquilinos negros.
+Estas son algunas fuentes de información adicional sobre el coronavirus:
+Los Centros para el Control y la Prevención de Enfermedades del gobierno de EE. UU.
+Centro Europeo para la Prevención y el Control de las Enfermedades (actualizaciones diarias)
+Gobierno del Reino Unido - Consejos para viajeros del Ministerio de Relaciones Exteriores y de la Mancomunidad de Naciones
+Un mapa y panel en línea del Centro de Ciencias de Sistemas e Ingeniería de la Universidad John Hopkins con actualizaciones en vivo.
+Listas parciales de restricciones de ingreso de la Asociación Internacional de Transporte Aéreo y del New York Times
+Se están difundiendo en línea diversas teorías conspiratorias e información errónea sobre el virus, incluso por parte de algunos funcionarios gubernamentales, por lo que debe tener cuidado con las fuentes de las que obtiene información.
+Asegúrese de que toda la información y los consejos que reciba estén respaldados por médicos y científicos prestigiosos.
+Durante una crisis, es normal querer estar al tanto de las últimas novedades, pero probablemente sea mejor para su salud mental moderar la cantidad de noticias que ve y limitarse a las fuentes confiables de noticias.
+Si normalmente ve las noticias dos veces al día, siga haciendo esto y haga otras actividades, en vez de tener encendidas las noticias en forma continua o las 24 horas del día.
+El coronavirus de murciélago similar al SARS WIV1 (SL-CoV-WIV1 de murciélago), también llamado, a veces, coronavirus similar al SARS WIV1, es una cepa del coronavirus relacionado con el síndrome de dificultad respiratoria aguda (SARSr-CoV) aislado de los murciélagos de herradura rufos chinos (Rhinolophus sinicus).
+Como todos los coronavirus, los viriones se componen de ARN monocatenario positivo dentro de una envoltura.
+El hallazgo confirma que los murciélagos son el reservorio natural del SARS-CoV.
+El análisis filogenético demuestra la posibilidad de transmisión directa de SARS de los murciélagos a los humanos sin intermediación de las civetas chinas, como se creía anteriormente.
+El desarrollo de medicamentos contra la COVID-19 es el proceso de investigación con el fin de desarrollar una vacuna preventiva o un medicamento recetado terapéutico que alivie la gravedad de la enfermedad por coronavirus de 2019-2020 (COVID-19).
+En la Plataforma de registros internacionales de ensayos clínicos de la OMS se registraron 536 estudios clínicos para el desarrollo de terapias posteriores al contagio, con diversos compuestos antivíricos establecidos para el tratamiento de otras infecciones bajo investigación clínica con el fin de adaptarlos para tratar las infecciones de COVID-19.
+En marzo, la OMS inició en 10 países el Ensayo "SOLIDARIDAD", en el cual se inscribió a miles de personas contagiadas de COVID-19 para evaluar los efectos del tratamiento con los cuatro compuestos antivíricos existentes más prometedores respecto de la eficacia.
+En abril de 2020 se estableció una revisión dinámica y sistemática para hacer un seguimiento del progreso de los ensayos clínicos registrados para la vacuna contra la COVID-19 y los candidatos a medicamentos terapéuticos. El desarrollo de vacunas y medicamentos es un proceso de varios pasos que normalmente requiere más de cinco años para garantizar la seguridad y la eficacia del nuevo compuesto.
+El desarrollo de medicamentos es el proceso de lanzar al mercado una nueva vacuna o un nuevo medicamento terapéutico para combatir una enfermedad contagiosa una vez que se ha identificado un compuesto principal a través del proceso de descubrimiento del medicamento.
+Esto incluye la investigación en laboratorios de microorganismos y animales, la presentación de informes para el estado normativo, por ejemplo, a través de la FDA, a fin de iniciar los ensayos clínicos de un nuevo medicamento en fase de investigación en humanos, y puede incluir el paso de obtener la aprobación normativa de una nueva aplicación de un medicamento a fin de comercializarlo.
+El desarrollo de una vacuna contra la COVID-19 o un medicamento antivírico terapéutico comienza con el emparejamiento de un concepto químico con un potencial mecanismo profiláctico de la futura vacuna o de la actividad antivírica in vivo.
+Las nuevas entidades químicas (NCE, también conocidas como nuevas entidades moleculares o NME) son compuestos que surgen del proceso de descubrimiento del medicamento para especificar una vacuna o un candidato antivírico.
+Estos tienen una actividad prometedora contra un objetivo biológico relacionado con la enfermedad de la COVID-19.
+Al comienzo del desarrollo de la vacuna o el medicamento, no se sabe mucho sobre la seguridad, la toxicidad, la farmacocinética y el metabolismo de la NCE en los humanos.
+Es función y obligación del desarrollo del medicamento evaluar todos estos parámetros antes de los ensayos clínicos en seres humanos para probar su seguridad y eficacia.
+Otro de los objetivos principales del desarrollo de medicamentos es recomendar la dosis y la frecuencia para el primer uso en un ensayo clínico con seres humanos ("primero en seres humanos" [FIH] o "primera dosis en humanos" [FHD], anteriormente denominado "primero en hombres" [FIM]).
+Además, durante el desarrollo del medicamento se deben establecer las propiedades fisicoquímicas de la NCE: la composición química, la estabilidad y la solubilidad.
+Los fabricantes deben optimizar el proceso que usan para fabricar el químico a fin de poder producirlo a escala, desde un químico medicinal que produce miligramos hasta la fabricación a escala de kilogramos y toneladas.
+Luego hacen exámenes adicionales del producto a fin de determinar su idoneidad para ser envasado en forma de cápsulas, comprimidos, aerosol, inyección intramuscular, inyección subcutánea o formulación intravenosa.
+En conjunto, estos procesos se conocen en el desarrollo preclínico y clínico como química, fabricación y control (CMC). Muchos aspectos del desarrollo de medicamentos se centran en cumplir con los requisitos normativos de las autoridades de aprobación de medicamentos.
+Estos generalmente se componen de pruebas diseñadas para determinar las principales toxicidades de un nuevo compuesto antes de su primer uso en seres humanos.
+El gobierno de Canadá anunció una financiación de CAD 275 millones para 96 proyectos de investigación de medidas médicas contra la COVID-19, incluidos diversos candidatos de vacunas en universidades canadienses, a fin de establecer un "banco de vacunas" de las nuevas vacunas para su implementación en caso de que ocurra otro brote de coronavirus.
+Los programas de ensayos clínicos incluyen tres etapas de varios años para la aprobación del producto y una cuarta etapa posterior a la aprobación para el monitoreo continuo de la seguridad de la vacuna o del medicamento terapéutico.
+Los ensayos en fase I, usualmente en voluntarios sanos, determinan la seguridad y la dosis.
+Los ensayos en fase II se usan para establecer una comprensión inicial de la eficacia y explorar más la seguridad en una cantidad reducida de personas que tienen la enfermedad objetivo de la NCE.
+Los ensayos en fase III son ensayos grandes y esenciales para determinar la seguridad y la eficacia en cantidades suficientemente numerosas de personas con infección por el virus de la COVID-19.
+Si la seguridad y la eficacia se confirman adecuadamente, las pruebas clínicas pueden detenerse en este paso y la NCE pasa a la etapa de solicitud de autorización de especialidad farmacéutica (NDA) para comenzar el mercadeo.
+Los ensayos en fase IV son ensayos posteriores a la aprobación que pueden ser una condición establecida por la FDA. También se los llama estudios de vigilancia posterior al mercadeo.
+Además de las pruebas necesarias para que una vacuna o fármaco antivírico nuevos lleguen a los consultorios por primera vez, los fabricantes deben garantizar que las toxicidades a largo plazo o crónicas estén bien definidas, incluidos los efectos en los sistemas que anteriormente no se controlaron (fertilidad, reproducción, sistema inmunitario, entre otros).
+En los Estados Unidos, este proceso se denomina "solicitud de autorización de especialidad farmacéutica" o NDA.
+El diseño de un ensayo clínico en curso se puede modificar como un "diseño adaptativo" si los datos acumulados en el ensayo proporcionan información temprana sobre la eficacia positiva o negativa de un tratamiento.
+El ensayo global Solidaridad y el ensayo europeo Descubrimiento en personas hospitalizadas con una infección grave por el virus de la COVID-19 aplican el diseño adaptativo para modificar rápidamente los parámetros a medida que surgen los resultados de las cuatro estrategias terapéuticas experimentales.
+Los diseños adaptativos de los ensayos clínicos en fase II y III en curso sobre posibles terapias pueden acortar la duración de los ensayos y requerir menos sujetos, lo que puede acelerar las decisiones sobre la finalización o el éxito tempranos y sobre la coordinación de cambios del diseño de un ensayo específico en diferentes ubicaciones internacionales.
+La mayoría de los fármacos nuevos de interés médico (NCE) fallan durante el desarrollo del fármaco, ya sea porque tienen una toxicidad inaceptable o simplemente porque no son eficaces para tratar la enfermedad objetivo, como se muestra en los ensayos clínicos en fase II y III.
+Las altas tasas de falla asociadas con el desarrollo farmacéutico se conocen como "tasas de exclusión" y requieren que se tomen decisiones durante las etapas iniciales del desarrollo de los fármacos sobre la cancelación de los proyectos de manera temprana para evitar fallas costosas.
+Un estudio del 2010 determinó que los costos capitalizados y de bolsillo necesarios para sacar al mercado un fármaco nuevo eran de USD 1800 millones y $870 millones, respectivamente.
+El costo promedio estimado de los ensayos del 2015 y 2016 para el desarrollo de 10 antineoplásicos fue de $648 millones.
+En un análisis del 2016 sobre 106 fármacos de interés médico evaluados en ensayos clínicos, el gasto de capital total para un fabricante cuyo fármaco se aprobó en ensayos en fase III exitosos fue de $2600 millones (con el valor del dólar en el 2013), un monto que aumenta a una tasa anual del 8,5 %.
+Siete ensayos evaluaban fármacos readaptados ya aprobados para el paludismo, incluidos cuatro estudios sobre hidroxicloroquina o fosfato de cloroquina.
+Los fármacos antivíricos readaptados constituyen la mayor parte de la investigación china, entre los que se incluyen nueve ensayos en fase III sobre el remdesivir en varios países y que deben presentar informes a fines de abril.
+Con el liderazgo de la Fundación Bill y Melinda Gates, el apoyo de asociados que invierten USD 125 millones y en coordinación con la Organización Mundial de la Salud, en marzo comenzó el Acelerador de Tratamientos para la COVID-19, que facilita a los investigadores del desarrollo de fármacos identificar, evaluar, desarrollar y escalar rápidamente tratamientos potenciales.
+La Coalición para la Investigación Clínica de la COVID-19 se formó para coordinar y acelerar los resultados de los ensayos clínicos sobre los tratamientos posteriores a la infección más prometedores.
+A principios del 2020, una gran cantidad de compuestos antivíricos establecidos para el tratamiento de otras infecciones se estaban readaptando o desarrollando en nuevos proyectos de investigación clínica para tratar la COVID-19.
+En el caso de un fármaco ya aprobado (como la hidroxicloroquina para el paludismo), los ensayos en fase III y IV determinan en cientos o miles de personas infectadas por el virus de la COVID-19 la posibilidad de extender el uso de un fármaco ya aprobado y utilizarlo para el tratamiento de la infección por el virus de la COVID-19.
+A principios de abril de 2020, 103 posibles terapias estaban en desarrollo preclínico o en una etapa en fase I a IV. Se esperan los resultados de 29 fármacos de interés médico en abril.
+En marzo, la Organización Mundial de la Salud (OMS) lanzó el ensayo coordinado "Solidaridad" en 10 países para evaluar rápidamente en miles de personas infectadas por el virus de la COVID-19 la eficacia potencial de agentes antivíricos y antiinflamatorios que todavía no se evaluaron específicamente para la COVID-19.
+¿Alguno de los fármacos disminuye la mortalidad?
+¿Alguno de los fármacos disminuye el tiempo que un paciente está hospitalizado?
+¿Los tratamientos afectan la necesidad de que las personas con neumonía provocada por la COVID-19 utilicen respiradores o estén en cuidados intensivos?
+¿Dichos fármacos podrían utilizarse para minimizar la gravedad de la infección por el virus de la COVID-19 en el personal de atención de la salud y las personas con un alto riesgo de padecer una enfermedad seria? La inscripción de personas con una infección por el virus de la COVID-19 se simplifica utilizando entradas de datos, incluido el consentimiento informado, en un sitio web de la OMS.
+Después de que el personal determina qué fármacos están disponibles en el hospital, el sitio web de la OMS asigna aleatoriamente al sujeto hospitalizado a uno de los fármacos del ensayo o al tratamiento de referencia del hospital para la COVID-19.
+El médico del ensayo registra y presenta información de seguimiento sobre el estado y el tratamiento del sujeto y completa los datos mediante el sitio web del ensayo Solidaridad de la OMS.
+Una junta global de control de la seguridad de médicos de la OMS examina los resultados intermedios para ayudar con las decisiones sobre seguridad y efectividad de los fármacos del ensayo y modificar el diseño del ensayo o recomendar un tratamiento efectivo.
+En marzo, el INSERM (París, Francia) inició un estudio similar al ensayo Solidaridad basado en la web, llamado "Descubrimiento". Durante marzo, los fondos del ensayo Solidaridad alcanzaron los USD 108 millones, los cuales provinieron de 203 000 personas, organizaciones y gobiernos, con 45 países involucrados en el financiamiento o la administración del ensayo.
+En la siguiente tabla, no se incluye una gran cantidad de fármacos de interés médico en estudio como tratamientos de "apoyo" para aliviar las molestias durante la enfermedad, como los AINE o los broncodilatadores.
+También se excluyeron otros en ensayos en fase II iniciales o varios posibles tratamientos en ensayos en fase I.
+Los fármacos de interés médico en ensayos en fase I o II tienen una baja tasa de éxito (menos del 12 %) en cuanto a pasar todas las fases del ensayo y lograr la aprobación final.
+En los Estados Unidos, es más fácil conseguir hidroxicloroquina que cloroquina.
+Aunque varios países usan la cloroquina o la hidroxicloroquina para el tratamiento de personas hospitalizadas con COVID-19, a marzo de 2020, el fármaco no ha sido aprobado formalmente mediante ensayos clínicos en los Estados Unidos.
+La cloroquina ha sido recomendada por las autoridades sanitarias chinas, surcoreanas e italianas para el tratamiento de la COVID-19. Sin embargo, estas agencias y los CDC de los EE. UU. informaron contraindicaciones para personas con problemas cardíacos o diabetes.
+Ambos fármacos tienen interacciones con medicamentos recetados, lo que afecta la dosis terapéutica y la mitigación de la enfermedad.
+Algunas personas tienen reacciones alérgicas a estos fármacos. El 12 de abril, un ensayo clínico preliminar realizado en un hospital en Brasil fue detenido cuando varias personas a las que se habían administrados dosis altas de cloroquina para la infección por el virus de la COVID-19 tuvieron frecuencias cardíacas irregulares, lo que resultó en 11 fallecimientos.
+Ensayos clínicos chinos en Wuhan y Shenzhen afirmaron demostrar que el favipiravir era "claramente efectivo".
+{NS}
+En un estudio realizado en Wuhan en 240 pacientes con neumonía, la mitad recibió favipiravir, mientras que a la otra mitad se le administró umifenovir.
+El término "investigación preclínica" hace referencia a los estudios de laboratorio in vitro e in vivo, que son la etapa inicial del desarrollo de una vacuna, tratamiento antivírico o con anticuerpos monoclonales, como los experimentos para determinar las dosis efectivas y la toxicidad, antes de que se investigue la seguridad y eficacia de un compuesto de interés médico en humanos.
+Algunos antibióticos pueden readaptarse para el tratamiento de la COVID-19:
+En marzo de 2020, la proteasa principal del virus SARS-CoV-2 se identificó como diana de los fármacos administrados después de la infección.
+Esta enzima es esencial para que la célula anfitriona reproduzca el ácido ribonucleico del virus.
+A fin de encontrar la enzima, los científicos usaron el genoma publicado por los investigadores chinos en enero de 2020 para aislar la proteasa principal.
+Como un tratamiento combinado potencial, se usan juntos en dos grupos en fase III del proyecto global Solidaridad sobre la COVID-19 del 2020.
+Un estudio preliminar en China sobre la combinación de lopinavir y ritonavir no identificó ningún efecto en las personas hospitalizadas por COVID-19.
+No está claro si las afecciones que surgen durante el embarazo, como diabetes, insuficiencia cardíaca, coagulación excesiva e hipertensión, pueden ser factores de riesgo adicionales para las mujeres embarazadas como lo son para las que no lo están. Según se puede determinar a partir de los datos limitados disponibles, es probable que no se produzca la transmisión vertical durante el tercer trimestre, o que solo ocurra muy rara vez.
+Todavía no hay datos sobre los inicios del embarazo.
+Debido a la poca evidencia que existe, no se pueden realizar conclusiones sólidas sobre la naturaleza de la infección por el virus de la COVID-19 en el embarazo.
+Una serie de casos de 43 mujeres de Nueva York que dieron positivo en el virus de la COVID-19 mostró patrones similares al resto de las personas: el 86 % tuvo una enfermedad leve, el 9,3 % tuvo una enfermedad grave y el 4,7 % tuvo una enfermedad crítica.
+Se informó sufrimiento fetal en dos.
+Ninguna de las mujeres desarrolló neumonía grave por el virus de la COVID-19 ni murió.
+Todas dieron a luz hijos vivos y no se observó asfixia neonatal grave.
+Las muestras de leche materna, líquido amniótico, sangre umbilical e hisopado faríngeo de los recién nacidos se analizaron para detectar SARS-CoV-2 y todos los resultados fueron negativos. En otro estudio en 15 mujeres embarazadas, la mayoría de las pacientes presentaron fiebre y tos, mientras que los análisis de laboratorio detectaron linfocitopenia en 12 de ellas.
+Los resultados de las tomografías computarizadas de estas pacientes coincidieron con los informes previos de pacientes no embarazadas, ya que presentaron opacidades en vidrio esmerilado en la etapa inicial.
+Las imágenes de seguimiento después del parto mostraron que no había evolución de neumonía. Los informes de los medios indican que más de 100 mujeres con COVID-19 podrían haber dado a luz y, en marzo de 2020, no se denunciaron muertes maternas.
+En sus pautas, por lo tanto, recomiendan que toda mujer embarazada admitida en un hospital por una infección por el virus de la COVID-19 reciba al menos 10 días de heparina de bajo peso molecular como prevención después del alta del hospital.
+Todavía no hay datos sobre las implicaciones de las infecciones por COVID-19 en el parto.
+La hija recién nacida de una madre con COVID-19 tenía niveles elevados de IgM dos horas después del parto, lo que sugiere que había sido infectada en el útero y corrobora la posibilidad de la transmisión vertical en algunos casos.
+Un estudio pequeño en 6 madres con un diagnóstico de COVID-19 confirmado no mostró la presencia del SARS-COV-19 en la garganta de los recién nacidos, pero había anticuerpos en las muestras de suero sanguíneo de los niños, incluida la IgM en 2 de ellos.
+Usualmente, el virus no se transmite de la madre al feto, por lo que se debe investigar más para saber si atraviesa la placenta o si la placenta de las mujeres del estudio estaba dañada o era anormal.
+Como el virus de la COVID-19 tiene similitudes con el SARS-CoV y el MERS-CoV, es probable que su efecto en el embarazo sea similar.
+Cuatro de siete tuvieron un aborto espontáneo en el primer trimestre; dos de cinco presentaron restricción del crecimiento del feto, y cuatro de cinco tuvieron un parto prematuro.
+Ninguno de los recién nacidos fue infectado por el SARS-CoV.
+Un informe de diez casos de infección por MERS-CoV en el embarazo en Arabia Saudita demostró que la presentación clínica varía de una infección leve a grave.
+El resultado fue favorable en la mayoría de los casos, pero la tasa de mortalidad de lactantes fue del 27 %. Una revisión reciente sugirió que la COVID-19 parece ser menos letal para las madres y los bebés que el SROM y la SRAG, pero puede haber un aumento del riesgo de parto prematuro después de las 28 semanas de gestación.
+La Organización Mundial de la Salud y los Centros para el Control y la Prevención de Enfermedades de los Estados Unidos recomiendan a las mujeres embarazadas que hagan lo mismo que el público general para evitar la infección, como cubrirse al toser, evitar interactuar con personas enfermas, lavarse las manos con jabón y agua o desinfectante.
+Una encuesta realizada en Shanghái a mujeres en diferentes trimestres de embarazo identificó una gran demanda de acceso en línea a información y servicios de salud.
+Las personas que esperaban su primer hijo estaban más dispuestas a tener consultas y orientación en línea que aquellas que ya tenían un hijo. El RCOG y el RCM recomiendan que las citas presenciales se pospongan 7 días después del comienzo de los síntomas de la COVID-19 o 14 días si otra persona en la vivienda tiene síntomas.
+Posteriormente, tres pacientes asintomáticos tuvieron fiebre.
+Una paciente con un resultado negativo se volvió sintomática tras el parto y tuvo un resultado positivo tres días después de la prueba negativa inicial.
+Los médicos que dirigen los exámenes de detección recomendaron que, debido a la gran cantidad de pacientes asintomáticos y a fin de reducir la infección y asignar el EPP, se examine a todas las pacientes embarazadas.
+También sugieren que a las mujeres que se sepa o sospeche que tengan COVID-19 se les realicen monitoreos fetales electrónicos continuos.
+El uso de piletas para parto no se recomienda para los casos confirmados o presuntos de COVID-19 a causa del riesgo de infección mediante las heces.
+En el RU, las recomendaciones oficiales estipulan que la separación precautoria de una madre y un bebé sano no se debe tomar a la ligera y que se los debe mantener juntos después del parto si no se requiere atención neonatal. Las publicaciones de China recomiendan la separación de las madres infectadas de los bebés por un plazo de 14 días.
+En los EE. UU., también se recomienda la separación de los recién nacidos y las madres hasta que se suspendan las precauciones basadas en la trasmisión y que, cuando esto no sea posible, se mantenga al recién nacido a 2 metros de la madre.
+b'La vigilancia de la COVID-19 incluye controlar la propagación de la enfermedad por coronavirus a fin de establecer sus patrones de evolución.
+La Organización Mundial de la Salud (OMS) recomienda la vigilancia activa, centrada en la identificación de casos, las pruebas y el seguimiento de los contactos en todas las situaciones de transmisión.
+Se espera que la vigilancia de la COVID-19 monitoree las tendencias epidemiológicas, detecte rápidamente los casos nuevos y, con base en esta información, brinde información epidemiológica para evaluar el riesgo y guiar la preparación contra la enfermedad.
+La vigilancia de los síntomas toma como base los síntomas de una persona con COVID-19.
+En marzo de 2020, la OMS recomendó las siguientes definiciones de casos:
+Caso probable: "Un caso sospechoso cuya prueba del virus que causa la COVID-19 no es conclusiva" O "un caso sospecho al cual no se le pudo realizar la prueba por cualquier motivo".
+Caso confirmado: "Una persona con confirmación de laboratorio de infección por el virus de la COVID-19, independientemente de los signos y los síntomas clínicos".
+Contacto físico directo con un caso probable o confirmado;
+Atención directa de un paciente con un diagnóstico probable o confirmado de COVID-19 sin utilizar el equipo de protección personal adecuado;
+Otras situaciones según lo indiquen las evaluaciones de riesgo locales". La OMS recomienda informar los casos probables y confirmados de infección por el virus de la COVID-19 dentro de las 48 horas de la identificación.
+Los países deben informar cada caso siempre que sea posible, pero, si los recursos fueran limitados, también pueden realizar un informe semanal global.
+Algunas organizaciones han creado aplicaciones colaborativas para la vigilancia de síntomas, en las que las personas pueden informar sus síntomas para ayudar a los investigadores a identificar áreas con concentración de síntomas de la COVID-19.
+La vigilancia virológica se realiza con pruebas moleculares de la COVID-19.
+La OMS ha publicado recursos para los laboratorios sobre cómo realizar las pruebas de la COVID-19.
+En la Unión Europea, los casos de COVID-19 confirmados por el laboratorio se informan dentro de las 24 de la identificación.
+Al menos 24 países han establecido la vigilancia digital de sus ciudadanos.
+Las tecnologías de vigilancia digital incluyen aplicaciones, datos de ubicación y etiquetas electrónicas.
+Los Centros para el Control y la Prevención de Enfermedades de los EE. UU. rastrean la información de viaje de las personas usando los datos de los pasajeros de las aerolíneas.
+En Hong Kong, las autoridades exigen el uso de una pulsera y una aplicación a todos los viajeros.
+En Corea del Sur, se usa una aplicación GPS para rastrear la ubicación de las personas a fin de garantizar que no se rompa la cuarentena. La aplicación envía alertas al usuario y las autoridades si el usuario sale de las áreas designadas.
+En Singapur, las personas deben informar su ubicación con una prueba fotográfica.
+Tailandia exige el uso de una aplicación y tarjetas SIM a todos los viajeros a fin de hacer cumplir la cuarentena.
+Las organizaciones de derechos humanos han criticado algunas de estas medidas y piden a los Gobiernos que no usen la pandemia como pantalla para introducir la vigilancia digital invasiva.
+b'Los coronavirus son un grupo de virus relacionados que causan enfermedades en mamíferos y pájaros.
+En los humanos, los coronavirus causan infecciones de las vías respiratorias que pueden variar de leves a letales.
+Las enfermedades leves incluyen algunos casos de resfriado común (que tiene otras causas posibles, generalmente los rinovirus); mientras que las variedades más letales pueden causar SRAG, SROM y COVID-19.
+Los síntomas varían en otras especies: en los pollos, causan una enfermedad de las vías respiratorias superiores, pero en las vacas y los cerdos causan diarrea.
+Todavía no hay vacunas o fármacos antivíricos para prevenir o tratar las infecciones por coronavirus humano.
+Los coronavirus constituyen la subfamilia Orthocoronavirinae de la familia Coronaviridae del orden Nidovirales del reino Riboviria.
+Son virus envueltos con un genoma de ARN monocatenario de sentido positivo y una nucleocápside de simetría helicoidal.
+El tamaño del genoma de los coronavirus varía de aproximadamente 26 a 32 kilobases, uno de los más grandes entre los virus de ARN.
+Tienen espículas claviformes características que se proyectan desde la superficie, que, en las microimágenes de los microscopios electrónicos, crean una imagen que se asemeja a la corona solar de la cual deriva su nombre.
+Los coronavirus se descubrieron en la década de 1930, cuando se demostró que una infección respiratoria aguda de pollos domésticos era causada por el virus de la bronquitis infecciosa (VBI).
+En la década de 1940, se aislaron dos coronavirus animales más, el virus de la hepatitis murina (VHM) y el virus de la gastroenteritis transmisible (TGEV). Los coronavirus humanos se descubrieron en la década de 1960.
+Los primeros que se estudiaron fueron de pacientes humanos con un resfriado común, que posteriormente se llamaron coronavirus humano 229E y coronavirus humano OC43.
+La primera imagen la tomó la viróloga escocesa June Almeida en el Hospital Santo Tomás de Londres.
+Desde entonces, se han identificado otros coronavirus humanos, incluidos el SARS-CoV en el 2003, el HCoV NL63 en el 2004, el HKU1 en el 2005, el MERS-CoV en el 2012 y el SARS-CoV-2 en el 2019.
+La mayoría de estos causaron infecciones graves en las vías respiratorias.
+Al nombre lo usó por primera vez en 1968 un grupo informal de virólogos en la revista Nature para designar la nueva familia de virus.
+El nombre hace referencia a la apariencia característica de los viriones (la forma infecciosa del virus) cuando se los ve por un microscopio eléctrico. Allí se observa que tienen una franja de proyecciones largas y bulbosas en la superficie que crean una imagen similar a una corona real o corona solar.
+Esta morfología se debe a los peplómeros víricos, que son proteínas en la superficie del virus.
+Los coronavirus son partículas grandes, esféricas y polimorfas con proyecciones bulbosas en la superficie.
+La envoltura del virus, observada por un microscopio electrónico, se ve como un par claro de capas densas de electrones. La envoltura vírica consta de una bicapa lipídica donde se encuentran la membrana (M), la envoltura (E) y la espícula (S).
+La envoltura bicapa lipídica, las proteínas de la membrana y la nucleocápside protegen al virus cuando está fuera de la célula anfitriona.
+Los coronavirus contienen un genoma de ARN monocatenario de sentido positivo.
+El tamaño del genoma de los coronavirus varía de 26,4 a 31,7 kilobases.
+El tamaño del genoma es de los más grandes entre los virus de ARN.
+Los marcos de lectura abiertos 1a y 1b, que ocupan los primeros dos tercios del genoma, codifican la poliproteína replicasa-transcriptasa.
+La poliproteína replicasa-transcriptasa se escinde para formar proteínas no estructurales. Los últimos marcos de lectura codifican las cuatro proteínas estructurales principales: espícula, envoltura, membrana y nucleocápside.
+Entre estos marcos de lectura se encuentran los marcos de lectura de las proteínas auxiliares.
+La cantidad de proteínas auxiliares y su función es única y depende del coronavirus específico.
+La infección comienza cuando la glicoproteína de la espícula (S) vírica se une al receptor complementario de la célula anfitriona.
+Después de la unión, una proteasa de la célula anfitriona se escinde y activa la proteína de la espícula unida al receptor.
+Dependiendo de la proteasa disponible de la célula anfitriona, la segmentación y la activación permiten que el virus entre a la célula anfitriona mediante endocitosis o fusión directa de la envoltura vírica con la membrana de la célula anfitriona. Cuando entra a la célula anfitriona, la partícula vírica no tiene una cubierta y el genoma ingresa en el citoplasma de la célula.
+El ribosoma anfitrión traduce el marco de lectura abierto superpuesto inicial del genoma del virus y forma una poliproteína grande.
+La poliproteína tiene sus propias proteasas que escinden la poliproteína en varias proteínas no estructurales.
+Varias proteínas no estructurales se unen para formar un complejo de replicasa-transcriptasa (CRT) multiproteínico.
+La proteína replicasa-transcriptasa principal es la ARN polimerasa dirigida por ARN (RdRp).
+Está involucrado directamente en la replicación y la transcripción del ARN de un de cadena de ARN.
+Las otras proteínas no estructurales del complejo ayudan en el proceso de replicación y transcripción.
+La proteína no estructural exorribonucleasa, por ejemplo, brinda más fidelidad a la replicación proporcionando una función de corrección de errores que la ARN polimerasa dirigida por ARN no tiene. Una de las funciones principales del complejo es replicar el genoma vírico.
+La RdRp media directamente la síntesis del ARN genómico de sentido negativo a partir del ARN genómico de sentido positivo.
+A esto le sigue la replicación del ARN genómico de sentido positivo a partir del ARN genómico de sentido negativo.
+Otra función importante del complejo es transcribir el genoma vírico.
+La RdRp media directamente en la síntesis de las moléculas de ARN subgenómico de sentido negativos a partir del ARN genómico de sentido positivo.
+A esto le sigue la transcripción de estas moléculas de ARN subgenómico de sentido negativo a su ARNm de sentido positivo correspondiente.
+El ARN genómico de sentido positivo replicado se convierte en el genoma de los virus descendientes.
+Los ARNm son transcripciones genéticas del último tercio del genoma vírico después del marco de lectura superpuesto inicial.
+Estos ARNm son traducidos por los ribosomas del anfitrión en proteínas estructurales y varias proteínas auxiliares.
+La traducción del ARN ocurre dentro del retículo endoplásmico.
+Las proteínas estructurales víricas S, E y M se desplazan por la ruta secretora al compartimiento intermedio del aparato de Golgi.
+Allí, las proteínas M dirigen la mayoría de las interacciones entre las proteínas necesarias para ensamblar los virus después de la unión con la nucleocápside.
+Luego, se liberan virus descendientes mediante exocitosis a través de vesículas secretoras de las células anfitrionas.
+La interacción de la proteína de la espícula del coronavirus con el receptor de la célula anfitriona complementaria es central para determinar el tropismo tisular, la infecciosidad y la gama de especies del virus.
+El coronavirus del SRAG, por ejemplo, infecta las células humanas uniéndose a la enzima convertidora de la angiotensina I de tipo 2 (ECA2) receptora.
+El nombre científico del coronavirus es Orthocoronavirinae o Coronavirinae.
+Los coronavirus pertenecen a la familia Coronaviridae del orden Nidovirales del reino Riboviria.
+Género: Betacoronavirus; tipo de especie: coronavirus murino
+Especies: betacoronavirus 1 (coronavirus bovino, coronavirus humano OC43), coronavirus humano HKU1, coronavirus murino, coronavirus del murciélago Pipistrellus HKU5, coronavirus del murciélago Rousettus HKU9, coronavirus del síndrome respiratorio agudo grave (SARS-CoV, SARS-CoV-2), coronavirus del murciélago Tylonycteris HKU4, coronavirus del síndrome respiratorio agudo de Oriente Medio, coronavirus del erizo 1 (EriCoV)
+Especie: coronavirus de la ballena beluga SW1, virus de bronquitis infecciosa
+Se estima que el ancestro común más reciente (MRCA) de todos los coronavirus ya existía en el 8000 a. e. c., aunque algunos modelos colocan al ancestro común 55 millones de años antes o más, lo que implica la coevolución con las especies aviares y quirópteras.
+Al ancestro común más reciente de la línea del alfacoronavirus se lo ubica en el 2400 a. e. c.; al de la línea del betacoronavirus, en el 3300 a. e. c.; al de la línea del gammacoronavirus, en el 2800 a. e. c., y, al de la línea del deltacoronavirus, cerca del 3000 a. e. c.
+La gran cantidad de especies anfitrionas aviares y quirópteras, y su ubicación global, ha permitido la amplia evolución y diseminación de los coronavirus. Muchos coronavirus humanos se originaron en murciélagos.
+Más recientemente, el coronavirus de la alpaca y el coronavirus humano 229E se dividieron en algún momento antes de 1960.
+El MERS-CoV llegó a los humanos mediante los murciélagos con los camellos como anfitriones intermedios.
+El MERS-CoV, aunque está relacionado con varias especies de coronavirus de murciélagos, parece haberse separado de estos varios siglos atrás.
+El coronavirus de murciélagos y el SARS-CoV más estrechamente relacionados se separaron en 1986.
+Una ruta posible de evolución, del coronavirus del SRAG y los coronavirus de murciélagos, sugiere que los coronavirus relacionados con el SRAG coevolucionaron en los murciélagos durante mucho tiempo.
+En la década de 1790, el coronavirus equino se separó del coronavirus bovino después de un salto entre especies.
+Posteriormente, en la década de 1890, el coronavirus humano OC43 se separó del coronavirus bovino después de otro evento de salto interespecífico.
+Se especula que la pandemia de gripe de 1890 pudo haber sido causada por este evento de salto interespecífico y no por el virus de la influenza, debido a estos factores relacionados: el momento de aparición, los síntomas neurológicos y el agente causante desconocido de la pandemia.
+Se sospecha que el coronavirus humano OC43, además de causar infecciones respiratorias, también produce enfermedades neurológicas.
+En la década de 1950, el coronavirus humano OC43 comenzó a separarse en los genotipos actuales.
+En término filogénicos, el virus de la hepatitis murina (coronavirus murino), que infecta el hígado y el sistema nervioso central de los ratones, está relacionado con el coronavirus humano OC43 y el coronavirus bovino.
+El coronavirus humano HKU1, como los virus previamente mencionados, también tiene su origen en los roedores.
+Los coronavirus tienen una gran variación en cuento al factor de riesgo que representan.
+Algunos matan a más del 30 % de los infectados, como el MERS-CoV, y algunos son relativamente inocuos, como el resfriado común.
+Los coronavirus pueden causar resfriados con síntomas importantes, como fiebre y dolor de garganta por inflamación de las adenoides.
+Los coronavirus pueden causar neumonía (ya sea neumonía vírica directa o neumonía bacteriana secundaria) y bronquitis (ya sea bronquitis vírica directa o bronquitis bacteriana secundaria).
+El coronavirus humano descubierto en el 2003, SARS-CoV, que causa el síndrome respiratorio agudo grave (SRAG), tiene una patogenia única, porque produce infecciones en las vías respiratorias superiores e inferiores. Se conocen seis especies de coronavirus humanos, una de las cuales se subdivide en dos cepas diferentes, lo que da como resultado siete cepas de coronavirus humanos.
+Cuatro de estos coronavirus circulan continuamente en la población humana y suelen producir los síntomas leves del refriado común en adultos y niños en todo el mundo: OC43, HKU1, HCoV-229E y NL63.
+Los coronavirus causan aproximadamente el 15 % de los resfriados comunes.
+La mayoría de los resfriados son causados por el rinovirus.
+Los cuatro coronavirus leves tienen una incidencia estacional y aparecen en los meses de invierno en climas templados.
+No se presenta una preferencia por una estación en particular en los climas tropicales.
+Cuatro coronavirus humanos producen síntomas generalmente leves:
+El virus se denominó oficialmente coronavirus del SRAG (SARS-CoV).
+Más de 8000 personas fueron infectadas, el 10 % de las cuales murió.
+En septiembre de 2012, se identificó un nuevo tipo de coronavirus. Inicialmente, se lo llamó el nuevo coronavirus 2012 y ahora su nombre oficial es coronavirus del síndrome respiratorio de Oriente Medio (MERS-CoV).
+Poco después, la Organización Mundial de la Salud emitió una alerta global.
+En la actualización de la OMS del 28 de septiembre de 2012, se indicó que no parecía que el virus pasara de persona a persona con facilidad.
+Sin embargo, el 12 de mayo de 2013, el Ministerio de Asuntos Sociales y Salud de Francia confirmó un caso de trasmisión entre humanos en Francia.
+Además, el Ministerio de Salud informó casos de transmisión entre humanos en Túnez.
+Dos casos confirmados involucraban a personas que parecían haber contraído la enfermedad de su fallecido padre, quien se enfermó después de visitar Qatar y Arabia Saudita.
+A pesar de esto, parece que el virus tuvo problemas para propagarse de humano a humano, ya que la mayoría de las personas infectadas no transmitieron el virus.
+El nombre final del virus es coronavirus del síndrome respiratorio del Oeste Medio (MERS-CoV).
+Los únicos dos casos de los EE. UU. (ambos sobrevivieron) se registraron en mayo de 2014. En mayo de 2015, un brote del MERS-CoV se produjo en la República de Corea, cuando un hombre que había viajado al Oeste Medio fue a cuatro hospitales en el área de Seúl para tratar su enfermedad.
+Esto ocasionó uno de los brotes más grandes del MERS-CoV fuera del Oeste Medio.
+A diciembre del 2019, se han confirmado mediante pruebas de laboratorio 2468 casos de infección por MERS-CoV, 851 de los cuales fueron mortales, lo que representa una tasa de mortalidad de aproximadamente el 34,5 %.
+En diciembre de 2019, se informó un brote de neumonía en Wuhan, China.
+El 31 de diciembre de 2019, el brote se rastreó a una cepa nueva de coronavirus, que la Organización Mundial de la Salud (OMS) nombró temporalmente 2019-nCoV y que, después, el Comité Internacional de Taxonomía de Virus denominó SARS-CoV-2.
+Algunos investigadores sugieren que el mercado mayorista de mariscos y pescados de Huanan podría no ser la fuente original de la transmisión vírica a los humanos. Al 17 de abril de 2020, se han confirmado, al menos, 153 822 muertes y más de 2 240 191 casos en la pandemia de neumonía por el coronavirus.
+La cepa de Wuhan se ha identificado como una cepa nueva del coronavirus beta del grupo 2B con una similitud genética de aproximadamente el 70 % con el SARS-CoV.
+El virus tiene una similitud del 96 % con un coronavirus de murciélagos, por lo que se sospecha ampliamente que también proviene de los murciélagos.
+Por la pandemia, se han aplicado restricciones a los viajes y cierres nacionales en varios países.
+Los coronavirus han sido reconocidos como causantes de afecciones patológicas en veterinaria desde la década de 1930.
+A excepción de la bronquitis infecciosa aviar, las enfermedades más importantes relacionadas se dan principalmente en el intestino.
+Los coronavirus infectan en mayor medida las vías respiratorias superiores y el tubo gastrointestinal de los mamíferos y las aves.
+También causan una variedad de enfermedades en animales de granja y mascotas domesticadas, algunas de las cuales pueden ser graves y son una amenaza para la industria agropecuaria.
+En los pollos, el virus de la bronquitis infecciosa (VBI), un coronavirus, no solo tiene como diana las vías respiratorias, sino también el aparato urogenital.
+El virus se puede propagar a diferentes órganos en todo el pollo.
+Entre los coronavirus de relevancia económica que afectan a los animales de granja, se encuentran el coronavirus porcino (coronavirus de gastroenteritis transmisible, TGE) y el coronavirus bovino, ambos producen diarrea en las crías.
+Coronavirus felino: existen dos formas, el coronavirus intestinal felino es un patógeno de poca importancia clínica, pero la mutación espontánea de este virus puede causar peritonitis infecciosa felina (PIF), una enfermedad asociada con una alta mortalidad.
+De manera similar, hay dos tipos de coronavirus que infectan a los hurones: el coronavirus intestinal del hurón causa un síndrome gastrointestinal que se conoce como enteritis catarral epizoótica (ECE) y una versión sistémica más mortal del virus (como la PIF) conocida como coronavirus sistémico del hurón (FSC).
+Existen dos tipos de coronavirus canino (CCoV): uno que causa una enfermedad gastrointestinal leve y otro que causa una enfermedad respiratoria.
+El virus de la hepatitis murina (VHM) es un coronavirus que causa una enfermedad murina epidémica con una alta mortalidad, especialmente entre las colonias de ratones de laboratorio.
+El virus de la sialodacrioadentis (SDAV) es un coronavirus muy contagioso de las ratas de laboratorio, que puede transmitirse entre individuos por contacto directo o indirecto mediante los aerosoles.
+Algunas cepas del VHM causan una encefalitis desmielinizante progresiva en los ratones que se ha utilizado como un modelo murino de la esclerosis múltiple.
+Muchos esfuerzos se han dirigido a dilucidar la patogenia vírica de estos coronavirus animales, especialmente de virólogos interesados en veterinaria y zoonosis.
+Coronavirus porcino (coronavirus de gastroenteritis transmisible porcina, TGEV).
+Coronavirus bovino (BCV), causante de enteritis profusa grave en los terneros jóvenes.
+El coronavirus felino (FCoV) causa enteritis en los gatos, al igual que peritonitis infecciosa felina grave (otra variante del mismo virus).
+dos tipos de coronavirus canino (CCoV) (uno que causa enteritis y otro que se halla en enfermedades respiratorias).
+El coronavirus del pavo (TCV) causa enteritis en los pavos.
+El coronavirus intestinal del hurón causa enteritis catarral epizoótica en los hurones.
+El coronavirus sistémico del hurón causa un síndrome sistémico similar a la PIF en los hurones.
+El coronavirus intestinal del conejo causa una enfermedad gastrointestinal aguda y diarrea en los gazapos europeos.
+El virus de la diarrea epidémica porcina (PED o PEDV) surgió en todo el mundo.
