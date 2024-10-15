@@ -1,1 +1,7 @@
-# reranking-laws
+# Reranking Laws for Language Generation: A Communication-Theoretic Perspective
+
+Code for reproducing the results reported in our **NeurIPS 2024** paper [Reranking Laws for Language Generation: A Communication-Theoretic Perspective](https://arxiv.org/abs/2409.07131).
+
+_António Farinhas_, _Haau-Sing Li_, and _André F. T. Martins_.
+
+**Abstract**: _To ensure large language models (LLMs) are used safely, one must reduce their propensity to hallucinate or to generate unacceptable answers. A simple and often used strategy is to first let the LLM generate multiple hypotheses and then employ a reranker to choose the best one. In this paper, we draw a parallel between this strategy and the use of redundancy to decrease the error rate in noisy communication channels. We conceptualize the generator as a sender transmitting multiple descriptions of a message through parallel noisy channels. The receiver decodes the message by ranking the (potentially corrupted) descriptions and selecting the one found to be most reliable. We provide conditions under which this protocol is asymptotically error-free (i.e., yields an acceptable answer almost surely) even in scenarios where the reranker is imperfect (governed by Mallows or Zipf-Mandelbrot models) and the channel distributions are statistically dependent. We use our framework to obtain reranking laws which we validate empirically on two real-world tasks using LLMs: text-to-code generation with DeepSeek-Coder 7B and machine translation of medical data with TowerInstruct 13B._
